@@ -114,7 +114,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
 凤凰卫视中文台,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
-凤凰卫视资讯台,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+凤凰卫视资讯台,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 明珠台,http://r.jdshipin.com/ZQ4kN
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
@@ -124,7 +124,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 台视,P2p://generationnexxxt.com:19806/a986d221755d46a586fef7c251c2e127#P2p://generationnexxxt.com:19806/e7614bc8009c4ed59f877ca74cb5b4e9
 中视,P2p://generationnexxxt.com:19806/af8d9e82e9dd4ad7a182497d3c4b072e#P2p://generationnexxxt.com:19806/241d589f79fa4133937e2c41c381818e
 民视,P2p://generationnexxxt.com:19806/be5ac64c17cd43d799467933dd05dc17#P2p://generationnexxxt.com:19806/62f5d929a142443cbf2b2579fbeac121
-华视,rtmp://59.124.75.138/sat/tv111
+华视,http://38.60.38.190:2023/dl/1.php?id=44#rtmp://59.124.75.138/sat/tv111
 公视3台,P2p://generationnexxxt.com:19806/4564ee96c63341f4bd035d075cc19214
 大爱,P2p://generationnexxxt.com:19806/96320527beff4329857c65a537b8145f
 大爱2台,P2p://generationnexxxt.com:19806/b01e3bea60a04b7b9cc6962b110cb3ff
