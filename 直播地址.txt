@@ -164,7 +164,7 @@ TVBS新闻台,P2p://generationnexxxt.com:19806/bef5001eed024c6a93a88ae727d2ca88
 东森新闻台,P2p://generationnexxxt.com:19806/354021460d8f4b12824304af129ccc7c#P2p://generationnexxxt.com:19806/3c5d504038ea426da46b1c1fa5b25b74
 东森财经新闻台,P2p://generationnexxxt.com:19806/1608fc91d40f4f00826191170d3d61d0
 非凡新闻台,P2p://generationnexxxt.com:19806/2de23e73770e4a7c8ae4df17dc255ac5
-中天新闻台,P2p://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
+中天新闻台,http://38.60.38.190:2023/dl/1.php?id=24#P2p://generationnexxxt.com:19806/3185d804c6c544c9995cc7f72a06290c
 民视新闻台,P2p://generationnexxxt.com:19806/79b8da732c344a89989d3f8f9439226b
 三立新闻台,P2p://generationnexxxt.com:19806/bf438479106742a8ba2359b6125013cb
 卫视电影台,P2p://generationnexxxt.com:19806/641039bb0007b5b441363aeb76d5235c
