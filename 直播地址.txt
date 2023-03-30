@@ -108,7 +108,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 长沙影视,http://39.134.240.3/PLTV/2/224/3221226160/index.m3u8
 怀化新闻综合,http://183.215.102.57:8089/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
-靖州综合,www.digicert.com
+怀化公共频道,http://v2.91kds.cn/b9/hnhhtv.m3u8?id=hnhhtv2&app=com.kaixinhd.player&version=1.3.0&mac=00:db:ea:c5:59:d2&nwtime=1680143260&sign=9be3a78e5b3c7639a3578d272e31e97a&ev=20201011
+靖州综合,www.digicert.com1
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 钓鱼频道,#genre#
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
