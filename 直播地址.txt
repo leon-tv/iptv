@@ -109,7 +109,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 长沙影视,http://39.134.240.3/PLTV/2/224/3221226160/index.m3u8
 怀化新闻综合,http://183.215.102.57:8089/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
 怀化公共频道,http://lu1.cc/itv/huntv/hhxl.php?id=hhgg
-靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://tv.91kds.cc/api/get_status_kdshd.php?listtype=bq&jiagu=360&apkinstall=no&app=kdshd&netType=wifi&channel=umeng&ipv6Support=no&version=1.3.0&deviceId=00000000-2121-1c8f-ffff-ffffef05ac4a&mac=00:db:ea:c5:59:d2&isHaveFile=no&nettype=wifi&imei=&tm=1680323447&key=0b6f47005b02f2d317350e5348ea789c&desc=%E6%9C%AA%E7%9F%A5
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 钓鱼频道,#genre#
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
