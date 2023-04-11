@@ -122,7 +122,6 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://chuangye168.gnway.org:56994/g8dyou.php?id=xingkong_1500#http://suixiaobin.dsmynas.net:5666/gudou.php?phone=
 台湾,#genre#
-CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民视,mitv://generationnexxxt.com:19806/40c260a6af2241b2a42f80dc9b8e17f7
 人间卫视,mitv://generationnexxxt.com:19806/366b657578a7468fa7a93dff507aaa59
 台视,mitv://generationnexxxt.com:19806/d5d9055ddc8d49d3ad02089b2852d81a
@@ -184,6 +183,7 @@ CINEMAX,mitv://generationnexxxt.com:19806/08a43979a30c4d638895a6d4a5098e5d
 ELEVEN体育1台,mitv://generationnexxxt.com:19806/c098b9305dcb49fa9fa3042f977c7ad7
 JET综合台,mitv://generationnexxxt.com:19806/d4d21dd1897942949b51dc54ee30bee4
 国兴卫视,mitv://generationnexxxt.com:19806/661c9a80da4e4677be285da9dbf80bea
+CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 STAR World,mitv://generationnexxxt.com:19806/93989038d93244e69b0b016ae40f3d57
 Z频道,mitv://generationnexxxt.com:19806/41d8f2ded4a14c019e1a06adfcb7259c
 Animax,mitv://generationnexxxt.com:19806/8e83059fe3fa4ecea3444042e2be0b33
