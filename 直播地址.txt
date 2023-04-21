@@ -317,7 +317,6 @@ Star Movies Gold,mitv://generationnexxxt.com:19806/2281eaef1daa4536bc7d3feba5078
 Taiwan+,mitv://generationnexxxt.com:19806/a6fe65aa9b664c099ede9276cdc529fb
 东森购物2台,mitv://generationnexxxt.com:19806/1effc2d910ea49d6a2bd932332aa8a27
 东森购物1台,mitv://generationnexxxt.com:19806/17b319ed556b44198264e5bc0f2a1251
-
 咪咕体育赛事直播,#genre#
 咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 咪咕体育2,http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
