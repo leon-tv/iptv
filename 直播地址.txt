@@ -120,16 +120,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 明珠台,http://r.jdshipin.com/ZQ4kN
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
-星空卫视,http://live.cooltv.top/tv/good.php?id=xingkong_1500
-星空卫视 ,http://120.84.96.23:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.28:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.73:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
-星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
-星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
-星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4
 人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
