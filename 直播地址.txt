@@ -120,106 +120,115 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 明珠台,http://r.jdshipin.com/ZQ4kN
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.82:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.89:808/hls/79/index.m3u8
+星空卫视,http://live.cooltv.top/tv/good.php?id=xingkong_1500
+星空卫视 ,http://120.84.96.23:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.28:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.73:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.108:808/hls/79/index.m3u8
+星空卫视,http://120.84.96.113:808/hls/79/index.m3u8
+星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8
+星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8
 台湾,#genre#
-民视,mitv://generationnexxxt.com:19806/02fbf34c8d984b6084ad6742c209a777
-人间卫视,mitv://generationnexxxt.com:19806/1ddbfd9c6035472bbf737bddf537c89a
-台视,mitv://generationnexxxt.com:19806/e5decc9f322e4bbf8a5d171156c945aa
-大爱,mitv://generationnexxxt.com:19806/05c671e458794f32a6b53a5b8939f980
-中视,mitv://generationnexxxt.com:19806/5c35ed1b82a74ba7ae9271b113161c35
-霹雳台湾台,mitv://generationnexxxt.com:19806/9e1aa7d76e4e41eeb56045ca692ef4cf
-华视,mitv://generationnexxxt.com:19806/a8838f6d142a453494d5bfc33be7182f
-公视,mitv://generationnexxxt.com:19806/42573894c9b344558388cc78fb66c177
-好消息,mitv://generationnexxxt.com:19806/196bc8f96fd54a3387fc9ef0f387dde4
-原住民电视台,mitv://generationnexxxt.com:19806/849fc1b219eb4bac9306927cde06415f
-客家电视台,mitv://generationnexxxt.com:19806/e6d1e648d1ce489c97b228ebc262f3f0
-国家地理频道,mitv://generationnexxxt.com:19806/1ae151445e6f4b88987df6b71d5a4022
-探索频道,mitv://generationnexxxt.com:19806/8848b75c671541a3916fbd6eb5bf5a1d
-TLC旅游生活,mitv://generationnexxxt.com:19806/7f39e2162dbd4207b73baba980e5e618
-动物星球,mitv://generationnexxxt.com:19806/787b9c5a20e74944be6d1c86190b6c68
-CN卡通频道,mitv://generationnexxxt.com:19806/3fb20f4be98143b4a35ea5eda2ee340c
-MOMO亲子台,mitv://generationnexxxt.com:19806/0e46c8954cf241d2a132c53fa1128c81
-东森幼幼台,mitv://generationnexxxt.com:19806/35074664c39343159ad270e53543d952
-纬来综合台,mitv://generationnexxxt.com:19806/3d11d5eb3ed04425b674a499f0de9dfb
-八大第一台,mitv://generationnexxxt.com:19806/a1c8ea31859a4b018614bab5f6663055
-八大综合台,mitv://generationnexxxt.com:19806/fb2cbb406dcf4c36924498c1479ba04a
-三立台湾台,mitv://generationnexxxt.com:19806/1b6c31894c8a49528dba4971a98e2ed2
-三立都会台,mitv://generationnexxxt.com:19806/f59137a97563458b81cc58332676cb0a
-东森综合台,mitv://generationnexxxt.com:19806/8b8afac44cd34a1da69621af093f70ce
-超视,mitv://generationnexxxt.com:19806/93b97bb11ba44f509a19c7c5633cae0c
-中天综合台,mitv://generationnexxxt.com:19806/0aaf1da939c04a3688a4b7dd271deee2
-中天娱乐台,mitv://generationnexxxt.com:19806/173f318a49424351b9df8dae5543ea64
-东森戏剧台,mitv://generationnexxxt.com:19806/529fefa328b6496b9f65443274f46e6d
-八大戏剧台,mitv://generationnexxxt.com:19806/414af1818f2e4ea0abddaf7720bb49bc
-TVBS欢乐台,mitv://generationnexxxt.com:19806/8626d906a5b045c397c8ea0de77a93d7
-纬来戏剧台,mitv://generationnexxxt.com:19806/657185805bf74c1f94ac86c1e7968534
-高点综合台,mitv://generationnexxxt.com:19806/40b684559a7744398e8193eadad5a095
+民视,mitv://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4
+人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
+台视,mitv://generationnexxxt.com:19806/f626fb605d794173a2ed2319abc23788
+大爱,mitv://generationnexxxt.com:19806/f7a978e8d6d843d7a9bdd457d5d6910c
+中视,mitv://generationnexxxt.com:19806/f1f4f77c21e2470e9c29111c9370bf08
+霹雳台湾台,mitv://generationnexxxt.com:19806/80c8f58fc21942e3ad01345739d3094f
+华视,mitv://generationnexxxt.com:19806/4ce3296b98794b2ca8e1f040657e327b
+公视,mitv://generationnexxxt.com:19806/882cb7ba11384ac2874452400d6d0020
+好消息,mitv://generationnexxxt.com:19806/597bec9089c341b3a0ae964e7dc3d3a1
+原住民电视台,mitv://generationnexxxt.com:19806/9d6324a6b7b142f082270bb4c6cc4e6a
+客家电视台,mitv://generationnexxxt.com:19806/4e013b4f51924d289c248b45b4d74f58
+国家地理频道,mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
+探索频道,mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
+TLC旅游生活,mitv://generationnexxxt.com:19806/bc6c20458c4c422b9297dbfd25f12f67
+动物星球,mitv://generationnexxxt.com:19806/14fd9d119d4b4f0391652fa16930fbe2
+CN卡通频道,mitv://generationnexxxt.com:19806/0891ccf81d4847cab000f12aaa0d2fea
+MOMO亲子台,mitv://generationnexxxt.com:19806/cd5c09ed9dc34356b601ad133b69268d
+东森幼幼台,mitv://generationnexxxt.com:19806/23305327c764422e9747ab09a6edee43
+纬来综合台,mitv://generationnexxxt.com:19806/981e6dbbc3e34265817d09731e3db241
+八大第一台,mitv://generationnexxxt.com:19806/1217464bff6c46d180ff30cb4cff310f
+八大综合台,mitv://generationnexxxt.com:19806/7f8ed6b6d4234d93ac0b4b6b506ee360
+三立台湾台,mitv://generationnexxxt.com:19806/2ce32382905140d0b309d9ac853c2c0a
+三立都会台,mitv://generationnexxxt.com:19806/f9f1b6bc8bd943f09b7a17bc481294da
+东森综合台,mitv://generationnexxxt.com:19806/88fe82e39e1b409294c51f5b346de0e1
+超视,mitv://generationnexxxt.com:19806/a1a5f1b22da74d458bf6cfff8c190c6f
+中天综合台,mitv://generationnexxxt.com:19806/59eea32b3a2d49019c32b066bbbb92d0
+中天娱乐台,mitv://generationnexxxt.com:19806/97163a966a4a49ac888dbd606b965cf4
+东森戏剧台,mitv://generationnexxxt.com:19806/d447dc4d5ddf4417941b271bf5da4263
+八大戏剧台,mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9
+TVBS欢乐台,mitv://generationnexxxt.com:19806/a821cda61eec4693bceec6cb79d88a34
+纬来戏剧台,mitv://generationnexxxt.com:19806/65109e8fc60e4ebab7a61706f46093b0
+高点综合台,mitv://generationnexxxt.com:19806/d05d3a06c9ec4c4fb9bdb0f9e09127bf
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 Al Jazeera English,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 Bloomberg TV,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
 HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
-壹电视新闻台,mitv://generationnexxxt.com:19806/abb3fe99d43a4296bd3229d573ca6ead
-年代新闻,mitv://generationnexxxt.com:19806/6bf8e356334d456ca346f7019e40dca4
-东森新闻台,mitv://generationnexxxt.com:19806/76ce5186ce254ef387c46fd690ece058
-中天新闻台,mitv://generationnexxxt.com:19806/f4fe002e5cc24f159ff8dc9d8db9ef33
-民视新闻台,mitv://generationnexxxt.com:19806/c5a00efe3f9f42baa144dae41aa2bc08
-三立新闻台,mitv://generationnexxxt.com:19806/b49d0e6e622a4caa9b860020af7721b5
-TVBS新闻台,mitv://generationnexxxt.com:19806/7a5456aca1f84d208f9b1ab1a614b537
-TVBS,mitv://generationnexxxt.com:19806/ffc03d3db4c74e529ceaa98f3ab0fc60
-东森财经新闻台,mitv://generationnexxxt.com:19806/047f7ae760314e17b49ab08c456c5839
-非凡新闻台,mitv://generationnexxxt.com:19806/8a8c504160aa474cbe35394bcf2e3bca
-卫视电影台,mitv://generationnexxxt.com:19806/1b720a1e3c7e458381f14101fb49c06c
-东森电影台,mitv://generationnexxxt.com:19806/c1b03ee00033482fa2d2b554420e1f09
-纬来电影台,mitv://generationnexxxt.com:19806/be6879822e1e4c3c95775778b4312dc1
-龙祥电影,mitv://generationnexxxt.com:19806/17f099aac66b4eb29aff794a07b83cf6
-HBO,mitv://generationnexxxt.com:19806/466310caef6e4cc6bf271f220ab53a5c
-东森洋片台,mitv://generationnexxxt.com:19806/0501a69ad9754779a7cbe132387f3a88
-AXN,mitv://generationnexxxt.com:19806/426b8f2102a04888aeeafa89c555e835
-好莱坞电影台,mitv://generationnexxxt.com:19806/001c221a906c43ca88d1c317665f7395
-CINEMAX,mitv://generationnexxxt.com:19806/06498f700b1b436fb434222043ee79fe
-纬来育乐台,mitv://generationnexxxt.com:19806/ab995f82656b4231a03150abe4732762
-纬来体育台,mitv://generationnexxxt.com:19806/58f3f9d1af84455f9cfe42ff41d2af0c
-ELEVEN体育1台,mitv://generationnexxxt.com:19806/6bf06553dc9942d389fbdee89bb3670a
-JET综合台,mitv://generationnexxxt.com:19806/272d49327e3d4e1f8bffcc964b05cbba
-国兴卫视,mitv://generationnexxxt.com:19806/748b4f24e07940bcadc7601d7899ac6e
-STAR World,mitv://generationnexxxt.com:19806/767fe76813fb43b8b75528d83f3690f8
-Z频道,mitv://generationnexxxt.com:19806/8cb28d7e5e4742598e1112db8856d91d
-Animax,mitv://generationnexxxt.com:19806/59b9b3d654a245fa9566195360af1d8a
-尼克儿童频道,mitv://generationnexxxt.com:19806/54d7b1acb10a4202b0741a8bccc4ef07
-MTV,mitv://generationnexxxt.com:19806/0e5b06f3c89642b69764bffabfc9d023
-八大娱乐台,mitv://generationnexxxt.com:19806/c25f7288e5754fffa452e98e698e12c5
-三立iNEWS,mitv://generationnexxxt.com:19806/f8495062cdf3436c91b0e43ac29af12b
+壹电视新闻台,mitv://generationnexxxt.com:19806/7e044c3949604e4387063e9924b1eea4
+年代新闻,mitv://generationnexxxt.com:19806/c1ae01ebfb874789956a7d6753b14c4c
+东森新闻台,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+中天新闻台,mitv://generationnexxxt.com:19806/dbb6973962204567b4719e3746a957e1
+民视新闻台,mitv://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d
+三立新闻台,mitv://generationnexxxt.com:19806/d0e6a89f1b7d42ae96f75f679e8da0f3
+TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
+TVBS,mitv://generationnexxxt.com:19806/7410b94b7d2045839bc4c2b269f4fb9e
+东森财经新闻台,mitv://generationnexxxt.com:19806/d4722320436f46d79f866e57b261ac79
+非凡新闻台,mitv://generationnexxxt.com:19806/b0b56f5fa2894372a0573751d819e46a
+卫视电影台,mitv://generationnexxxt.com:19806/e6614f107c924a868360f724bf10f9d8
+东森电影台,mitv://generationnexxxt.com:19806/c4890d819ae5497db49b4f13a019e128
+纬来电影台,mitv://generationnexxxt.com:19806/ae654eeece794e40b003597793cf810a
+龙祥电影,mitv://generationnexxxt.com:19806/8c618f8e0e5d48dabd91d6b889237a02
+HBO,mitv://generationnexxxt.com:19806/dc01bf43a9fd4c0594f0a73ee31ab4a5
+东森洋片台,mitv://generationnexxxt.com:19806/cbe8fad92b7e4497bce416a75eae4708
+AXN,mitv://generationnexxxt.com:19806/928f8533e609499cabbd6968526b392a
+好莱坞电影台,mitv://generationnexxxt.com:19806/86c7f4066b9c49f3808094bd356b8b33
+CINEMAX,mitv://generationnexxxt.com:19806/1d1c586a05ef4c13b029464c6d4644a1
+纬来育乐台,mitv://generationnexxxt.com:19806/dd458fff62614481a7e9d65da897af75
+纬来体育台,mitv://generationnexxxt.com:19806/801a9a12c10d4d04953332771aee0dba
+ELEVEN体育1台,mitv://generationnexxxt.com:19806/61a3473768ec4860bf9c5cc9911f71d6
+JET综合台,mitv://generationnexxxt.com:19806/4b790bc46760452b8dd811bf9389ff73
+国兴卫视,mitv://generationnexxxt.com:19806/0df4df3690d44f589ec56f0864e16a4d
+STAR World,mitv://generationnexxxt.com:19806/77334a5315e84cf2b964beae14b6cdbc
+Z频道,mitv://generationnexxxt.com:19806/2a5836bb5cae422b95e2a523e488bb24
+Animax,mitv://generationnexxxt.com:19806/09993190594140d3a87996691fdea68c
+尼克儿童频道,mitv://generationnexxxt.com:19806/73d77b0470724ad4a8dadc3854881cda
+MTV,mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
+八大娱乐台,mitv://generationnexxxt.com:19806/58f45dfdc5c8449d94b4341a63fe9031
+三立iNEWS,mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137
 龙华偶像,mitv://generationnexxxt.com:19806/aaea3687d69243cbb3de3086f95392e7
 Arirang,mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
 tvN,mitv://generationnexxxt.com:19806/0a5ae3fce9314efba3240158ae4bc485
 DW,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
-非凡商业台,mitv://generationnexxxt.com:19806/88af1db46eb34958af445abfe21f33ef
-公视3台,mitv://generationnexxxt.com:19806/afa1942ab9444eb589dd07412020f76c
-大爱2台,mitv://generationnexxxt.com:19806/9e9d8ade43c247f898a4cccf26b57c34
-ELTV生活英语台,mitv://generationnexxxt.com:19806/8c57c68569fe44bd8401dca537199fa4
-靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/1294b51182d84dda9bacd48fddf52062
-靖天卡通台,mitv://generationnexxxt.com:19806/8181198594354c9e86166ff36724a5b9
-达文西频道,mitv://generationnexxxt.com:19806/bda442e8bc1c40fe963fa1acdb4b2a70
-Nick Jr.,mitv://generationnexxxt.com:19806/67be9f2418bf4f4b815bd472cdcf9fd8
-国会频道1,mitv://generationnexxxt.com:19806/828b1fbd42d841a8b3fbdc7c371912f1
-国会频道2,mitv://generationnexxxt.com:19806/76cd4ca90c5b4198aeb2e7e6bfdfd4bf
-MTV Live,mitv://generationnexxxt.com:19806/4ccddb35ce0d4e2cb35bf2f3b3412fb3
-Mezzo Live,mitv://generationnexxxt.com:19806/d4546551e1864ee2bd769045fda7a297
-CLASSICA 古典乐,mitv://generationnexxxt.com:19806/83e31f2ab4234f3eb4a4c4ed1f0a0c20
-CMusic,mitv://generationnexxxt.com:19806/a79fa3d9d7194d16911ec94485901528
-爱尔达体育1台(备),mitv://generationnexxxt.com:19806/1f6a86fd988d46ddaac6cc8c3c064dcf
-爱尔达体育2台,mitv://generationnexxxt.com:19806/cbbd958cdde84831bf9a6701e6998885
-TRACE Sport Stars,mitv://generationnexxxt.com:19806/55df5f8dbb244c40bd8c11d9b2b6c196
-博斯高球,mitv://generationnexxxt.com:19806/8fdab235f8fd454e85ebd4ace63c7457
+非凡商业台,mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
+公视3台,mitv://generationnexxxt.com:19806/6dc465cb9b4c44df837c3c1c7254b0cb
+大爱2台,mitv://generationnexxxt.com:19806/9025759caff14553998dd713a0f66001
+ELTV生活英语台,mitv://generationnexxxt.com:19806/264eb6cb34c5497a99312ce73883a073
+靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/9c0a957495a044c78942d4d7adb54662
+靖天卡通台,mitv://generationnexxxt.com:19806/31373da9de144c1fbe1f505bcaa978aa
+达文西频道,mitv://generationnexxxt.com:19806/beaf5c1a3d7b44e1b4a99bcc20cd8ed7
+Nick Jr.,mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1
+国会频道1,mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c
+国会频道2,mitv://generationnexxxt.com:19806/3f4b0cb786764e0c942390995ed9ed44
+MTV Live,mitv://generationnexxxt.com:19806/539d5f96e36c413e90b0513db50aebfa
+Mezzo Live,mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
+CLASSICA 古典乐,mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
+CMusic,mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
+爱尔达体育1台(备),mitv://generationnexxxt.com:19806/7ee39f66b9f448979335e4067812760f
+爱尔达体育2台,mitv://generationnexxxt.com:19806/d833228c98a04547a6005f206d71117d
+TRACE Sport Stars,mitv://generationnexxxt.com:19806/e52cafc2a2864446ba65c2b1e787ef52
+博斯高球,mitv://generationnexxxt.com:19806/a6c1103f5d4541fe87a2fe2617bf5b90
 博斯高球二台,mitv://generationnexxxt.com:19806/9ad2e789a1f24414b5ba3bce8225638f
 博斯网球台,mitv://generationnexxxt.com:19806/eabbb39b2df84ec7b180dd07d003e801
 博斯魅力网,mitv://generationnexxxt.com:19806/79e1743aa91c4a3f9b356d3e623aaa1e
 博斯无限台,mitv://generationnexxxt.com:19806/388b178d61794d16a7f53bbea14a1d82
 博斯无限二台,mitv://generationnexxxt.com:19806/c72f3545e44c43ada003f77cb4fbfcad
 博斯运动,mitv://generationnexxxt.com:19806/69f6752a9d7b43d4b82c649b645a6028
-ELEVEN体育2台,mitv://generationnexxxt.com:19806/2ef0a9c700a64558a4e2d5c61fa2701f
+ELEVEN体育2台,mitv://generationnexxxt.com:19806/e3aeaea58e574957a3ce60d7e2d1081d
 智林体育台,mitv://generationnexxxt.com:19806/8aec43ce170d42ee8168f04aad54ba6d
 博斯运动二台,mitv://generationnexxxt.com:19806/13330f2946b14921ac4ba04f38403f80
 OUTDOOR,mitv://generationnexxxt.com:19806/2f3dd1dbfd0247238860ea5d958e5ebe
@@ -289,34 +298,34 @@ CinemaWorld,mitv://generationnexxxt.com:19806/51cabd19f61f4d0797a9950573c68c33
 采昌影剧台,mitv://generationnexxxt.com:19806/31c35d1e653f48a6a1ef0ae3afc21216
 佛卫慈悲台,mitv://generationnexxxt.com:19806/14c26fc0ab914b06a33cf526929395cb
 TV5Monde,mitv://generationnexxxt.com:19806/2734d86c3cba4b42b372f394138fe160
-Cbeebies,mitv://generationnexxxt.com:19806/3809124a14e041559a457e2df2bbdb3d
+Cbeebies,mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71
 EYE TV戏剧台,mitv://generationnexxxt.com:19806/d95a1bbfe35f4b9ba69f50ce0d2e4618
 台视新闻台,mitv://generationnexxxt.com:19806/ef8ee9e7a5f54528b1016a192376681e
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/59ab239599c743bfa26d6291a6c07356
+寰宇新闻台湾台,mitv://generationnexxxt.com:19806/9fb791a3f94e4716b62136ce3babc027
 台视财经台,mitv://generationnexxxt.com:19806/ec9247281c984a6e980b1d0b1db98002
-纬来日本,mitv://generationnexxxt.com:19806/bb71826adec74324bdc34841f378aa05
+纬来日本,mitv://generationnexxxt.com:19806/83bd0d8db4124c15ad8f88828c6b344b
 爱尔达影剧台,mitv://generationnexxxt.com:19806/3ead6bd41aaa4df2be79322afa7a3841
 ROCK Entertainment,mitv://generationnexxxt.com:19806/351101be2d9747ba94612c4b93c3bebd
-民视(备),mitv://generationnexxxt.com:19806/0d37afa73ab14dd796a6279938fca62c
-三立台湾台(备),mitv://generationnexxxt.com:19806/f90a56451fae47de9d5ca37b52780f30
-Dreamworks,mitv://generationnexxxt.com:19806/1e7da7b9d4d348d291f10b74e6225fe4
+民视(备),mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
+三立台湾台(备),mitv://generationnexxxt.com:19806/f2040a67eec34cb4a65705be966c7f01
+Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 TV5MONDE Style 生活时尚,mitv://generationnexxxt.com:19806/50a3974dcf7e431c91e8f212d708cd0f
 Travel Channel,mitv://generationnexxxt.com:19806/15369bd05a294d3087377848d53a0a98
 影迷数位电影台,mitv://generationnexxxt.com:19806/ff075ec54a154e2bb7d95b92c89dff59
-卫视中文台,mitv://generationnexxxt.com:19806/152c6b1bd498441a962a1a3ef5cb82ab
-爱尔达体育1台,mitv://generationnexxxt.com:19806/f94513b159124098b45469fa0b492511
-Star Movies Gold,mitv://generationnexxxt.com:19806/2281eaef1daa4536bc7d3feba5078327
-爱尔达体育3台,mitv://generationnexxxt.com:19806/15c761413fd041d5b4ae0df475b0c83b
-台视(备),mitv://generationnexxxt.com:19806/16b6b27fef2f41549c1fa61b03c4ab93
-大爱(备),mitv://generationnexxxt.com:19806/efbbe2d76c384d10bc359537d6740313
-中视(备),mitv://generationnexxxt.com:19806/5326aef17f1f442096ed29f9b119cde0
-华视(备),mitv://generationnexxxt.com:19806/d9c13f1be96b4c8a8edf560e1150f4b4
-公视(备),mitv://generationnexxxt.com:19806/698842c43bf346458875e2ec2d5cd3ee
-东森新闻台(备),mitv://generationnexxxt.com:19806/410306060a3a40e0a0b4563848f64c3c
+卫视中文台,mitv://generationnexxxt.com:19806/9d38f569252d4317834d6c9a9ae03a32
+爱尔达体育1台,mitv://generationnexxxt.com:19806/694aae01164f482eae2be66c1255171c
+Star Movies Gold,mitv://generationnexxxt.com:19806/67b71795aa8042728556240d531e7a31
+爱尔达体育3台,mitv://generationnexxxt.com:19806/bed0a4b629d149bc90aee0522c633b43
+台视(备),mitv://generationnexxxt.com:19806/f7826ceb93174d1f95c677cb053290d8
+大爱(备),mitv://generationnexxxt.com:19806/210ccc7869454699884184ab4c6c477d
+中视(备),mitv://generationnexxxt.com:19806/4c53fced68824bc1b4e35dbd375e532a
+华视(备),mitv://generationnexxxt.com:19806/8a4bfdfe9e844addb903a90141d2fad5
+公视(备),mitv://generationnexxxt.com:19806/04efa7fef50b40afa265050107d00bd8
+东森新闻台(备),mitv://generationnexxxt.com:19806/d55a0683cbe84a1fb910d10c5e26db2b
 镜新闻,mitv://generationnexxxt.com:19806/3cada11582784405b35fe1d3bed65c7d
 Taiwan+,mitv://generationnexxxt.com:19806/a6fe65aa9b664c099ede9276cdc529fb
-东森购物2台,mitv://generationnexxxt.com:19806/1effc2d910ea49d6a2bd932332aa8a27
-东森购物1台,mitv://generationnexxxt.com:19806/17b319ed556b44198264e5bc0f2a1251
+东森购物2台,mitv://generationnexxxt.com:19806/44be4ceee59e4f5fb65ec5c2aa672e35
+东森购物1台,mitv://generationnexxxt.com:19806/cc3ef976a9114c769714c313df7f1faf
 咪咕体育赛事直播,#genre#
 咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 咪咕体育2,http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
