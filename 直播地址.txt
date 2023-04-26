@@ -114,13 +114,13 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#https://playtv-live.ifeng.com/live/06OLEGEGM4G.flv
-凤凰卫视资讯台,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.flv
+凤凰卫视中文台,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://playtimeshift-live.ifeng.com/timeshift/live/06OLEGEGM4G/timeshift.m3u8?txKbps=702&delay=2487
+凤凰卫视资讯台,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://playtimeshift-live.ifeng.com/timeshift/live/06OLEEWQKN4/timeshift.m3u8?txKbps=702&delay=967
 翡翠台,http://r.jdshipin.com/qClQf
 明珠台,http://r.jdshipin.com/ZQ4kN
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-星空卫视,http://120.84.96.82:808/hls/79/index.m3u8#mitv://generationnexxxt.com:19806/940e43349642479a843d8b9bc53c47d3
+星空卫视,http://120.84.96.87:808/hls/79/index.m3u8
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/02fbf34c8d984b6084ad6742c209a777
 人间卫视,mitv://generationnexxxt.com:19806/1ddbfd9c6035472bbf737bddf537c89a
@@ -154,7 +154,6 @@ MOMO亲子台,mitv://generationnexxxt.com:19806/0e46c8954cf241d2a132c53fa1128c81
 TVBS欢乐台,mitv://generationnexxxt.com:19806/8626d906a5b045c397c8ea0de77a93d7
 纬来戏剧台,mitv://generationnexxxt.com:19806/657185805bf74c1f94ac86c1e7968534
 高点综合台,mitv://generationnexxxt.com:19806/40b684559a7744398e8193eadad5a095
-CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1
 Al Jazeera English,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b
 CNBC,mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
@@ -227,13 +226,14 @@ OUTDOOR,mitv://generationnexxxt.com:19806/2f3dd1dbfd0247238860ea5d958e5ebe
 HBO强档巨献,mitv://generationnexxxt.com:19806/c3f10bb71ea74bb68c9390b3cc7c50c0
 HBO原创巨献,mitv://generationnexxxt.com:19806/69492ac4bba34a11a8de21792a376baf
 国家地理高画质野生频道,mitv://generationnexxxt.com:19806/3b9bf42549604a2ab036b392b5108cf7
+CNN,mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 BBC Earth,mitv://generationnexxxt.com:19806/3c2c6ac179f448f5ae5d9cc8abc5efb4
 Discovery Asia,mitv://generationnexxxt.com:19806/63ec7853effa4011a77569913c8fe5e7
 Discovery科学频道,mitv://generationnexxxt.com:19806/7157f2127328417daedb7083ac5e7ea2
 DMAX,mitv://generationnexxxt.com:19806/40a2d5922fb24a5f96900536dc212cbf
 EVE,mitv://generationnexxxt.com:19806/cb003e49d5224ce09856f1c1770c32e5
 滚动力rollor,mitv://generationnexxxt.com:19806/7d325479411f41c49a945e80c7bdaf97
-历史频道,mitv://generationnexxxt.com:19806/de642a93cfae4af18c8e47af38c796ce
+历史频道,mitv://generationnexxxt.com:19806/64401a2b0005f4f6fc3b04224ca13025
 罪案侦缉频道,mitv://generationnexxxt.com:19806/86f73b65769a48bbaf9bd83fd430df8a
 BBC Lifestyle,mitv://generationnexxxt.com:19806/f030035e810744eebe54fb9a30b6497b
 LUXE TV,mitv://generationnexxxt.com:19806/63c2fe237e75428eaaea2ae9fd1750ab
