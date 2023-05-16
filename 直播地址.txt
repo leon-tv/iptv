@@ -116,10 +116,11 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 港澳,#genre#
 凤凰卫视中文台,http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://124.236.64.52/playtv-live.ifeng.com/live/06OLEGEGM4G.flv
 凤凰卫视资讯台,http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
-翡翠台,http://r.jdshipin.com/qClQf
-翡翠台,http://r.jdshipin.com/qrfbg
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台,http://r.jdshipin.com/n90gt明珠台,http://r.jdshipin.com/ZQ4kN
+TVB翡翠台,http://154.216.191.59/ycdz/x.php?id=5#http://r.jdshipin.com/qClQf#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7#http://r.jdshipin.com/n90gt
+TVBJ2台,http://154.216.191.59/ycdz/x.php?id=8#http://r.jdshipin.com/ZQ4kN
+TVB明珠台,http://154.216.191.59/ycdz/x.php?id=9
+TVB无线新闻台,http://154.216.191.59/ycdz/x.php?id=6
+TVB财经体育资讯台,http://154.216.191.59/ycdz/x.php?id=7
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8#http://113.117.74.24:8081/hls/87/index.m3u8
