@@ -119,7 +119,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 凤凰卫视资讯台,http://113.117.74.10:8081/hls/36/index.m3u8#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://124.236.64.52/playtv-live.ifeng.com/live/06OLEEWQKN4.flv
 凤凰卫视香港台,http://113.117.74.10:8081/hls/38/index.m3u8
 TVB翡翠台,http://113.117.74.10:8081/hls/67/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
-TVB明珠台,http://live.cooltv.top/tv/good.php?id=1351_4500#https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8#http://113.117.74.10:8081/hls/26/index.m3u8#http://r.jdshipin.com/ZQ4kN
+TVB明珠台,https://pull-l3-cny.douyincdn.com/live/YesLiveTV-466bc050-ee67-4156-b009-1599a952cfed.m3u8#http://113.117.74.10:8081/hls/26/index.m3u8#http://r.jdshipin.com/ZQ4kN
 TVB星河台,http://113.117.74.10:8081/hls/135/index.m3u8
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
