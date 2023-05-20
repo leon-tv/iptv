@@ -125,7 +125,7 @@ TVB星河台,http://113.117.74.10:8081/hls/135/index.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 星空卫视,http://113.117.74.22:8081/hls/87/index.m3u8#http://113.117.74.24:8081/hls/87/index.m3u8
 台湾,#genre#
-民视,mitv://generationnexxxt.com:19806/d0c5de227ca34210a2a3222c76e80fd4
+民视,mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
 人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
 台视,mitv://generationnexxxt.com:19806/6458c4430009f8ea5c9386c26efc600e
 大爱,mitv://generationnexxxt.com:19806/f7a978e8d6d843d7a9bdd457d5d6910c
@@ -165,7 +165,7 @@ HITS,mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 壹电视新闻台,mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
 年代新闻,mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
 东森新闻台,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
-中天新闻台,mitv://generationnexxxt.com:19806/6448e5a6000f399c1e95e7f44ef6793c
+中天新闻台,mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
 民视新闻台,mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
 三立新闻台,mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
 TVBS新闻台,mitv://generationnexxxt.com:19806/beaa6cbcf1034703a97d3295f8c0ae60
@@ -300,7 +300,6 @@ EYE TV戏剧台,mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00742d7
 纬来日本,mitv://generationnexxxt.com:19806/83bd0d8db4124c15ad8f88828c6b344b
 爱尔达影剧台,mitv://generationnexxxt.com:19806/6458c4bf000bb65f5c956b8f6ab30530
 ROCK Entertainment,mitv://generationnexxxt.com:19806/ef256b49ee4c4b83ad97da453803dde6
-民视(备),mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
 三立台湾台(备),mitv://generationnexxxt.com:19806/f2040a67eec34cb4a65705be966c7f01
 Dreamworks,mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 TV5MONDE Style 生活时尚,mitv://generationnexxxt.com:19806/d7524c09437e4caf95c37c75d34f5550
