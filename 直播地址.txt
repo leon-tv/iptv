@@ -127,7 +127,7 @@ TVB星河台,http://113.117.74.24:8081/hls/135/index.m3u8
 VIUTV,http://r.jdshipin.com/vSJvl
 莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
-星空卫视,http://113.117.74.11:8081/hls/87/index.m3u8#http://113.117.74.24:8081/hls/87/index.m3u8#http://103.112.191.9:880/LAOSAT1016.m3u8
+星空卫视,http://113.117.74.24:8081/hls/87/index.m3u8#http://113.117.74.20:8081/hls/87/index.m3u8#http://103.112.191.9:880/LAOSAT1016.m3u8
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
 人间卫视,mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
