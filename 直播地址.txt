@@ -119,7 +119,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 凤凰卫视资讯台,http://113.117.74.24:8081/hls/36/index.m3u8#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://r.jdshipin.com/0Rp07
 凤凰卫视香港台,http://113.117.74.24:8081/hls/38/index.m3u8
 TVB翡翠台,http://113.117.74.24:8081/hls/67/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
-TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.10:8081/hls/26/index.m3u8
+TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.24:8081/hls/26/index.m3u8
 TVBJ2,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
 TVB无线新闻台,http://r.jdshipin.com/CkuBd
 TVB无线财体育·资讯台,http://r.jdshipin.com/jUx8K
