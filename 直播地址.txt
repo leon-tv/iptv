@@ -115,9 +115,9 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://113.117.74.29:8081/hls/37/index.m3u8#http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#http://r.jdshipin.com/cCCzW
-凤凰卫视资讯台,http://113.117.74.29:8081/hls/36/index.m3u8#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#http://r.jdshipin.com/0Rp07
-凤凰卫视香港台,http://113.117.74.29:8081/hls/38/index.m3u8
+凤凰卫视中文台,http://113.117.74.29:8081/hls/37/index.m3u8#http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8#https://17186.eu.org/php/phtv/fhzw.flv
+凤凰卫视资讯台,http://113.117.74.29:8081/hls/36/index.m3u8#http://61.221.81.93:8078/hls/20/80/phoenixif.m3u8#https://17186.eu.org/php/phtv/fhzx.flv
+凤凰卫视香港台,http://113.117.74.29:8081/hls/38/index.m3u8#https://17186.eu.org/php/phtv/fhhk.flv
 TVB翡翠台,http://113.117.74.29:8081/hls/67/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.29:8081/hls/26/index.m3u8
 TVBJ2,http://r.jdshipin.com/Nr5jq#http://r.jdshipin.com/ndGgS
