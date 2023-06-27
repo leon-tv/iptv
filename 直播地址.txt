@@ -132,9 +132,9 @@ ViuTVsix,mitv://generationnexxxt.com:19806/c4c1c3b894794541baf86612a8c8ce33
 港台电视32,mitv://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7
 HOY TV,mitv://generationnexxxt.com:19806/e77cb31fe80747d298ef0d2d9c919f07
 HOY资讯台,mitv://generationnexxxt.com:19806/70b4e795ea654fb5bad399c2268c2fed
-now新闻台,mitv://generationnexxxt.com:19806/64916be800065a6939e27f9c6e3d2501
-莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh#mitv://generationnexxxt.com:19806/c387d27336de4557b3dbe76999c5d9e5
-澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya#mitv://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2
+莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh#mitv://generationnexxxt.com:19806/bba45ad672ed40a9b433330c4839cfe2
+澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
+澳门MACAU,mitv://generationnexxxt.com:19806/c387d27336de4557b3dbe76999c5d9e5
 香港卫视,mitv://generationnexxxt.com:19806/6479664a0001a160dc0c795d69a0053f
 香港国际财经台,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
 香港卫视综艺台,mitv://generationnexxxt.com:19806/647b15a20006f2c4e2a1739d20244068
