@@ -138,7 +138,7 @@ HOY资讯台,mitv://generationnexxxt.com:19806/70b4e795ea654fb5bad399c2268c2fed
 香港卫视,mitv://generationnexxxt.com:19806/6479664a0001a160dc0c795d69a0053f
 香港国际财经台,mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
 香港卫视综艺台,mitv://generationnexxxt.com:19806/647b15a20006f2c4e2a1739d20244068
-星空卫视,http://113.117.74.29:8081/hls/87/index.m3u8#http://103.112.191.9:880/LAOSAT1016.m3u8#mitv://generationnexxxt.com:19806/ea86987738b4465482e6f2a122a6b3f8
+星空卫视,http://113.117.74.29:8081/hls/87/index.m3u8#http://120.84.96.157:808/hls/79/index.m3u8#http://103.112.191.9:880/LAOSAT1016.m3u8#mitv://generationnexxxt.com:19806/ea86987738b4465482e6f2a122a6b3f8
 阳光卫视,mitv://generationnexxxt.com:19806/2248ad425a574167b4c28e6378071e2e
 台湾,#genre#
 民视,mitv://generationnexxxt.com:19806/07b465de830f4fb7a7e9b3f826401578
