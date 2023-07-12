@@ -155,7 +155,7 @@ CNN,mitv://generationnexxxt.com:19806/1b1d8846c6a24bd5bef1f0264abffe34
 客家电视台,mitv://generationnexxxt.com:19806/c49beff021634f5db231e29267cf5efc
 国家地理频道,mitv://generationnexxxt.com:19806/96272bf904214d9a8150a62b3f6a754d
 探索频道,mitv://generationnexxxt.com:19806/4d1079714b494768bc1bca24b04bcace
-大爱二台,http://xztv.vicp.ml/zz//861502122.php?id=33
+大爱二台,http://xztv.vicp.ml/zz/qq群/861502122.php?id=33
 大爱一台,http://xztv.vicp.ml/zz//861502122.php?id=34
 中视HD,http://xztv.vicp.ml/zz//861502122.php?id=35
 公视,http://xztv.vicp.ml/zz//861502122.php?id=36
