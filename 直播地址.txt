@@ -135,7 +135,7 @@ HOY资讯台,mitv://generationnexxxt.com:19806/f3f79071c8fc40d8a35ba578261b4d94
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳门MACAU,mitv://generationnexxxt.com:19806/b9bf290e9b3e456bbbd6f924f7ccef06
-香港卫视,mitv://generationnexxxt.com:19806/6940aebf39b84863a4daf43ecf1d3eda
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视综艺台,mitv://generationnexxxt.com:19806/7a644345e39b478693a5bca519618f69
 香港国际财经台,mitv://generationnexxxt.com:19806/700462465c544d7582ec0404a010efa3
 星空卫视,http://113.117.74.18:8081/hls/87/index.m3u8#http://120.84.96.157:808/hls/79/index.m3u8#http://103.112.191.9:880/LAOSAT1016.m3u8
