@@ -132,7 +132,7 @@ ViuTV,mitv://generationnexxxt.com:19806/cfb7d83c154b454bba0c1f214cde330d
 港台电视32,mitv://generationnexxxt.com:19806/fdbfd1c0a80e4867b77e70456a561952
 HOY TV,mitv://generationnexxxt.com:19806/6aac5cc8212145459a641e2509f775d3
 HOY资讯台,mitv://generationnexxxt.com:19806/f3f79071c8fc40d8a35ba578261b4d94
-莲花卫视,http://107.151.203.111:2209/135/hk.php?id=amlh
+莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
 澳亚卫视,http://107.151.203.111:2209/135/hk.php?id=aoya
 澳门MACAU,mitv://generationnexxxt.com:19806/b9bf290e9b3e456bbbd6f924f7ccef06
 香港卫视,mitv://generationnexxxt.com:19806/6940aebf39b84863a4daf43ecf1d3eda
