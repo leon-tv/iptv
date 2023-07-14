@@ -125,7 +125,7 @@ TVBJ2,mitv://generationnexxxt.com:19806/5b257c5e65d4419487e1f0c54c6ec746
 TVB无线新闻台,mitv://generationnexxxt.com:19806/24105a60697d4c998fb96b61e67f2977#mitv://generationnexxxt.com:19806/772991e0331745c9b8a5033cca5aaff7
 TVB无线财体育·资讯台,mitv://generationnexxxt.com:19806/34c9ffe1a80e42c299a524ca0366db14
 TVB娱乐新闻台,mitv://generationnexxxt.com:19806/848a03e76f384291ad44aea2428a493b
-TVB星河台,http://113.117.74.18:8081/hls/135/index.m3u8#p2p://104.149.140.125:19906/641021e900026b0f985e6a374d7d56bb
+TVB星河台,http://113.117.74.18:8081/hls/135/index.m3u8
 ViuTVsix,mitv://generationnexxxt.com:19806/59d2e5d09a124881af8bca46c7c1df72
 ViuTV,mitv://generationnexxxt.com:19806/cfb7d83c154b454bba0c1f214cde330d
 港台電視31,mitv://generationnexxxt.com:19806/084f54bb1c5d43718c728a8e6f76b564
