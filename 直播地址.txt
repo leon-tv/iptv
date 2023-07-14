@@ -117,7 +117,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 港澳,#genre#
 凤凰卫视中文台,http://113.117.74.18:8081/hls/37/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://120.84.96.150:808/hls/29/index.m3u8
 凤凰卫视资讯台,http://113.117.74.18:8081/hls/36/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8#http://120.84.96.150:808/hls/28/index.m3u8
-凤凰卫视香港台,http://113.117.74.18:8081/hls/38/index.m3u8
+凤凰卫视香港台,http://113.117.74.18:8081/hls/38/index.m3u8#http://120.84.96.150:808/hls/81/index.m3u8
 凤凰卫视电影台,mitv://generationnexxxt.com:19806/72a44d19036448d48019b2c495171010
 TVB翡翠台,http://113.117.74.18:8081/hls/67/index.m3u8#http://120.84.96.150:808/hls/25/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.18:8081/hls/26/index.m3u8#http://120.84.96.150:808/hls/26/index.m3u8
