@@ -118,7 +118,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 凤凰卫视中文台,http://113.117.74.176:8081/hls/37/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8#http://162.19.247.76:22222/live/fenghuangweishi/index.m3u8
 凤凰卫视资讯台,http://113.117.74.176:8081/hls/36/index.m3u8#http://yuniptvunql.chinayungu.cn:65530/live/fhzx/index.m3u8#http://162.19.247.76:22222/live/fenghuangzhixun/index.m3u8
 凤凰卫视香港台,http://113.117.74.176:8081/hls/38/index.m3u8#http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8
-凤凰卫视电影台,mitv://generationnexxxt.com:19806/eba2c91eb6c54e51b78036d9412a355c
+凤凰卫视电影台,mitv://generationnexxxt.com:19806/615c4957580a449bb6a9a679cf0d35ea
 TVB翡翠台,http://113.117.74.176:8081/hls/67/index.m3u8#http://120.84.96.150:808/hls/25/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.176:8081/hls/26/index.m3u8#http://120.84.96.150:808/hls/26/index.m3u8
 TVBJ2,mitv://generationnexxxt.com:19806/fd76c6fe901545c5b39543824e25c80b
