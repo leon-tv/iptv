@@ -123,7 +123,7 @@ TVB翡翠台,http://113.117.74.23:8081/hls/67/index.m3u8#http://120.84.96.150:80
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.23:8081/hls/26/index.m3u8#http://120.84.96.150:808/hls/26/index.m3u8
 TVBJ2,P2p://generationnexxxt.com:19806/83317d6eb99b446d95e359d676f16f36
 TVB无线新闻台,P2p://generationnexxxt.com:19806/358bb32c3a944c65bbdf4d0aac3c3e10#P2p://generationnexxxt.com:19806/7c5dd5c227254e398d53ca1f86859340
-TVB无线财体育·资讯台P2p://generationnexxxt.com:19806/dca078faa0094424b00018fec18ef970
+TVB无线财体育·资讯台,P2p://generationnexxxt.com:19806/dca078faa0094424b00018fec18ef970
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/86fe6741d7da4c59919680e5d9857450
 TVB星河台,http://113.117.74.23:8081/hls/135/index.m3u8
 ViuTV,P2p://generationnexxxt.com:19806/e6f715d7d15f4aa2bd3c9257aa7b95e3
