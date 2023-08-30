@@ -310,6 +310,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/a70928ae9f804b39a75838815c95f0f
 MTV,P2p://generationnexxxt.com:19806/a9bcedc7e41c4eacb83008786065a85d
 东森购物1台,P2p://generationnexxxt.com:19806/d6f1c9e84eb24e358ec5772b617f3837
 东森购物2台,P2p://generationnexxxt.com:19806/66a69171ec124d1bb1ba9ece9640217f
+咪咕体育赛事直播,#genre#
 咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 咪咕体育2,http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
 咪咕体育3,http://39.134.66.2/PLTV/88888888/224/3221225611/index.m3u8
