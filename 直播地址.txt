@@ -121,7 +121,7 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 TVB翡翠台,http://113.117.74.23:8081/hls/67/index.m3u8#http://120.84.96.150:808/hls/25/index.m3u8#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7
 TVB明珠台,http://r.jdshipin.com/ZQ4kN#http://113.117.74.23:8081/hls/26/index.m3u8#http://120.84.96.150:808/hls/26/index.m3u8
 TVBJ2,http://r.jdshipin.com/Nr5jq
-TVB星河台,http://113.117.74.23:8081/hls/135/index.m3u8
+TVB星河台,http://113.117.74.23:8081/hls/135/index.m3u8#http://r.jdshipin.com/sXuuD
 莲花卫视,http://anren.live/HK/BiIOU11uLA.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
