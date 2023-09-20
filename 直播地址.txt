@@ -74,6 +74,7 @@ CETV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 兵器科技,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 高尔夫网球,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+五星体育,http://111.40.196.33:443/PLTV/88888888/224/3221225503/1.m3u8
 央视文化精品,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 哒啵电竞,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226951/index.m3u8
 哒啵赛事,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226954/index.m3u8
@@ -85,6 +86,10 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 哈哈炫动,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
+求索科学,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
+求索动物,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
+求索生活,http://39.134.65.208/PLTV/88888888/224/3221225715/index.m3u8
 纪实科教,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226232/index.m3u8
 纪实人文,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
 法治天地,http://gslbserv.itv.cmvideo.cn/1.m3u8?channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
