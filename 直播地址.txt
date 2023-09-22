@@ -135,7 +135,7 @@ TVB星河台,http://113.117.74.23:8081/hls/135/index.m3u8#http://r.jdshipin.com/
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 台湾,#genre#
-台视,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#http://162.19.247.76:22222/live/taishi/index.m3u8
+台视,http://162.19.247.76:22222/live/taishi/index.m3u8
 民视,https://fsv4.yj011.net/sat/tv051.flv
 华视,http://162.19.247.76:22222/live/huashi/index.m3u8
 中视,http://162.19.247.76:22222/live/zhongshi/index.m3u8
