@@ -137,6 +137,7 @@ RTHK31,https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/stream5/str
 RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+台湾,#genre#
 TVBS欢乐台,mitv://generationnexxxt.com:19806/c74ff419879d4f1d9ee2903e786f1efa
 TVBS精采台,mitv://generationnexxxt.com:19806/b9520269faab4caa8caa030d81f9f22e
 TVBS新闻台,mitv://generationnexxxt.com:19806/5791bca9be3148bc81c4b623781d3852
