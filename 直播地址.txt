@@ -146,122 +146,46 @@ TVB星河台,http://113.117.74.204:8081/hls/135/index.m3u8#http://171.108.239.62
 星空卫视,http://171.108.239.62:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 台湾,#genre#
-民视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ftvhd_taiwan
-台视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ttv_taiwan
-华视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctshd_twn
-中视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=zhongshihd_twn
-公视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctv_taiwan
-TVBS,http://ceshi.huanqiuzhibo.cn/tcva.php?id=tvbs
-TVBS新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17564#http://ceshi.huanqiuzhibo.cn/tcva.php?id=tvbs_n
-民视新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24959#http://ceshi.huanqiuzhibo.cn/tcva.php?id=ftvnew_taiwan
-东森新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17565#http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvnews
-寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960#http://ceshi.huanqiuzhibo.cn/tcva.php?id=huanyuxinwen_twn
-台视新闻,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ttvnews_twn
-中视新闻,http://ceshi.huanqiuzhibo.cn/tcva.php?id=zhongshinews_twn
-中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296#http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctinews
-三立台湾,https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8#https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-三立live,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17563
-年代新闻,http://ceshi.huanqiuzhibo.cn/tcva.php?id=niandainews_twn
-非凡新闻,http://ceshi.huanqiuzhibo.cn/tcva.php?id=feifannews_twn
-壹新闻,http://ceshi.huanqiuzhibo.cn/tcva.php?id=yinews
-龙祥时代,http://ceshi.huanqiuzhibo.cn/tcva.php?id=lungxiangtime_twn
-星卫电影,http://ceshi.huanqiuzhibo.cn/tcva.php?id=xingwei_movie
-美亚电影,http://ceshi.huanqiuzhibo.cn/tcva.php?id=meiyamovie_twn
-纬来电影,http://ceshi.huanqiuzhibo.cn/tcva.php?id=videolandmovie
-好莱坞电影,http://ceshi.huanqiuzhibo.cn/tcva.php?id=hollywoodmovies_twn
-东森电影,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvmovie
-东森洋片,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvwestern
-天映频道,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Celestial
-天映经典,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Celestial2
-Thrill,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Thrill
-BOO恐怖,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Boo
-TVN Movie185,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Tvnmovie
-HBO,http://ceshi.huanqiuzhibo.cn/tcva.php?id=hbohd_twn
-HBO HITS,http://ceshi.huanqiuzhibo.cn/tcva.php?id=hbohits_twn
-HBO HITS,http://ceshi.huanqiuzhibo.cn/tcva.php?id=hbohead_twn
-HBO 家庭,http://ceshi.huanqiuzhibo.cn/tcva.php?id=fyi_twn
-HBO 原创,http://ceshi.huanqiuzhibo.cn/tcva.php?id=hbosignature_twn
-AXN,http://ceshi.huanqiuzhibo.cn/tcva.php?id=axn_twn
-CINEMAX,http://ceshi.huanqiuzhibo.cn/tcva.php?id=cinemax_twn
-TVBS欢乐,http://ceshi.huanqiuzhibo.cn/tcva.php?id=tvbshuanle_twn#http://ceshi.huanqiuzhibo.cn/tcva.php?id=tvbsgbk_twn
-民视第一,http://ceshi.huanqiuzhibo.cn/tcva.php?id=lunghuajingdian_twn
-民视台湾,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ftvtaiwan_twn
-美食星球,http://ceshi.huanqiuzhibo.cn/tcva.php?id=foodplanet_twn
-纬来日本,http://ceshi.huanqiuzhibo.cn/tcva.php?id=videolandjapan
-纬来体育,http://ceshi.huanqiuzhibo.cn/tcva.php?id=videolandsport#http://cloud.yumixiu768.com/tmp/123.m3u8
-爱尔达综合,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltazonghe
-爱尔达影剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltayingju_twn
-爱尔达体育Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltasport_twn
-爱尔达体育Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltasport1_twn
-爱尔达体育Ⅱ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltasport2_twn
-爱尔达体育Ⅲ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltasport3_twn
-东森超视,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvsuper
-东森财经,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvcaijing_twn
-东森综合,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvzhonghe
-东森戏剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ettvdrama
-八大第一,http://ceshi.huanqiuzhibo.cn/tcva.php?id=badafirst
-八大综合,http://ceshi.huanqiuzhibo.cn/tcva.php?id=badazhonghe
-八大戏剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=badadrama
-中视经典,http://ceshi.huanqiuzhibo.cn/tcva.php?id=zhongshi_twn
-中天综合,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctizhonghe
-中天娱乐,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctient
-中天亚洲,http://ceshi.huanqiuzhibo.cn/tcva.php?id=ctiasia_twn
-三立都会,http://ceshi.huanqiuzhibo.cn/tcva.php?id=sanlidouhui_twn
-三立综合,http://ceshi.huanqiuzhibo.cn/tcva.php?id=sanlizhonghe
-三立戏剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=sanlixiju_twn
-三立台湾,http://ceshi.huanqiuzhibo.cn/tcva.php?id=sanlitaiwan
-龙华洋片,http://ceshi.huanqiuzhibo.cn/tcva.php?id=lunghuawestern_twn
-龙华戏剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=lunghuaxiju_twn
-龙华偶像,http://ceshi.huanqiuzhibo.cn/tcva.php?id=lunghuaidol_twn
-靖天国际,http://ceshi.huanqiuzhibo.cn/tcva.php?id=jingtianintl_twn
-靖天卡通,http://ceshi.huanqiuzhibo.cn/tcva.php?id=jingtiancartoon_twn
-EYE TV旅游,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eyetvtravel_twn
-EYE TV戏剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eyetvxiju_twn
-ELTA影剧,http://ceshi.huanqiuzhibo.cn/tcva.php?id=eltadrama_twn
-CN卡通频道,http://ceshi.huanqiuzhibo.cn/tcva.php?id=momo1_twn
-Astor华丽翡翠,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Wlt
-Astor爱奇艺,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Qiyi
-Astor全佳,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Quanjia
-Astro 欢喜,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Huahee
-Astro Ria,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Ria
-Astro Awani,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Awani
-Astro Ceria,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Ceria
-Astro Oasis,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Oasis
-Astro Arena,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Arena
-Sony one,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Warna
-Sony,http://ceshi.huanqiuzhibo.cn/tcva.php?id=SetOne
-Sony ONE185,http://ceshi.huanqiuzhibo.cn/tcva.php?id=One
-博斯高球Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bosigolf1_twn
-博斯高球Ⅱ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bosigolf2_twn
-博斯运动Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bosisport1_twn
-博斯运动Ⅱ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bosisport2_twn
-博斯网球,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bositennis_twn
-Astro SPORT Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Assp1
-Astro SPORT Ⅱ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Assp2
-Astro SPORT Ⅲ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Assp3
-Astro SPORT Ⅳ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Assp4
-Astro SPORT Ⅰ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=assp1_twn
-Astro SPORT Ⅱ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=assp2_twn
-Astro SPORT Ⅲ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=assp3_twn
-Astro SPORT Ⅳ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=assp4_twn
-ELEVENⅠ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=golfchannel_twn
-ELEVENⅠ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bs181_japan
-ELEVENⅡ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=luxetv_twn
-ELEVENⅡ,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bsfuji_japan
-WWE摔角,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Wwe
-TLC,http://ceshi.huanqiuzhibo.cn/tcva.php?id=tlc_twn
-TLC,http://ceshi.huanqiuzhibo.cn/tcva.php?id=Tlc
-CNN,http://ceshi.huanqiuzhibo.cn/tcva.php?id=cnn_twn
-BBC Earth,http://ceshi.huanqiuzhibo.cn/tcva.php?id=bbcearth_twn
-时尚频道,http://ceshi.huanqiuzhibo.cn/tcva.php?id=fashiontv_twn
-卫视中文,http://ceshi.huanqiuzhibo.cn/tcva.php?id=weishichinese_twn
-亚洲旅游,http://ceshi.huanqiuzhibo.cn/tcva.php?id=asiatravel_twn
-亚洲美食,http://ceshi.huanqiuzhibo.cn/tcva.php?id=afc_twn
-新加坡CNA,http://ceshi.huanqiuzhibo.cn/tcva.php?id=cna
-阿里郎 Arirang,http://ceshi.huanqiuzhibo.cn/tcva.php?id=arirang_twn
-好消息2,http://ceshi.huanqiuzhibo.cn/tcva.php?id=good2_twn
-大爱,http://ceshi.huanqiuzhibo.cn/tcva.php?id=daai_twn
+民視,mitv://135.148.104.228:19806/935809b7311d490392cc408f76a885dd
+台視,mitv://135.148.104.228:19806/ca94cf81f5184e1ba38c417df53083e9
+中視,mitv://135.148.104.228:19806/46c5103da0be4fdf8c80e33c58e9065b
+華視,mitv://135.148.104.228:19806/16217ed00ce348c28ff6378f0562f69f
+公視,mitv://135.148.104.228:19806/f2f582cb073b4d9da89f016994dc7aa7
+壹電視新聞台,mitv://135.148.104.228:19806/e099d9d2e11144bca5f54ab05e2a61f6
+年代新聞,mitv://135.148.104.228:19806/f1f22b55b3ee484e92cb9c4a1f8108d0
+東森新聞台,mitv://135.148.104.228:19806/c486dc0047df4754b7ec787a31d9606c
+中天新聞台,mitv://135.148.104.228:19806/38b072212e0c4bc0bb223f0ff69f53ea
+民視新聞台,mitv://135.148.104.228:19806/26b8a83d633f4118a5aab7b84bbe4b4b
+三立新聞台,mitv://135.148.104.228:19806/03f994cee3394939a2a89da78bf3ea16
+TVBS新聞台,mitv://135.148.104.228:19806/50c8e12ad3074c0da084608b952d9162
+TVBS,mitv://135.148.104.228:19806/3b6d4c58350b42eb83e733dcdd5a1917
+東森財經新聞台,mitv://135.148.104.228:19806/63b4d992b3e54e32853dd041731e70cb
+非凡新聞台,mitv://135.148.104.228:19806/019f4256632b4c7d88a59111c5ce59dc
+衛視電影台,mitv://135.148.104.228:19806/e4ef1bfd6b81426795d89025e902611c
+東森電影台,mitv://135.148.104.228:19806/e22cf7e2590e469c98a36af4d430dd0d
+緯來電影台,mitv://135.148.104.228:19806/5f1461c049754222ba75f8e46b7be2bb
+龍祥電影,mitv://135.148.104.228:19806/49242efdae444b7687fbf2775bd66ce5
+HBO,mitv://135.148.104.228:19806/94f53aeb87614480883b5cd03690d6c2
+東森洋片台,mitv://135.148.104.228:19806/eefb39405d7742239028bc2cbb169840
+AXN,mitv://135.148.104.228:19806/f36c3de820774cdcb36eb420e664e62b
+好萊塢電影台,mitv://135.148.104.228:19806/ec8126f7c43f4462948b66018b98c9b7
+CINEMAX,mitv://135.148.104.228:19806/c5053b418c434ba780f1512588b419df
+HBO強檔巨獻,mitv://135.148.104.228:19806/e07464982744437a83c59245af481502
+HBO原創巨獻,mitv://135.148.104.228:19806/508daca92fca485f9ee41bd5884ca51f
+美亞電影台HD,mitv://135.148.104.228:19806/a05d4db3a1d04c7a8193344fea31955f
+龍華電影,mitv://135.148.104.228:19806/fbb48740df2b4a7aa1e837f00c1d0575
+星衛HD電影台,mitv://135.148.104.228:19806/3fdd3561905a448494fc306e7e928a7a
+靖天映畫,mitv://135.148.104.228:19806/ea0dd409091a40dca01c6030ab10a230
+靖天電影台,mitv://135.148.104.228:19806/c5cd653913204a2ba2c20cb958c20b2e
+WARNERTV,mitv://135.148.104.228:19806/46c9e9be1f7d4698acc6520036f450e9
+StarMoviesHD,mitv://135.148.104.228:19806/498e8e2f167e4f1ca65fbda92add971a
+AMC最愛電影,mitv://135.148.104.228:19806/5b524d162c60487d979792cbc5c6fe4a
+HBOFamily,mitv://135.148.104.228:19806/32b2b904243c49aeae440baa6b102e5e
+CatchPlay電影台,mitv://135.148.104.228:19806/618488b324c7474eaa344b0e2d93a78f
+壹新聞,http://154.36.187.125/蓝山.php?cid=live1242&p=5003
+三立都會HD,http://154.36.187.125/蓝山.php?cid=live1020&p=5003
+MUCH TV,http://154.36.187.125/蓝山.php?cid=live1189&p=5003
+三立台灣HD,http://154.36.187.125/蓝山.php?cid=live1021&p=5003
 咪咕体育赛事直播,#genre#
 咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 咪咕体育2,http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
