@@ -1,133 +1,133 @@
 VIP,#genre#
-凤凰中文,https://s2.pub/Y-10
-凤凰资讯,https://s2.pub/Y-11
-翡翠台,https://s2.pub/Y-12
-J2,https://s2.pub/Y-13
-明珠台,https://s2.pub/Y-14
-viutv,https://s2.pub/Y-15
-viutv6,https://s2.pub/Y-16
-开电视,https://s2.pub/Y-17
-开资讯,https://s2.pub/Y-18
-无线财经资讯,https://s2.pub/Y-19
-无线新闻,https://s2.pub/Y-20
-香港国际财经,https://s2.pub/Y-21
-星河,https://s2.pub/Y-22
-娱乐新闻,https://s2.pub/Y-23
-千禧经典,https://s2.pub/Y-24
-粤语片,https://s2.pub/Y-25
-亚洲剧台,https://s2.pub/Y-26
-华语剧台,https://s2.pub/Y-27
-台视新闻,https://s2.pub/Y-28
-TVBS欢乐,https://s2.pub/Y-29
-TVBS新闻,https://s2.pub/Y-30
-东森新闻,https://s2.pub/Y-31
-纬来体育,https://s2.pub/Y-32
-ELEVEN1,https://s2.pub/Y-33
-ELEVEN2,https://s2.pub/Y-34
-卫视中文台,https://s2.pub/Y-345
-无线新闻,https://s2.pub/Y-20
-无线财经,https://s2.pub/Y-19
-Hoy 资讯,https://s2.pub/Y-18
-HOY 76,https://s2.pub/Y-21
-翡 翠 台,https://s2.pub/Y-12
-明 珠 台,https://s2.pub/Y-14
-Viu TV,https://s2.pub/Y-15
-TVB J2,https://s2.pub/Y-13
-纬来体育,https://s2.pub/Y-32
+凤凰中文,httpss://s2.pub/Y-10
+凤凰资讯,httpss://s2.pub/Y-11
+翡翠台,httpss://s2.pub/Y-12
+J2,httpss://s2.pub/Y-13
+明珠台,httpss://s2.pub/Y-14
+viutv,httpss://s2.pub/Y-15
+viutv6,httpss://s2.pub/Y-16
+开电视,httpss://s2.pub/Y-17
+开资讯,httpss://s2.pub/Y-18
+无线财经资讯,httpss://s2.pub/Y-19
+无线新闻,httpss://s2.pub/Y-20
+香港国际财经,httpss://s2.pub/Y-21
+星河,httpss://s2.pub/Y-22
+娱乐新闻,httpss://s2.pub/Y-23
+千禧经典,httpss://s2.pub/Y-24
+粤语片,httpss://s2.pub/Y-25
+亚洲剧台,httpss://s2.pub/Y-26
+华语剧台,httpss://s2.pub/Y-27
+台视新闻,httpss://s2.pub/Y-28
+TVBS欢乐,httpss://s2.pub/Y-29
+TVBS新闻,httpss://s2.pub/Y-30
+东森新闻,httpss://s2.pub/Y-31
+纬来体育,httpss://s2.pub/Y-32
+ELEVEN1,httpss://s2.pub/Y-33
+ELEVEN2,httpss://s2.pub/Y-34
+卫视中文台,httpss://s2.pub/Y-345
+无线新闻,httpss://s2.pub/Y-20
+无线财经,httpss://s2.pub/Y-19
+Hoy 资讯,httpss://s2.pub/Y-18
+HOY 76,httpss://s2.pub/Y-21
+翡 翠 台,httpss://s2.pub/Y-12
+明 珠 台,httpss://s2.pub/Y-14
+Viu TV,httpss://s2.pub/Y-15
+TVB J2,httpss://s2.pub/Y-13
+纬来体育,httpss://s2.pub/Y-32
 测试1,#genre#
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港,http://php.17186.eu.org/phtv/fhxg.m3u8
-HBO1,http://51.83.238.223:16045/
-HBO2,http://51.83.238.223:16051/
-TNTseris,http://51.83.238.223:16131/
-DEUS,http://51.83.238.223:16141/
-迪斯尼动画,http://51.83.238.223:16274/
-CONBRTE拳击,http://51.83.238.223:16417/
-足球⚽,http://51.83.238.223:16437/
-ESPR体育,http://51.83.238.223:16515/
-ESPR体育3,http://51.83.238.223:16555/
-ESPR体育4,http://51.83.238.223:16575/
-Recor news,http://51.83.238.223:16600/
-PREmiere体育,http://51.83.238.223:16725/
-TELE电影1,http://51.83.238.223:16763/
-TELE电影2,http://51.83.238.223:16783/
-AO VOVO,http://51.83.238.223:16800/
-NEWS,http://51.83.238.223:16825/
-STUDIO,http://51.83.238.223:16883/
-AXN电影台,http://51.83.238.223:16941/
-动物星球,http://51.83.238.223:16945/
-Record记录,http://51.83.238.223:16957/
-RTS动画,http://livetv.ktv.zone/1/play.m3u8
-RTS2台,http://livetv.ktv.zone/2/play.m3u8
-TF1,http://livetv.ktv.zone/3/play.m3u8
-影视2台,http://livetv.ktv.zone/4/play.m3u8
-影视3台,http://livetv.ktv.zone/5/play.m3u8
-OK动画台,http://livetv.ktv.zone/7/play.m3u8
-M6,http://livetv.ktv.zone/8/play.m3u8
-ART,http://livetv.ktv.zone/9/play.m3u8
-C8影剧,http://livetv.ktv.zone/10/play.m3u8
-W9hits音乐,http://livetv.ktv.zone/11/play.m3u8
-TMC影剧,http://livetv.ktv.zone/12/play.m3u8
-TFX,http://livetv.ktv.zone/13/play.m3u8
-NRJ12,http://livetv.ktv.zone/14/play.m3u8
-LCP烹饪,http://livetv.ktv.zone/15/play.m3u8
-CONSO,http://livetv.ktv.zone/16/play.m3u8
-BFM,http://livetv.ktv.zone/17/play.m3u8
-CNEWS新闻,http://livetv.ktv.zone/18/play.m3u8
-CSTAR,http://livetv.ktv.zone/19/play.m3u8
-GULLI,http://livetv.ktv.zone/20/play.m3u8
-TF1影剧台,http://livetv.ktv.zone/22/play.m3u8
-Dric足球,http://livetv.ktv.zone/23/play.m3u8
-6TER影剧,http://livetv.ktv.zone/24/play.m3u8
-RMCSTROR,http://livetv.ktv.zone/25/play.m3u8
-RMC汽车,http://livetv.ktv.zone/26/play.m3u8
-CHEN影剧25,http://livetv.ktv.zone/27/play.m3u8
-LCI新闻,http://livetv.ktv.zone/28/play.m3u8
-LES新闻,http://livetv.ktv.zone/29/play.m3u8
-CGTN野生,http://livetv.ktv.zone/52/play.m3u8
-VXUP影剧,http://livetv.ktv.zone/54/play.m3u8
-RTL,http://livetv.ktv.zone/55/play.m3u8
-PARIS新闻1,http://livetv.ktv.zone/56/play.m3u8
-PARIS新闻2,http://livetv.ktv.zone/57/play.m3u8
-BBC新闻台,http://livetv.ktv.zone/60/play.m3u8
-TV5新闻HD,http://livetv.ktv.zone/61/play.m3u8
-NEVE,http://livetv.ktv.zone/67/play.m3u8
-KIKA电影HD,http://livetv.ktv.zone/68/play.m3u8
-3SAT HD,http://livetv.ktv.zone/69/play.m3u8
-EURO新闻,http://livetv.ktv.zone/73/play.m3u8
-HKS卫视台,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-HOY 76,https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/.m3u8
-HOY 78,https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-年代新闻,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
-龙华经典,http://pull-f5-spe.ixigua.com/live/31fb38f6159421fcf265f90172c3d90b.flv
-龙华电影,http://pull-f5-spe.ixigua.com/live/f2013296df205a68eb9380e7ef1f13b1.flv
-靖天电影,http://pull-f5-spe.ixigua.com/live/4bb3590357201061566676b0491edac8.flv
-靖洋戏剧,http://pull-f5-spe.ixigua.com/live/1230e2b2bf7254e6c79b7166452c4a3a.flv
-星卫电影,http://pull-f5-spe.ixigua.com/live/704618cca30e647ff9575f8fa66d88fe.flv
-美亚电影,http://pull-f5-spe.ixigua.com/live/c9c0eb693069506229a95e27a2ef8b8f.flv
-龙祥时代,http://pull-f5-spe.ixigua.com/live/5b4a4d370820046aa0f7439cea493e59.flv
-卫视电影,http://pull-f5-spe.ixigua.com/live/0090886de398db1e582e36ee15a4bfc0.flv
-东森洋片,http://pull-f5-spe.ixigua.com/live/b71002a8a712b17265bbdaf7e5f13d45.flv
+凤凰中文,https://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰资讯,https://php.17186.eu.org/phtv/fhzx.m3u8
+凤凰香港,https://php.17186.eu.org/phtv/fhxg.m3u8
+HBO1,https://51.83.238.223:16045/
+HBO2,https://51.83.238.223:16051/
+TNTseris,https://51.83.238.223:16131/
+DEUS,https://51.83.238.223:16141/
+迪斯尼动画,https://51.83.238.223:16274/
+CONBRTE拳击,https://51.83.238.223:16417/
+足球⚽,https://51.83.238.223:16437/
+ESPR体育,https://51.83.238.223:16515/
+ESPR体育3,https://51.83.238.223:16555/
+ESPR体育4,https://51.83.238.223:16575/
+Recor news,https://51.83.238.223:16600/
+PREmiere体育,https://51.83.238.223:16725/
+TELE电影1,https://51.83.238.223:16763/
+TELE电影2,https://51.83.238.223:16783/
+AO VOVO,https://51.83.238.223:16800/
+NEWS,https://51.83.238.223:16825/
+STUDIO,https://51.83.238.223:16883/
+AXN电影台,https://51.83.238.223:16941/
+动物星球,https://51.83.238.223:16945/
+Record记录,https://51.83.238.223:16957/
+RTS动画,https://livetv.ktv.zone/1/play.m3u8
+RTS2台,https://livetv.ktv.zone/2/play.m3u8
+TF1,https://livetv.ktv.zone/3/play.m3u8
+影视2台,https://livetv.ktv.zone/4/play.m3u8
+影视3台,https://livetv.ktv.zone/5/play.m3u8
+OK动画台,https://livetv.ktv.zone/7/play.m3u8
+M6,https://livetv.ktv.zone/8/play.m3u8
+ART,https://livetv.ktv.zone/9/play.m3u8
+C8影剧,https://livetv.ktv.zone/10/play.m3u8
+W9hits音乐,https://livetv.ktv.zone/11/play.m3u8
+TMC影剧,https://livetv.ktv.zone/12/play.m3u8
+TFX,https://livetv.ktv.zone/13/play.m3u8
+NRJ12,https://livetv.ktv.zone/14/play.m3u8
+LCP烹饪,https://livetv.ktv.zone/15/play.m3u8
+CONSO,https://livetv.ktv.zone/16/play.m3u8
+BFM,https://livetv.ktv.zone/17/play.m3u8
+CNEWS新闻,https://livetv.ktv.zone/18/play.m3u8
+CSTAR,https://livetv.ktv.zone/19/play.m3u8
+GULLI,https://livetv.ktv.zone/20/play.m3u8
+TF1影剧台,https://livetv.ktv.zone/22/play.m3u8
+Dric足球,https://livetv.ktv.zone/23/play.m3u8
+6TER影剧,https://livetv.ktv.zone/24/play.m3u8
+RMCSTROR,https://livetv.ktv.zone/25/play.m3u8
+RMC汽车,https://livetv.ktv.zone/26/play.m3u8
+CHEN影剧25,https://livetv.ktv.zone/27/play.m3u8
+LCI新闻,https://livetv.ktv.zone/28/play.m3u8
+LES新闻,https://livetv.ktv.zone/29/play.m3u8
+CGTN野生,https://livetv.ktv.zone/52/play.m3u8
+VXUP影剧,https://livetv.ktv.zone/54/play.m3u8
+RTL,https://livetv.ktv.zone/55/play.m3u8
+PARIS新闻1,https://livetv.ktv.zone/56/play.m3u8
+PARIS新闻2,https://livetv.ktv.zone/57/play.m3u8
+BBC新闻台,https://livetv.ktv.zone/60/play.m3u8
+TV5新闻HD,https://livetv.ktv.zone/61/play.m3u8
+NEVE,https://livetv.ktv.zone/67/play.m3u8
+KIKA电影HD,https://livetv.ktv.zone/68/play.m3u8
+3SAT HD,https://livetv.ktv.zone/69/play.m3u8
+EURO新闻,https://livetv.ktv.zone/73/play.m3u8
+HKS卫视台,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+HOY 76,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/.m3u8
+HOY 78,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
+年代新闻,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+年代新闻,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
+龙华经典,https://pull-f5-spe.ixigua.com/live/31fb38f6159421fcf265f90172c3d90b.flv
+龙华电影,https://pull-f5-spe.ixigua.com/live/f2013296df205a68eb9380e7ef1f13b1.flv
+靖天电影,https://pull-f5-spe.ixigua.com/live/4bb3590357201061566676b0491edac8.flv
+靖洋戏剧,https://pull-f5-spe.ixigua.com/live/1230e2b2bf7254e6c79b7166452c4a3a.flv
+星卫电影,https://pull-f5-spe.ixigua.com/live/704618cca30e647ff9575f8fa66d88fe.flv
+美亚电影,https://pull-f5-spe.ixigua.com/live/c9c0eb693069506229a95e27a2ef8b8f.flv
+龙祥时代,https://pull-f5-spe.ixigua.com/live/5b4a4d370820046aa0f7439cea493e59.flv
+卫视电影,https://pull-f5-spe.ixigua.com/live/0090886de398db1e582e36ee15a4bfc0.flv
+东森洋片,https://pull-f5-spe.ixigua.com/live/b71002a8a712b17265bbdaf7e5f13d45.flv
 测试2,#genre#
-﻿民视rtmp://9sv1.mine.nu:1935/sat/tv051
-﻿台视rtmp://9sv1.mine.nu:1935/sat/tv071
-﻿中视rtmp://9sv1.mine.nu:1935/sat/tv091
-﻿华视rtmp://9sv1.mine.nu:1935/sat/tv111
-﻿TVBS新闻rtmp://9sv1.mine.nu:1935/sat/tv551
-﻿TVBS欢乐rtmp://9sv1.mine.nu:1935/sat/tv421
-﻿东森超视rtmp://9sv1.mine.nu:1935/sat/tv331
-﻿东森财经新闻rtmp://9sv1.mine.nu:1935/sat/tv571
-﻿纬来育乐rtmp://9sv1.mine.nu:1935/sat/tv701
-﻿纬来体育rtmp://9sv1.mine.nu:1935/sat/tv721
-﻿ELEVEN1rtmp://9sv1.mine.nu:1935/sat/tv731
-﻿ELEVEN2rtmp://9sv1.mine.nu:1935/sat/tv741
-﻿MOMO综合rtmp://9sv1.mine.nu:1935/sat/tv761
-﻿纬来日本rtmp://9sv1.mine.nu:1935/sat/tv771
-﻿博斯网球rtmp://9sv1.mine.nu:1935/sat/md031
-﻿博斯网球rtmp://9sv1.mine.nu:1935/sat/md041
-﻿博斯运动rtmp://9sv1.mine.nu:1935/sat/md051
+﻿民视,rtmp://9sv1.mine.nu:1935/sat/tv051
+﻿台视,rtmp://9sv1.mine.nu:1935/sat/tv071
+﻿中视,rtmp://9sv1.mine.nu:1935/sat/tv091
+﻿华视,rtmp://9sv1.mine.nu:1935/sat/tv111
+﻿TVBS新闻,rtmp://9sv1.mine.nu:1935/sat/tv551
+﻿TVBS欢乐,rtmp://9sv1.mine.nu:1935/sat/tv421
+﻿东森超视,rtmp://9sv1.mine.nu:1935/sat/tv331
+﻿东森财经新闻,rtmp://9sv1.mine.nu:1935/sat/tv571
+﻿纬来育乐,rtmp://9sv1.mine.nu:1935/sat/tv701
+﻿纬来体育,rtmp://9sv1.mine.nu:1935/sat/tv721
+﻿ELEVEN1,rtmp://9sv1.mine.nu:1935/sat/tv731
+﻿ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/tv741
+﻿MOMO综合,rtmp://9sv1.mine.nu:1935/sat/tv761
+﻿纬来日本,rtmp://9sv1.mine.nu:1935/sat/tv771
+﻿博斯网球,rtmp://9sv1.mine.nu:1935/sat/md031
+﻿博斯网球,rtmp://9sv1.mine.nu:1935/sat/md041
+﻿博斯运动,rtmp://9sv1.mine.nu:1935/sat/md051
 TVB翡翠台p3p://108.181.20.159:55289/653e4c02000ea0440c8c63fd3e5d709d
 TVB翡翠台 H.265p3p://108.181.20.159:55289/653e4c6d000965ef0c8e049f4be34103
 TVB J2p3p://108.181.20.159:55289/653e4cda0007743f0c8fade86d132b26
@@ -432,3 +432,22 @@ HBO 2 USp3p://fccsen.dyndns.tv:29706/5a80a6c0000554e44233001e438b75ab
 HBO Signaturep3p://fccsen.dyndns.tv:29706/5a80bfb700059ffd42948508086841ca
 HBO Familyp3p://fccsen.dyndns.tv:29706/5a80c1190001c0ab4299eadc7b933bf2
 HBO Comedyp3p://fccsen.dyndns.tv:29706/5d44e194000bc15bce7b7c530ca97fd1
+凤凰中文,https://r.jdshipin.com/cCCzW
+凤凰资讯,https://r.jdshipin.com/0Rp07
+翡翠台,https://r.jdshipin.com/62WM7
+J2,https://r.jdshipin.com/ndGgS
+无线新闻台,https://r.jdshipin.com/CkuBd
+TVB星河,https://r.jdshipin.com/sXuuD
+VIUTV,https://r.jdshipin.com/vSJvl
+无线财*·体育·资讯台,https://r.jdshipin.com/jUx8K
+ViuTV[1920x1080],https://r.jdshipin.com/vSJvl
+无线新闻,https://r.jdshipin.com/CkuBd
+凤凰中文,https://r.jdshipin.com/cCCzW
+凤凰资讯,https://r.jdshipin.com/0Rp07
+J2[1920x1080],https://r.jdshipin.com/ndGgS
+TVB J2[1920x1080],https://r.jdshipin.com/Nr5jq
+TVB星河[1920x1080],https://r.jdshipin.com/sXuuD
+明珠台[1920x1080],https://r.jdshipin.com/ZQ4kN
+翡翠台[1920x1080],https://r.jdshipin.com/62WM7
+翡翠台[1280x720],https://r.jdshipin.com/n90gt
+翡翠台[1920x1080],https://r.jdshipin.com/qClQf
