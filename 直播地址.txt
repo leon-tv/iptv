@@ -34,9 +34,7 @@ HOY 76☬https://s2.pub/Y-21
 Viu TV☬https://s2.pub/Y-15
 TVB J2☬https://s2.pub/Y-13
 纬来体育☬https://s2.pub/Y-32
-
 测试1☬#genre#
-
 凤凰中文☬http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯☬http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰香港☬http://php.17186.eu.org/phtv/fhxg.m3u8
@@ -112,9 +110,7 @@ HOY 78☬https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3
 龙祥时代☬http://pull-f5-spe.ixigua.com/live/5b4a4d370820046aa0f7439cea493e59.flv
 卫视电影☬http://pull-f5-spe.ixigua.com/live/0090886de398db1e582e36ee15a4bfc0.flv
 东森洋片☬http://pull-f5-spe.ixigua.com/live/b71002a8a712b17265bbdaf7e5f13d45.flv
-
 测试2☬#genre#
-
 ﻿民视☬rtmp://9sv1.mine.nu:1935/sat/tv051
 ﻿台视☬rtmp://9sv1.mine.nu:1935/sat/tv071
 ﻿中视☬rtmp://9sv1.mine.nu:1935/sat/tv091
@@ -225,8 +221,6 @@ Fight Sports☬p3p://108.181.20.159:55289/644c26370001b4eb5aad692f22d9728d
 星空卫视☬p3p://108.181.20.159:55289/64ee40d1000cfcc5d3e2330305817be2
 CN卡通(粤)☬p3p://108.181.20.159:55289/648353bb0006d4d93236315a766b692a
 Animax HK☬p3p://108.181.20.159:55289/6506d1a00000a99a33d7555a4b747caa
-
-
 测试3☬#genre#
 壹综合☬p3p://108.181.20.159:55289/64e36a09000d3453a98b615460a544cd
 中天新闻☬p3p://108.181.20.159:55289/613dba64000abeb1c801c02934bb45fc
@@ -438,3 +432,22 @@ HBO 2 US☬p3p://fccsen.dyndns.tv:29706/5a80a6c0000554e44233001e438b75ab
 HBO Signature☬p3p://fccsen.dyndns.tv:29706/5a80bfb700059ffd42948508086841ca
 HBO Family☬p3p://fccsen.dyndns.tv:29706/5a80c1190001c0ab4299eadc7b933bf2
 HBO Comedy☬p3p://fccsen.dyndns.tv:29706/5d44e194000bc15bce7b7c530ca97fd1
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+翡翠台,http://r.jdshipin.com/62WM7
+J2,http://r.jdshipin.com/ndGgS
+无线新闻台,http://r.jdshipin.com/CkuBd
+TVB星河,http://r.jdshipin.com/sXuuD
+VIUTV,http://r.jdshipin.com/vSJvl
+无线财*·体育·资讯台,http://r.jdshipin.com/jUx8K
+ViuTV[1920x1080],http://r.jdshipin.com/vSJvl
+无线新闻,http://r.jdshipin.com/CkuBd
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+J2[1920x1080],http://r.jdshipin.com/ndGgS
+TVB J2[1920x1080],http://r.jdshipin.com/Nr5jq
+TVB星河[1920x1080],http://r.jdshipin.com/sXuuD
+明珠台[1920x1080],http://r.jdshipin.com/ZQ4kN
+翡翠台[1920x1080],http://r.jdshipin.com/62WM7
+翡翠台[1280x720],http://r.jdshipin.com/n90gt
+翡翠台[1920x1080],http://r.jdshipin.com/qClQf
