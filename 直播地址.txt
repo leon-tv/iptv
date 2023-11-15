@@ -1,434 +1,203 @@
-VIP,#genre#
-凤凰中文,httpss://s2.pub/Y-10
-凤凰资讯,httpss://s2.pub/Y-11
-翡翠台,httpss://s2.pub/Y-12
-J2,httpss://s2.pub/Y-13
-明珠台,httpss://s2.pub/Y-14
-viutv,httpss://s2.pub/Y-15
-viutv6,httpss://s2.pub/Y-16
-开电视,httpss://s2.pub/Y-17
-开资讯,httpss://s2.pub/Y-18
-无线财经资讯,httpss://s2.pub/Y-19
-无线新闻,httpss://s2.pub/Y-20
-香港国际财经,httpss://s2.pub/Y-21
-星河,httpss://s2.pub/Y-22
-娱乐新闻,httpss://s2.pub/Y-23
-千禧经典,httpss://s2.pub/Y-24
-粤语片,httpss://s2.pub/Y-25
-亚洲剧台,httpss://s2.pub/Y-26
-华语剧台,httpss://s2.pub/Y-27
-台视新闻,httpss://s2.pub/Y-28
-TVBS欢乐,httpss://s2.pub/Y-29
-TVBS新闻,httpss://s2.pub/Y-30
-东森新闻,httpss://s2.pub/Y-31
-纬来体育,httpss://s2.pub/Y-32
-ELEVEN1,httpss://s2.pub/Y-33
-ELEVEN2,httpss://s2.pub/Y-34
-卫视中文台,httpss://s2.pub/Y-345
-无线新闻,httpss://s2.pub/Y-20
-无线财经,httpss://s2.pub/Y-19
-Hoy 资讯,httpss://s2.pub/Y-18
-HOY 76,httpss://s2.pub/Y-21
-翡 翠 台,httpss://s2.pub/Y-12
-明 珠 台,httpss://s2.pub/Y-14
-Viu TV,httpss://s2.pub/Y-15
-TVB J2,httpss://s2.pub/Y-13
-纬来体育,httpss://s2.pub/Y-32
-测试1,#genre#
-凤凰中文,https://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰资讯,https://php.17186.eu.org/phtv/fhzx.m3u8
-凤凰香港,https://php.17186.eu.org/phtv/fhxg.m3u8
-HBO1,https://51.83.238.223:16045/
-HBO2,https://51.83.238.223:16051/
-TNTseris,https://51.83.238.223:16131/
-DEUS,https://51.83.238.223:16141/
-迪斯尼动画,https://51.83.238.223:16274/
-CONBRTE拳击,https://51.83.238.223:16417/
-足球⚽,https://51.83.238.223:16437/
-ESPR体育,https://51.83.238.223:16515/
-ESPR体育3,https://51.83.238.223:16555/
-ESPR体育4,https://51.83.238.223:16575/
-Recor news,https://51.83.238.223:16600/
-PREmiere体育,https://51.83.238.223:16725/
-TELE电影1,https://51.83.238.223:16763/
-TELE电影2,https://51.83.238.223:16783/
-AO VOVO,https://51.83.238.223:16800/
-NEWS,https://51.83.238.223:16825/
-STUDIO,https://51.83.238.223:16883/
-AXN电影台,https://51.83.238.223:16941/
-动物星球,https://51.83.238.223:16945/
-Record记录,https://51.83.238.223:16957/
-RTS动画,https://livetv.ktv.zone/1/play.m3u8
-RTS2台,https://livetv.ktv.zone/2/play.m3u8
-TF1,https://livetv.ktv.zone/3/play.m3u8
-影视2台,https://livetv.ktv.zone/4/play.m3u8
-影视3台,https://livetv.ktv.zone/5/play.m3u8
-OK动画台,https://livetv.ktv.zone/7/play.m3u8
-M6,https://livetv.ktv.zone/8/play.m3u8
-ART,https://livetv.ktv.zone/9/play.m3u8
-C8影剧,https://livetv.ktv.zone/10/play.m3u8
-W9hits音乐,https://livetv.ktv.zone/11/play.m3u8
-TMC影剧,https://livetv.ktv.zone/12/play.m3u8
-TFX,https://livetv.ktv.zone/13/play.m3u8
-NRJ12,https://livetv.ktv.zone/14/play.m3u8
-LCP烹饪,https://livetv.ktv.zone/15/play.m3u8
-CONSO,https://livetv.ktv.zone/16/play.m3u8
-BFM,https://livetv.ktv.zone/17/play.m3u8
-CNEWS新闻,https://livetv.ktv.zone/18/play.m3u8
-CSTAR,https://livetv.ktv.zone/19/play.m3u8
-GULLI,https://livetv.ktv.zone/20/play.m3u8
-TF1影剧台,https://livetv.ktv.zone/22/play.m3u8
-Dric足球,https://livetv.ktv.zone/23/play.m3u8
-6TER影剧,https://livetv.ktv.zone/24/play.m3u8
-RMCSTROR,https://livetv.ktv.zone/25/play.m3u8
-RMC汽车,https://livetv.ktv.zone/26/play.m3u8
-CHEN影剧25,https://livetv.ktv.zone/27/play.m3u8
-LCI新闻,https://livetv.ktv.zone/28/play.m3u8
-LES新闻,https://livetv.ktv.zone/29/play.m3u8
-CGTN野生,https://livetv.ktv.zone/52/play.m3u8
-VXUP影剧,https://livetv.ktv.zone/54/play.m3u8
-RTL,https://livetv.ktv.zone/55/play.m3u8
-PARIS新闻1,https://livetv.ktv.zone/56/play.m3u8
-PARIS新闻2,https://livetv.ktv.zone/57/play.m3u8
-BBC新闻台,https://livetv.ktv.zone/60/play.m3u8
-TV5新闻HD,https://livetv.ktv.zone/61/play.m3u8
-NEVE,https://livetv.ktv.zone/67/play.m3u8
-KIKA电影HD,https://livetv.ktv.zone/68/play.m3u8
-3SAT HD,https://livetv.ktv.zone/69/play.m3u8
-EURO新闻,https://livetv.ktv.zone/73/play.m3u8
-HKS卫视台,https://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-HOY 76,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/.m3u8
-HOY 78,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-年代新闻,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-年代新闻,httpss://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
-龙华经典,https://pull-f5-spe.ixigua.com/live/31fb38f6159421fcf265f90172c3d90b.flv
-龙华电影,https://pull-f5-spe.ixigua.com/live/f2013296df205a68eb9380e7ef1f13b1.flv
-靖天电影,https://pull-f5-spe.ixigua.com/live/4bb3590357201061566676b0491edac8.flv
-靖洋戏剧,https://pull-f5-spe.ixigua.com/live/1230e2b2bf7254e6c79b7166452c4a3a.flv
-星卫电影,https://pull-f5-spe.ixigua.com/live/704618cca30e647ff9575f8fa66d88fe.flv
-美亚电影,https://pull-f5-spe.ixigua.com/live/c9c0eb693069506229a95e27a2ef8b8f.flv
-龙祥时代,https://pull-f5-spe.ixigua.com/live/5b4a4d370820046aa0f7439cea493e59.flv
-卫视电影,https://pull-f5-spe.ixigua.com/live/0090886de398db1e582e36ee15a4bfc0.flv
-东森洋片,https://pull-f5-spe.ixigua.com/live/b71002a8a712b17265bbdaf7e5f13d45.flv
-测试2,#genre#
-﻿民视,rtmp://9sv1.mine.nu:1935/sat/tv051
-﻿台视,rtmp://9sv1.mine.nu:1935/sat/tv071
-﻿中视,rtmp://9sv1.mine.nu:1935/sat/tv091
-﻿华视,rtmp://9sv1.mine.nu:1935/sat/tv111
-﻿TVBS新闻,rtmp://9sv1.mine.nu:1935/sat/tv551
-﻿TVBS欢乐,rtmp://9sv1.mine.nu:1935/sat/tv421
-﻿东森超视,rtmp://9sv1.mine.nu:1935/sat/tv331
-﻿东森财经新闻,rtmp://9sv1.mine.nu:1935/sat/tv571
-﻿纬来育乐,rtmp://9sv1.mine.nu:1935/sat/tv701
-﻿纬来体育,rtmp://9sv1.mine.nu:1935/sat/tv721
-﻿ELEVEN1,rtmp://9sv1.mine.nu:1935/sat/tv731
-﻿ELEVEN2,rtmp://9sv1.mine.nu:1935/sat/tv741
-﻿MOMO综合,rtmp://9sv1.mine.nu:1935/sat/tv761
-﻿纬来日本,rtmp://9sv1.mine.nu:1935/sat/tv771
-﻿博斯网球,rtmp://9sv1.mine.nu:1935/sat/md031
-﻿博斯网球,rtmp://9sv1.mine.nu:1935/sat/md041
-﻿博斯运动,rtmp://9sv1.mine.nu:1935/sat/md051
-TVB翡翠台☬p3p://108.181.20.159:55289/653e4c02000ea0440c8c63fd3e5d709d
-TVB翡翠台 H.265☬p3p://108.181.20.159:55289/653e4c6d000965ef0c8e049f4be34103
-TVB J2☬p3p://108.181.20.159:55289/653e4cda0007743f0c8fade86d132b26
-TVB J2 H.265☬p3p://108.181.20.159:55289/653e4d3e000b344f0c91357e73163f82
-TVB无线新闻☬p3p://108.181.20.159:55289/653e4703000daead0c78dfb07723484e
-TVB无线新闻 H.265☬p3p://108.181.20.159:55289/653e4818000b73240c7d19181340415e
-TVB财体资讯☬p3p://108.181.20.159:55289/5ffbee4900066c0ddf0b8b84423c06f3
-TVB财体资讯 H.265☬p3p://108.181.20.159:55289/611d989d0005244a4a7f24d111282ffb
-TVB明珠☬p3p://108.181.20.159:55289/611d99f3000116024a845bb9627404c9
-TVB明珠 H.265☬p3p://108.181.20.159:55289/602f1ba9000814efa6f2970333d309d9
-Viu TV☬p3p://108.181.20.159:55289/611d99820007a67c4a82a3fe3cc749de
-VIU TV H.265☬p3p://108.181.20.159:55289/5fed3234000c7a49a57dbd6e14af358f
-VIU 6☬p3p://108.181.20.159:55289/5fed31e7000736e2a57c8f4c14d55d36
-有线直播新闻☬p3p://108.181.20.159:55289/64ff4f0e000d7954168179ff031e6108
-香港国际财经☬p3p://108.181.20.159:55289/64838620000cd8ed32fb0d6a414411f7
-HOY资讯☬p3p://108.181.20.159:55289/648378c5000994f732c6e11c048379ef
-HOY TV☬p3p://108.181.20.159:55289/62184bc3000cd48f11e47b06202b7e18
-TVB娱乐新闻☬p3p://108.181.20.159:55289/5fe7f68d000e73d9910d2a86341258f7
-黄金翡翠台☬p3p://108.181.20.159:55289/653e49c20006c60f0c8397f7771b1b7b
-TVB千禧经典☬p3p://108.181.20.159:55289/645f6a3a0006360ca5eec1c509a8654f
-TVB经典☬p3p://108.181.20.159:55289/5fdee1a2000b5fba6d93e51308cb7ddf
-TVB功夫台☬p3p://108.181.20.159:55289/653e4a3f000b1abb0c85815c35fa0803
-TVB华语剧☬p3p://108.181.20.159:55289/653e4acf0006e0e80c87b2c8194d5791
-TVB粤语片☬p3p://108.181.20.159:55289/653e4b8d00001a450c8a973c06325101
-TVB亚洲剧☬p3p://108.181.20.159:55289/6284685e00039b52b82eeeca7a785fda
-TVB 18赛马☬p3p://108.181.20.159:55289/630aae2a0009c386c4a94bfb4c686b60
-TVB星河(粤)☬p3p://108.181.20.159:55289/5fdee23d000b670a6d96428e4c334643
-TVB星河(国)☬p3p://108.181.20.159:55289/654aa426000823873cc48521786400fb
-TVB亚洲综艺☬p3p://108.181.20.159:55289/63108c86000a543bdb95705579fa26ad
-TVB戏曲☬p3p://108.181.20.159:55289/63108bd0000e4a9cdb92aa6820e833d5
-Cinemax HK☬p3p://108.181.20.159:55289/6519bda7000d8e137dc0fc4756be5188
-Now新闻☬p3p://108.181.20.159:55289/653e4f3d0003bdbf0c98ffaf583a6e3a
-Now财经☬p3p://108.181.20.159:55289/6256e47a0007a6bb0665fa1971252f50
-NOW华剧☬p3p://108.181.20.159:55289/6519bc200001e7b37dbb01f124075086
-NOW剧集☬p3p://108.181.20.159:55289/63ed3e1500077d30e7f449055a0846ce
-NOW星影☬p3p://108.181.20.159:55289/65423b7b00047dbb1bebd20b45f374d2
-NOW爆谷☬p3p://108.181.20.159:55289/65423beb00082fd01bed887e0ae23bbf
-黄金华剧台☬p3p://108.181.20.159:55289/652970de00011277bb14dcd76e301cc0
-HBO(粤)☬p3p://108.181.20.159:55289/650ff8190006c7355795739f3c0b7500
-美亚电影(粤)☬p3p://108.181.20.159:55289/64be58dd0007fb8d18c11148736701af
-凤凰资讯☬p3p://108.181.20.159:55289/5fffbf860003807cedf4e1016c3c3ed2
-凤凰资讯☬p3p://108.181.20.159:55289/640dad8e0004032e66a7116c70d14d30
-凤凰卫视☬p3p://108.181.20.159:55289/5ff7074800001bcccbe59f3d4ff00590
-凤凰卫视☬p3p://108.181.20.159:55289/602c73500002f4d29c90fa1270f21160
-凤凰香港☬p3p://108.181.20.159:55289/5fe0b82c000cac9774c17f262e43314d
-Thrill☬p3p://108.181.20.159:55289/630c2b9400044df5ca7abd7159677c41
-Hi-YAH☬p3p://108.181.20.159:55289/64c4d523000ac6a9321683700b626a46
-Mytv Super18☬p3p://108.181.20.159:55289/6506d591000d6d7733e6bdfb4725689e
-Now Sports 1☬p3p://108.181.20.159:55289/63ed464b000b911be8145d035c4e0f21
-Now Sports 2☬p3p://108.181.20.159:55289/63ed46be0002b99be8161bfd62d87e90
-Now Sports 3☬p3p://108.181.20.159:55289/63ed4715000c1bffe81772386f5b27f7
-Now Sports 4☬p3p://108.181.20.159:55289/63ed478e000a98f2e8194a7c2bdc7fe6
-Now Sports 5☬p3p://108.181.20.159:55289/63ed98c2000122f4e9567b333a74077a
-Now Sports 6☬p3p://108.181.20.159:55289/63ed98d90002f8f6e956d5822ff208b1
-Now Sports 7☬p3p://108.181.20.159:55289/63ed990600010efde95784d4529f16d2
-Now Sports Prime☬p3p://108.181.20.159:55289/644edbcc0004d5a765428da71f967a86
-Hands Up☬p3p://108.181.20.159:55289/6484c7b80001882237e3197529891bda
-香港文旅☬p3p://108.181.20.159:55289/64d26915000887bf671ffe127ecd0115
-GEM HK☬p3p://108.181.20.159:55289/6506c5e500027c7f33a9834b5d937568
-HBO Signature☬p3p://108.181.20.159:55289/6318b7730000b372fb7ca7e170c66e54
-HBO Hits☬p3p://108.181.20.159:55289/63109c310002f740dbd2a26e2dc405af
-HBO Family☬p3p://108.181.20.159:55289/63109c71000a3661dbd39e495cfb24f8
-天映频道(国语)☬p3p://108.181.20.159:55289/6471b0bb00011e09ed51d397629e4f55
-美亚电影(国)☬p3p://108.181.20.159:55289/64c3653f0007f6812c7970122ff43531
-龙祥电影(粤)☬p3p://108.181.20.159:55289/63375cce0008451773313a26199f3191
-Now Sports 英超1☬p3p://108.181.20.159:55289/646099ac000efa84aa8fef330e635121
-Now Sports 英超2☬p3p://108.181.20.159:55289/64609aa400087457aa93b6491c9474d0
-OneTV综合☬p3p://108.181.20.159:55289/64d5c5550007c4d9744057ea09db782a
-KIX HD☬p3p://108.181.20.159:55289/6444e9940006c03f3e688dba67767ffd
-NowSports 4K 1☬p3p://108.181.20.159:55289/64ff0dd300027c501582a8b75bd6680f
-NowSports 4K 2☬p3p://108.181.20.159:55289/64ff0ec10007a19315864bb952b44a7f
-天映频道(粤语)☬p3p://108.181.20.159:55289/6533b684000931d9e334c45b064e2833
-有线赛马18☬p3p://108.181.20.159:55289/64db58eb000d759e8a08afbc7bd65062
-香港31台☬p3p://108.181.20.159:55289/6109ec88000eed44fda7d8ff6e487ce1
-香港32台☬p3p://108.181.20.159:55289/6109eca300044552fda83fbc4a2f6a1b
-RTHK33☬p3p://108.181.20.159:55289/64ff519d0003b071168b76195e14734a
-RTHK34☬p3p://108.181.20.159:55289/64ff527b00075217168eda38347e36b1
-RTHK35☬p3p://108.181.20.159:55289/64ff52f5000b7c8e1690b7d96b26354e
-Axn HK☬p3p://108.181.20.159:55289/6506d42b0000055133e1441b1d831414
-Super Kids☬p3p://108.181.20.159:55289/6506d285000b06bd33dad67a652e2bfd
-TVN HK☬p3p://108.181.20.159:55289/6506c6930009ab3233ac2cd3018a6125
-Fight Sports☬p3p://108.181.20.159:55289/644c26370001b4eb5aad692f22d9728d
-创世电视☬p3p://108.181.20.159:55289/64b5088100037eb4f45f54135b7b6177
-面包台☬p3p://108.181.20.159:55289/64c26e6d0003155c28b54a8561850853
-澳亚卫视☬p3p://108.181.20.159:55289/64c262e100006db428882ef8137c12c4
-澳门Macau☬p3p://108.181.20.159:55289/64c2611000018873288116d70e04175d
-澳门奥视☬p3p://108.181.20.159:55289/644ed5a00003da2f652a717f77c821b8
-澳门资讯☬p3p://108.181.20.159:55289/644ed21e000dd9a7651cc03a565575f7
-澳门莲花☬p3p://108.181.20.159:55289/60b977ed000ba538c36458471a9d6772
-澳视葡语☬p3p://108.181.20.159:55289/644ece91000b801a650ee0e442bd0b87
-星空卫视☬p3p://108.181.20.159:55289/64ee40d1000cfcc5d3e2330305817be2
-CN卡通(粤)☬p3p://108.181.20.159:55289/648353bb0006d4d93236315a766b692a
-Animax HK☬p3p://108.181.20.159:55289/6506d1a00000a99a33d7555a4b747caa
-测试3,#genre#
-壹综合☬p3p://108.181.20.159:55289/64e36a09000d3453a98b615460a544cd
-中天新闻☬p3p://108.181.20.159:55289/613dba64000abeb1c801c02934bb45fc
-TVBS新闻☬p3p://108.181.20.159:55289/621858e3000e70ad1217c0700d576ad0
-东森新闻☬p3p://108.181.20.159:55289/61468afa0005b339ea7014d376a616f3
-中视新闻☬p3p://108.181.20.159:55289/61ff2b9d0004cfe6bb9a99f71e1c4c92
-寰宇新闻☬p3p://108.181.20.159:55289/653cd4a900049a4206d258a92e941b10
-寰宇新闻☬p3p://108.181.20.159:55289/653cd33a0001a69d06ccbe4e26413d90
-三立新闻☬p3p://108.181.20.159:55289/6014c896000c7101401f67cc5477681b
-民视新闻☬p3p://108.181.20.159:55289/602f1f4a000aa86fa700c49817387f81
-台视新闻☬p3p://108.181.20.159:55289/62caf1dc000525b3cbb4de6e3c0e2af8
-年代新闻☬p3p://108.181.20.159:55289/5fe09fec000ac0127462c4ac6b1f16a3
-镜新闻☬p3p://108.181.20.159:55289/63ebd33c0003c437e26ae87279d061f1
-非凡新闻☬p3p://108.181.20.159:55289/6146918a000a6ec0ea89b8904d520fbf
-壹新闻☬p3p://108.181.20.159:55289/621dbb640001cb2b272027f74da62753
-华视新闻☬p3p://108.181.20.159:55289/632c706b0009d57248864b64705a59a0
-寰宇新闻台湾☬p3p://108.181.20.159:55289/612d7c11000c9faf888ebf9f3276784e
-三立inews☬p3p://108.181.20.159:55289/644f81c10003ba2367cad2610d3a2ab5
-三立inews☬p3p://108.181.20.159:55289/643a6b71000a47fb156c2a403510409b
-东森财经☬p3p://108.181.20.159:55289/61468bd70005123dea7373f226636dba
-非凡商业☬p3p://108.181.20.159:55289/621dbc3b00051ea5272370aa6e685347
-博斯运动1☬p3p://108.181.20.159:55289/61f02576000b2c0a80eb0552388d145e
-博斯运动2☬p3p://108.181.20.159:55289/62639c49000784a03813882a6f5c7e5d
-智林体育☬p3p://108.181.20.159:55289/62148d7e000079c103453a521daa6e9f
-民视☬p3p://108.181.20.159:55289/654f8c14000916f44fee7f0d7a14165e
-民视☬p3p://108.181.20.159:55289/6001ba8400051d89f5b151a63fa96419
-台视☬p3p://108.181.20.159:55289/612ee2240008f3db8e0578dc59406f9e
-华视☬p3p://108.181.20.159:55289/61eff95c000bcf35803ebfe7426e2914
-中视☬p3p://108.181.20.159:55289/621dab720008820a26e1e06b75653395
-HBO原创☬p3p://108.181.20.159:55289/623a6e38000091d497395ce957b27132
-HBO家庭☬p3p://108.181.20.159:55289/623a706d0003edf59741fcc023dc0089
-HBO巨献☬p3p://108.181.20.159:55289/623a700000069676974053b555b700d4
-HBO HD☬p3p://108.181.20.159:55289/64e364fb000a0212a977a1cd342976da
-美亚电影☬p3p://108.181.20.159:55289/62883c4f000a4ca3c722d5ec04fb74e7
-星卫电影☬p3p://108.181.20.159:55289/64beb7d8000b87011a3416ad1cd138f9
-卫视西片 Star Movies☬p3p://108.181.20.159:55289/63ee920700022adced2430fe450863aa
-卫视电影☬p3p://108.181.20.159:55289/61f88baf000e09b3a1b9e2a3622612e9
-龙祥时代☬p3p://108.181.20.159:55289/60115453000a238d32a1418142be77f7
-东森电影☬p3p://108.181.20.159:55289/654f8e9d000f29684ff867c629af413e
-东森电影☬p3p://108.181.20.159:55289/62c103a5000b5a66a4eacca77822079a
-东森洋片☬p3p://108.181.20.159:55289/654f8da4000861524ff499617a97049f
-东森洋片☬p3p://108.181.20.159:55289/64c62c06000d1cf03751bf246ed813e7
-好莱坞电影☬p3p://108.181.20.159:55289/62cee8b3000ea6aedb30a55616047866
-龙华电影☬p3p://108.181.20.159:55289/621471310004d28d02d6aeb471c265ec
-AXN台湾☬p3p://108.181.20.159:55289/6258ddc5000ee8a40e1bc8f50dec545c
-EYE戏剧☬p3p://108.181.20.159:55289/64c62f0c000d47c0375d8ea3081775da
-EYE旅游☬p3p://108.181.20.159:55289/64c105a500023b4e2333fd1453e42393
-罪案追缉CI☬p3p://108.181.20.159:55289/623baf7a0004e5d79c2047cd46107be2
-彩昌影剧☬p3p://108.181.20.159:55289/621de2ed000a255d27ba994346c66a7c
-尼克JR☬p3p://108.181.20.159:55289/6233e05300064fcf7d9f8a39563b6c75
-达芬奇☬p3p://108.181.20.159:55289/62011f820008c9f3c33ae0231cf86a05
-EL生活英语☬p3p://108.181.20.159:55289/624888bb000b784ace507da37b7906ea
-靖天卡通☬p3p://108.181.20.159:55289/625b6d3800022fe9181c1ee5362c159d
-Z频道☬p3p://108.181.20.159:55289/64c7ce3f000afa423db36d3f378c386d
-博斯高球1☬p3p://108.181.20.159:55289/626b4058000aaf3b55ebf11727dd34f5
-博斯高球2☬p3p://108.181.20.159:55289/6258e1c9000c6f010e2b77e9601b5186
-博斯无限1☬p3p://108.181.20.159:55289/647cba27000a6f78186e481d11013645
-博斯无限2☬p3p://108.181.20.159:55289/6146901b0006875bea841df772893d7b
-Star World☬p3p://108.181.20.159:55289/621dc4640002052a2743501031f65ed4
-Animax☬p3p://108.181.20.159:55289/61e0f9f0000ec6db45a9e87848424184
-地理野生☬p3p://108.181.20.159:55289/64fb557b000ba24206fabee910ec690d
-HITS☬p3p://108.181.20.159:55289/6233e648000735057db6cf734adf440d
-国家地理☬p3p://108.181.20.159:55289/621485d20002ab4803274308662d5e97
-探索亚洲☬p3p://108.181.20.159:55289/623bc4f4000da3919c742e942bdb3571
-BBC Lifestyle☬p3p://108.181.20.159:55289/64026f590000e9663abc652f25176282
-BBC earth☬p3p://108.181.20.159:55289/6444eb2e000921503e6ecfe873cd10b1
-尼克儿童☬p3p://108.181.20.159:55289/6233e0ca0000ca8f7da159a76b755519
-CN卡通☬p3p://108.181.20.159:55289/61ded38e000d52023d43f93e0ee00012
-中旺电视☬p3p://108.181.20.159:55289/5fe09c570001addf7454c44e021f76be
-中视箐采☬p3p://108.181.20.159:55289/621db1fb0006fbf526fb672712522a46
-动物星球☬p3p://108.181.20.159:55289/6214894b0007e3120334d50a59d03689
-卫视中文☬p3p://108.181.20.159:55289/61e0f08a0009de79458530bd5bfa2605
-亚洲美食☬p3p://108.181.20.159:55289/62c9a44500000cd3c69dc74b77c62c82
-龙华卡通☬p3p://108.181.20.159:55289/6264b6e0000669483c6365b319d43878
-靖洋卡通☬p3p://108.181.20.159:55289/626104fd000e0f742df488f03ab9480b
-TLC台湾☬p3p://108.181.20.159:55289/5fe16de700083ba97787607e74d90cb5
-爱尔达影剧☬p3p://108.181.20.159:55289/644f91780000980d6808346f494d7ec1
-亚洲旅游☬p3p://108.181.20.159:55289/61e4f963000c710c55474e4e1e2273d9
-台视综合☬p3p://108.181.20.159:55289/61244c7000063b4e64ad23641aa067e7
-公视☬p3p://108.181.20.159:55289/63ebf0b7000e7d27e2de13a9113e7096
-壹电影☬p3p://108.181.20.159:55289/651c3a7e00035f9e8778a18d0aeb27f1
-纬来日本☬p3p://108.181.20.159:55289/5fe1add80007bbbd788125c43bf36060
-靖天日本☬p3p://108.181.20.159:55289/612db74f000c333c897629ac70920bef
-靖天国际☬p3p://108.181.20.159:55289/612db8220006940e897960753ab534e9
-龙华日韩☬p3p://108.181.20.159:55289/621e1d0e00085766289da9bb1d7120af
-靖天戏剧☬p3p://108.181.20.159:55289/612db70e000298f98975294e4645098b
-影迷数位电影☬p3p://108.181.20.159:55289/6223ae1b0007136f3e5c44280e3300fa
-Eleven 1☬p3p://108.181.20.159:55289/6027f40400042e0d8b002a1b0af27e77
-Eleven 2☬p3p://108.181.20.159:55289/6025f1d0000440c783278efb13a4147e
-Momo亲子☬p3p://108.181.20.159:55289/61e0ffbf000c4e3545c098666cb76c2d
-FTV影剧☬p3p://108.181.20.159:55289/63ebf3c5000246e9e2e9ff2f72d22633
-FTV综艺☬p3p://108.181.20.159:55289/63ebf41d000b6335e2eb595050b6303b
-FTV旅游☬p3p://108.181.20.159:55289/63ebf4b70008a733e2edb2296e997eb6
-龙华偶像☬p3p://108.181.20.159:55289/609bb1b0000732744f174daa791d3b43
-龙华戏剧☬p3p://108.181.20.159:55289/6214c295000a5fa204149eb30d3c30b4
-龙华经典☬p3p://108.181.20.159:55289/6223b9d8000ef67e3e8a2073190e36d5
-星卫娱乐☬p3p://108.181.20.159:55289/6233db960002ce6c7d8d07056a151e9d
-民视台湾☬p3p://108.181.20.159:55289/6388b888000de54e5f4c698049f16f53
-LoveNature☬p3p://108.181.20.159:55289/6233fcfa000be8f27e0f78035e656379
-TVBS☬p3p://108.181.20.159:55289/612ee5ef000f06f58e144b6727ec3efb
-TVBS精彩☬p3p://108.181.20.159:55289/61efd0a100047e1a7f9fa38d29f5746d
-TVBS欢乐☬p3p://108.181.20.159:55289/61e831a60008c7d761db13151abe16ae
-东森综合☬p3p://108.181.20.159:55289/5fe8c5570001412994347b4506da6ebb
-东森戏剧☬p3p://108.181.20.159:55289/60c02afe00055e7edd8f5fb06ca977d5
-靖天综合☬p3p://108.181.20.159:55289/6223bd68000c7a903e980a5524d66f67
-东森幼幼☬p3p://108.181.20.159:55289/62c9a6bb000ac34dc6a767036c5f3878
-中天娱乐☬p3p://108.181.20.159:55289/5ffae39100029825dafa1d03520571ac
-中天综合☬p3p://108.181.20.159:55289/5fe293ee000b7cbd7c03ecad72ba76ec
-东森超视☬p3p://108.181.20.159:55289/6388b74e000e69875f479f207662566b
-三立国际☬p3p://108.181.20.159:55289/5fe95e150003dbe09689221a68d3215e
-三立台湾☬p3p://108.181.20.159:55289/5fe2947f000c58a57c0623474ae64e07
-三立都会☬p3p://108.181.20.159:55289/5fe29458000eb9287c058b8b2e5806e8
-三立戏剧☬p3p://108.181.20.159:55289/623524310003dee68290a4c42edc7cf5
-WarnerTV☬p3p://108.181.20.159:55289/623a7c43000859b0977039e0175b0470
-纬来综合☬p3p://108.181.20.159:55289/5fe16e690002b73877895ae33a8a2a16
-纬来电影☬p3p://108.181.20.159:55289/62c860e50008ea96c1ae9a96599c6947
-纬来戏剧☬p3p://108.181.20.159:55289/5fe29426000330687c04c55011370c91
-纬来精彩☬p3p://108.181.20.159:55289/623a875d0001a53e979b95b628874e82
-八大第一☬p3p://108.181.20.159:55289/5fea93070007b1939b3ff46f17b905c7
-八大戏剧☬p3p://108.181.20.159:55289/6224f676000aef1a435e76c619855b4e
-八大娱乐☬p3p://108.181.20.159:55289/5fe293b60007594a7c0310e05b6a27ac
-八大综合☬p3p://108.181.20.159:55289/61a57c52000cc2015d49e9e91be106b6
-靖天映画☬p3p://108.181.20.159:55289/6258eae500040fd80e4f0b2311754279
-博斯网球☬p3p://108.181.20.159:55289/6275f21d000aeb447fb1e83c30d60273
-美食星球☬p3p://108.181.20.159:55289/62c9a5620009f165c6a22320701370b6
-探索台湾☬p3p://108.181.20.159:55289/62c759f2000bc06bbdab761176c927da
-DMAX台湾☬p3p://108.181.20.159:55289/62636a890008309f3751324a7688052d
-History台湾☬p3p://108.181.20.159:55289/6233e1a30007e08d7da4ab21717b3e79
-IFUN爱放☬p3p://108.181.20.159:55289/63ed9c5c0008711fe9648ea407167ba7
-JET综合☬p3p://108.181.20.159:55289/621e14f2000381b7287dfb1557135ff8
-靖天欢乐☬p3p://108.181.20.159:55289/6258f7e400070ac10e81d00831393e97
-靖天育乐☬p3p://108.181.20.159:55289/6223be04000a57323e9a6b2919b21d76
-博斯魅力☬p3p://108.181.20.159:55289/612ee43d000c84ea8e0dab707a8b2e0d
-Momo综合☬p3p://108.181.20.159:55289/621e17750005eaa02887cb6e61ea2a58
-龙华洋片☬p3p://108.181.20.159:55289/64c0e1af000875f522a785c0570b06ae
-中视经典☬p3p://108.181.20.159:55289/621db24e000d4a9726fcacfd58c400a2
-影迷纪实☬p3p://108.181.20.159:55289/62c9a2fe00025fc4c698ca952e9711cb
-Amc最爱电影☬p3p://108.181.20.159:55289/625bbd49000d7c0d1954e42d45bc3182
-靖洋戏剧☬p3p://108.181.20.159:55289/626104d8000627c22df3f662158708fa
-靖天电影☬p3p://108.181.20.159:55289/61ed0469000059af74b25aa267531e5a
-民视第一☬p3p://108.181.20.159:55289/5fe0a665000c49bf747c0dbd57ec09a3
-MTV台湾☬p3p://108.181.20.159:55289/621e1827000d7a3a288a84ae70c44b0d
-Life Time☬p3p://108.181.20.159:55289/623a91f0000d3ab297c4e6e2101d46b4
-GOOD TV☬p3p://108.181.20.159:55289/63ed9f4900046160e96ffb5b44333476
-民视旅游☬p3p://108.181.20.159:55289/61769f2d000d84d7a63c4df74f4f24c4
-爱尔达体育1☬p3p://108.181.20.159:55289/623a8d50000c965397b2d5b26c7b25bd
-爱尔达体育2☬p3p://108.181.20.159:55289/623a8d8d0001570d97b3c11a65640b68
-爱尔达体育3☬p3p://108.181.20.159:55289/622e99e60004026169046fd918be6ed7
-爱尔达体育4☬p3p://108.181.20.159:55289/652ba3c60001423dc3ab8c2653167dc9
-历史频道☬p3p://108.181.20.159:55289/6233e1a30007e08d7da4ab21717b3e79
-历史频道2☬p3p://108.181.20.159:55289/6233e2240002d3af7da6a1bf693a1ed5
-探索频道☬p3p://108.181.20.159:55289/62c759f2000bc06bbdab761176c927da
-Trace Sport☬p3p://108.181.20.159:55289/644faccf000c7b6368730354764b17ed
-天映经典☬p3p://108.181.20.159:55289/5fded422000d0eb46d5f29815c1d4155
-韩国娱乐台☬p3p://108.181.20.159:55289/621e16b0000ec4772884cc295a1614a8
-爱尔达娱乐☬p3p://108.181.20.159:55289/654f2d84000107fc4e7d1a7a77631ac2
-台视财经☬p3p://108.181.20.159:55289/6223b571000a13023e78ece5030b5b05
-Cinemax☬p3p://108.181.20.159:55289/64ce039d0009f00b55f3e422778f3af3
-Catchplay☬p3p://108.181.20.159:55289/6258e5c9000dd0d00e3b184c1b9c4f4c
-Catchplay Beyond☬p3p://108.181.20.159:55289/624886bd0005941ace48b3ef71407d9e
-Cinema World☬p3p://108.181.20.159:55289/6233e8f1000112b17dc1320c7d1c4049
-MyCinemaEurope☬p3p://108.181.20.159:55289/6233fc79000a0ea07e0d7fa1125015d0
-三立综合☬p3p://108.181.20.159:55289/6233dc940004f17a7d90e7c364b93c82
-八大综艺☬p3p://108.181.20.159:55289/621e16570009521a28836f1b4c052719
-民视综艺☬p3p://108.181.20.159:55289/60226655000c42b2754eb8925f3a52d9
-八大精彩☬p3p://108.181.20.159:55289/6223beb7000542db3e9d251558fb45b1
-纬来育乐☬p3p://108.181.20.159:55289/6214bdc7000061300401d77e20cc43d8
-纬来体育☬p3p://108.181.20.159:55289/5fe16e4c000e45c17788ec964e9c5564
-Life Time 台湾☬p3p://108.181.20.159:55289/623a91f0000d3ab297c4e6e2101d46b4
-Life Time 台湾☬p3p://108.181.20.159:55289/6233e3870008739f7dac0de912e2311a
-Boomerang☬p3p://108.181.20.159:55289/621e313f0005594c28ec88582a49029c
-爱尔达综合☬p3p://108.181.20.159:55289/644f9341000c1001680f3089032174aa
-卫视西片☬p3p://108.181.20.159:55289/60c79e440000ec5bfaa9367854ba796d
-原住民电视☬p3p://108.181.20.159:55289/64450b180002b23d3eeb784a0aa62e20
-公视戏剧☬p3p://108.181.20.159:55289/64450cdd000b67ea3ef2640f773a7ec7
-EVE HD☬p3p://108.181.20.159:55289/6445172e000920783f1aafee754f43e4
-HGTV☬p3p://108.181.20.159:55289/644518fd0002d5953f21bedc56b6465f
-TVBS亚洲☬p3p://108.181.20.159:55289/6484e089000a5e7a38440c1e1ace3b27
-TVN HD☬p3p://108.181.20.159:55289/644f9623000a4051681a72d66bfc0191
-Classica古典音乐☬p3p://108.181.20.159:55289/6452b4f1000c38e8744ac80744c33d67
-Mezzo Live☬p3p://108.181.20.159:55289/6452bcb000039d52746907f4476f5e7b
-猪哥亮歌厅秀☬p3p://108.181.20.159:55289/6452bbf2000d02457466242b0e5c5ea2
-UniverseTV☬p3p://108.181.20.159:55289/644fbb7c0004a5e968ac550c11f72df5
-Global Trekker☬p3p://108.181.20.159:55289/644fb34f000f396e688c67ff6b147338
-高点综合☬p3p://108.181.20.159:55289/64c7cf1b000247a33db6c6660f1427b6
-高点综合☬p3p://108.181.20.159:55289/6483819d000e97b032e96e1f26b40f0b
-人间卫视☬p3p://108.181.20.159:55289/64bbd61c0005f2d80ef27a2574246048
-霹雳台湾☬p3p://108.181.20.159:55289/644507280004aa433edc17562e211a38
-Baby TV☬p3p://108.181.20.159:55289/64bea3f00002bdf919e6522520650b26
-华艺综合☬p3p://108.181.20.159:55289/64c62137000746f437278510051625d8
-ELtoday综合☬p3p://108.181.20.159:55289/64c7d0cb0005131a3dbd5e9f3e8523f2
-国会频道 1☬p3p://108.181.20.159:55289/64ce0646000722d755fe479603e64ba8
-国会频道 2☬p3p://108.181.20.159:55289/64ce06980008b4f755ff884d646a56da
-SMART☬p3p://108.181.20.159:55289/64e367a800053465a982145d191f168f
-CMUSIC☬p3p://108.181.20.159:55289/64e368dc000e5b23a986c9d62f9604df
-寰宇财经☬p3p://108.181.20.159:55289/64e36edf00052681a99e432a601547f5
-Rock Action☬p3p://108.181.20.159:55289/64c61f34000b815b371faa6b51f85140
-Rock Entertainmen☬p3p://108.181.20.159:55289/64c61fa0000234d837214dea59b57166
-Rock Expreme☬p3p://108.181.20.159:55289/64c6200b000b7fb53722f24464fa73dc
-视纳华仁纪实☬p3p://108.181.20.159:55289/62c9a3be00088219c69bba2111fd091e
-大立电视☬p3p://108.181.20.159:55289/64c4d2ba00051d1d320d17d218503f93
-番薯台☬p3p://108.181.20.159:55289/64c27b030001a1b728e6741548c32c95
-时尚运动☬p3p://108.181.20.159:55289/644fc33200017f2468ca733749451091
-大爱1☬p3p://108.181.20.159:55289/63ed9fff00076875e972c31c79f4152e
-大爱2☬p3p://108.181.20.159:55289/63eda04a0001f6fae973e6a334696980
-国兴卫视☬p3p://108.181.20.159:55289/64bbca22000912200ec3b2631bca27c7
-HBO 1 US☬p3p://fccsen.dyndns.tv:29706/5a80a39f0007f7154226c7df693733ac
-HBO 2 US☬p3p://fccsen.dyndns.tv:29706/5a80a6c0000554e44233001e438b75ab
-HBO Signature☬p3p://fccsen.dyndns.tv:29706/5a80bfb700059ffd42948508086841ca
-HBO Family☬p3p://fccsen.dyndns.tv:29706/5a80c1190001c0ab4299eadc7b933bf2
-HBO Comedy☬p3p://fccsen.dyndns.tv:29706/5d44e194000bc15bce7b7c530ca97fd1
+港台频道,#genre#
+HOY TV FHD,http://ali.hlspull.yximgs.com/live/9G57xpRWIPGT6zHDx9hxTkKhs9hMgyXG.flv
+中天娱乐 FHD,http://ali.hlspull.yximgs.com/live/nAzEwfAKYM453a4qn9jEHOyRG4hxd1yD.flv
+明珠台 HD,http://ali.hlspull.yximgs.com/live/xs4oFadCoiLi3W2ahFNqzyN0zacieV6Q.flv
+亚洲剧台 HD,http://ali.hlspull.yximgs.com/live/3wgJ4hkxHnIGcCtYgji1qfQxXV1Wjy17.flv
+J2 FHD,http://ali.hlspull.yximgs.com/live/zryS7IEWxYtQHWQgrQjnKLz906i5nI8n.flv
+华语剧台 HD,http://ali.hlspull.yximgs.com/live/eKvcRWhZ68iNh9V8xZticWCCdiX5ZlUK.flv
+Now财经台 HD,http://ali.hlspull.yximgs.com/live/CpSr1I8B1uM6eCRECdm1SSkjqF7sqkII.flv
+翡翠台 HD,http://ali.hlspull.yximgs.com/live/gdz9HUZHjrqhZGTSql2rus8WmsU9pxAk.flv
+TVB星河国语 HD,http://ali.hlspull.yximgs.com/live/5h5II7CSeMFYQJYVtPredVg2HWi2nc0e.flv
+ViuTV Six HD,http://ali.hlspull.yximgs.com/live/QDN8VKvCgCpLVhzxjruvB66YFcbXIBht.flv
+粤语片台 HD,http://ali.hlspull.yximgs.com/live/doAlNZYoVerlXMRUSCKQXEI6qtYtCKl1.flv
+香港国际财经台 FHD,http://ali.hlspull.yximgs.com/live/94pOdeuOnk8TrNSP3vx1Eu3RUi0Imhp9.flv
+三立都会台 FHD,http://ali.hlspull.yximgs.com/live/NrRJKGOfUFoFxx8MIKeR0P9iy4P2qwpG.flv
+千禧经典台 HD,http://ali.hlspull.yximgs.com/live/dE4nqhPf3s6tYY5rYEUDRVtibz4YAE42.flv
+无线财经体育资讯台 HD,http://ali.hlspull.yximgs.com/live/V1avo856B697zXZVAGcVKXie3aYm3H8C.flv
+RTHK 32 HD,http://ali.hlspull.yximgs.com/live/SplI9gHSdxigk3eYzAhiRfJAUXv5cCXe.flv
+黄金华剧台 HD,http://ali.hlspull.yximgs.com/live/Y2v47iAO0OldqqEEEO7C2Olp7fehsVk1.flv
+娱乐新闻台 HD,http://ali.hlspull.yximgs.com/live/fNsficwBtGLdwVRlGANdhUEY88vlw6QL.flv
+功夫台(粤语) HD,http://ali.hlspull.yximgs.com/live/An8QrwfbBrRUuXHEzAeUSpDdVo4p0X03.flv
+TVBS欢乐台 FHD,http://ali.hlspull.yximgs.com/live/gCqaa16OLxydP2mb9wBzSJTv8NZ1DVTg.flv
+ViuTV FHD,http://ali.hlspull.yximgs.com/live/5pRUoGcFyJRmsIXRZNZNMjh7gPYp5P2C.flv
+Now新闻台 HD,http://ali.hlspull.yximgs.com/live/dQSBWwUyiBFIUgbdnoPMCAgTT1Fp9Udu.flv
+美亚电影台(粤语) HD,http://ali.hlspull.yximgs.com/live/yHtaXgdpWCu1VJjr4SOnLkFPJ1inkXCw.flv
+Now Sports 英超 1 HD,http://ali.hlspull.yximgs.com/live/7ERaHITN6rVLaVj39AWDFXsNNI4Pkeor.flv
+无线新闻台 FHD,http://ali.hlspull.yximgs.com/live/R9O74W1wSezV8HAGfX1iRxDq3nxKlygX.flv
+HOY资讯台 FHD,http://ali.hlspull.yximgs.com/live/W9m8X9oNpo3AmpppVkhxN3eNNbH8Gt4a.flv
+澳门莲花 FHD,http://ali.hlspull.yximgs.com/live/4moSXrX3baoWGVuFPIEoHRfLPZq9x5A5.flv
+有线18台 FHD,http://ali.hlspull.yximgs.com/live/oPmP3KnX1EBEl1TsmB0XgJiXlILroGPR.flv
+三立综合台 HD,http://ali.hlspull.yximgs.com/live/AaaxDsvQsw2X9WPrdsxte2yxbQsyNxux.flv
+Hands UP HD,http://ali.hlspull.yximgs.com/live/9OwRHuVALhMaI9HfDjQaM1Ubt5mlueMY.flv
+RTHK 31 HD,http://ali.hlspull.yximgs.com/live/VxK5vbTeDhr0S1xShwanheUfSxqt94JX.flv
+华视 FHD,http://ali.hlspull.yximgs.com/live/x5MasbU30JPkaofBhREeoLBEG0jEQJaM.flv
+中视 HD,http://ali.hlspull.yximgs.com/live/T00OpDZw57kSNHx71XtRf4nCvVOOZfMI.flv
+中天综合 HD,http://ali.hlspull.yximgs.com/live/hETJ5LlqCB0D5Pjnj7WYXGVQ3DxNbFlM.flv
+中天亚洲台 FHD,http://ali.hlspull.yximgs.com/live/8Zy4qBPcmkKtYa55c0rNPKwzHWzI2Wch.flv
+三立台湾台 FHD,http://ali.hlspull.yximgs.com/live/WcAPDrTZlGrv5H4rjFsd7sKxKiaXyj20.flv
+民视台湾台 FHD,http://ali.hlspull.yximgs.com/live/XxeSWuVdPIaw7T76yQhv4CQ7Gv9SQRkN.flv
+八大戏剧台 FHD,http://ali.hlspull.yximgs.com/live/4JZBMcffo9Pdw1n9f6H4U3IBT2ES1UNc.flv
+民视 FHD,http://ali.hlspull.yximgs.com/live/9FE0AEy6LzYVdZeVcIIx47OVQ9eyehkX.flv
+东森超视 FHD,http://ali.hlspull.yximgs.com/live/zBoKQVDwBiIDWgdZ1D0dgwLPzng6Vwpd.flv
+公视 HD,http://ali.hlspull.yximgs.com/live/IFSgv3neRNaVJT0CcqTHw3Cfe1BdoWQK.flv
+八大第一台 FHD,http://ali.hlspull.yximgs.com/live/5w6CM6MrXtboeqjXCZ9jbW2bGccfXPsV.flv
+Now直播台 HD,http://ali.hlspull.yximgs.com/live/0nUp0LUMnCtYCp5GQWuknMYmGc7C6kKF.flv
+八大综合台,http://ali.hlspull.yximgs.com/live/Gr01yug0AN5ahnfkZUAHQGxbZlesQ6CL.flv
+八大精彩台 FHD,http://ali.hlspull.yximgs.com/live/lPlWvbsmVNpcBfQkLO2IlKB9SpPrce7y.flv
+东森综合 FHD,http://ali.hlspull.yximgs.com/live/SbdzoqT0OmyrTAAt3BZ7innPkSlUTD5v.flv
+民视第一台 HD,http://ali.hlspull.yximgs.com/live/ntsCci0DFVTfka6amLzbNxMxVJFpwCo3.flv
+龙华偶像 HD,http://ali.hlspull.yximgs.com/live/YnnxYGZFhLhxnCy3KF06Whh4dSb8pTyn.flv
+三立戏剧台 HD,http://ali.hlspull.yximgs.com/live/LJ5BwHpACD1y9smdPYh2tiItiB4Vjxq7.flv
+民视第一台 HD,http://ali.hlspull.yximgs.com/live/0CKgWKBTyfmjl8NlXbO6CEnCsyyUXJMn.flv
+阿里郎 HD,http://ali.hlspull.yximgs.com/live/rerVpzpnAcq4N9V4GDRWeDtznsk6jfcS.flv
+靖天国际台 HD,http://ali.hlspull.yximgs.com/live/SbmAJosU6BxAChGS0m7Xv8tY8573AHdk.flv
+纬来日本 FHD,http://ali.hlspull.yximgs.com/live/9MIWWnc1Cf7AHZ9xvzs7XPR27rM7h12G.flv
+博斯高球1 HD,http://ali.hlspull.yximgs.com/live/cYfqeta2uRr5oNCKh6bc4Tpd3W4a9X1N.flv
+博斯高球2 HD,http://ali.hlspull.yximgs.com/live/t4BMXso901v5tvApMNvQvAih2ifePhRa.flv
+SONY sports 3 FHD,http://ali.hlspull.yximgs.com/live/5Bul6vQz6JVM0HcfPnlSonp4yzmhmSEa.flv
+纬来体育 FHD,http://ali.hlspull.yximgs.com/live/MPBv4U8XHY0hKbKny9h9QBsODcpahCQa.flv
+ELEVEN体育1台 FHD,http://ali.hlspull.yximgs.com/live/3BhMHNrhZgeNoV7pIw4xOJsvibSu8H64.flv
+NBA TV FHD,http://ali.hlspull.yximgs.com/live/7dqsDYiqDp3P9EIPBORWX8eja813Ezcg.flv
+爱尔达影剧 HD,http://ali.hlspull.yximgs.com/live/oCwx4FJv9YLkfc8aYHXSP7jTpnpImjUF.flv
+ELEVEN体育2台 FHD,http://ali.hlspull.yximgs.com/live/7Z8a1wvSe8OYQb2FAfLEI9EPhYj6kmYJ.flv
+博斯运动1 FHD,http://ali.hlspull.yximgs.com/live/76kiAxN2wUIXDDt9VnkMLM4o1uxStCUg.flv
+博斯网球 HD,http://ali.hlspull.yximgs.com/live/4rPF6JOMrTynrti2kFVlhirFTcBfGmgC.flv
+SONY sports 1 FHD,http://ali.hlspull.yximgs.com/live/LxkKrE7ZYYk5zGmWXnUFNSqPiPNdS10R.flv
+TSN 2,http://ali.hlspull.yximgs.com/live/f0bLB3r8xm72TsEbd1CJpfSrMLlkn0y9.flv
+博斯运动2 HD,http://ali.hlspull.yximgs.com/live/h9gmuhbNG0b2990V1T4Pu2ek8fEfY9mn.flv
+Premier Sports FHD,http://ali.hlspull.yximgs.com/live/mnaCdpDTnvCiEszhvKCgnvphdylBHXU4.flv
+靖天卡通台 HD,http://ali.hlspull.yximgs.com/live/KFWP4D6E2E9SbXRa4rnCJx0UYl8876sC.flv
+NBC Golf HD,http://ali.hlspull.yximgs.com/live/VL32Q763ndmqvY0vX92RNjol7wvxrO4T.flv
+WWE HD,http://ali.hlspull.yximgs.com/live/UV5qXWvzXfSvodcViKG6COOhMxWJ61MO.flv
+SONY sports 2 FHD,http://ali.hlspull.yximgs.com/live/IopmzKrD3eFQ1I32fr1BnSf9kKSPVzI9.flv
+STV,http://ali.hlspull.yximgs.com/live/MbBrgTebUxa8n5Rxonsy7HXlMTOnJ5ve.flv
+Eurosport 2 HD,http://ali.hlspull.yximgs.com/live/hXuHMVo61kyQcBOeVIeA7RgK67BSE7Hd.flv
+TNT Sports 2 FHD,http://ali.hlspull.yximgs.com/live/n4RlxH3LNbDaCXZsA9LhuYaqN6PrVFAM.flv
+TSN 1,http://ali.hlspull.yximgs.com/live/vveuB1hONzxC4Uc8nyzGwV1RYL7fXHYJ.flv
+CBS SPORTS HD,http://ali.hlspull.yximgs.com/live/VHv0kk0YZ5yWChFBPwbY2OS1vKPt51xS.flv
+TNT Sports 1 HD,http://ali.hlspull.yximgs.com/live/KV2WXZa5EN19NzxrZdnzgEUkd7QhZmXA.flv
+True premier football 2 HD,http://ali.hlspull.yximgs.com/live/0WWtgjXt7LpPACaosz9yQjD4GL8ehZte.flv
+FS1 HD,http://ali.hlspull.yximgs.com/live/uLKy4P1eb6QdZnWDBKtsrA5k9xq3sMwU.flv
+True premier football 1 HD,http://ali.hlspull.yximgs.com/live/h5GOlsHgP6sPZ2fefmkI9uGNQEOEhnDK.flv
+Eurosport 1 HD,http://ali.hlspull.yximgs.com/live/yND21yU9ZfVudvgadVIDzjyRVkbJK9xc.flv
+astro Arena HD,http://ali.hlspull.yximgs.com/live/fruIghNDnYPWL4dm876uXZNuSgT8RaTO.flv
+TNT Sports 4 FHD,http://ali.hlspull.yximgs.com/live/p6jnsrjREJ5ASJsEJJ5GyWcMeWnHtp2i.flv
+TNT Sports 3 HD,http://ali.hlspull.yximgs.com/live/vwvjSVxa0q92Q5cIOLtmO3ljln7r2ff9.flv
+Premier Sports HD,http://ali.hlspull.yximgs.com/live/5k1D3oSmi9tYVL3fDP0o2sR2CsQI00Pa.flv
+SUPER FREE HD,http://ali.hlspull.yximgs.com/live/CBpCo0y7H9n5F2gD7qurb2sEyHc6CtBw.flv
+Sky Sports Main Event FHD,http://ali.hlspull.yximgs.com/live/OSjZG0a9Pd7dcSt7dlyXsUUqUi5oQMTQ.flv
+Sky Sports Golf FHD,http://ali.hlspull.yximgs.com/live/3nRIHu0O5q1NRk05nSwTzAxR6jmjqXjW.flv
+博斯无限2 HD,http://ali.hlspull.yximgs.com/live/nTLHstPtRWlreT11j1XVZlxZIKqg8jG0.flv
+FS2 HD,http://ali.hlspull.yximgs.com/live/iCkqUcolff2PTNlOWS2qX562YSlm3mvK.flv
+ESPN HD,http://ali.hlspull.yximgs.com/live/QJzNLuqdphMPDaOfschPACYgb1f5j7IG.flv
+HBO HD,http://ali.hlspull.yximgs.com/live/id6yv1LTT4yABCfQmwSl2bPcnzTd13s2.flv
+ESPN 2 HD,http://ali.hlspull.yximgs.com/live/L1yQvdTsK8wSSOW4eonGDtaF5IFwuVnD.flv
+卫视中文台 FHD,http://ali.hlspull.yximgs.com/live/QxiVFs88MC4l3nOY5AUZTbGCbJsTT4Mq.flv
+HBO原创 FHD,http://ali.hlspull.yximgs.com/live/55GqloBwWHKcv28xHDrP3GRocVixC9rS.flv
+天映经典,http://ali.hlspull.yximgs.com/live/Bu8plB2VyzVJ6QN7z1AqObl4ADCthTnl.flv
+HBO强档 FHD,http://ali.hlspull.yximgs.com/live/ThoDuA6y07clx1msoBqME3BVQvjozNLM.flv
+纬来电影 FHD,http://ali.hlspull.yximgs.com/live/Tqpjwd2xLAqX88760wFahWXeQYXYpjy0.flv
+WBTV华纳影视 HD,http://ali.hlspull.yximgs.com/live/lhXJXWRMqalA79Tf9pRUqqGYLHUIvdS8.flv
+CINEMAX FHD,http://ali.hlspull.yximgs.com/live/EFWMcHEp7fYcfT7YdXcIbHJ8pycMSU8O.flv
+美亚电影台(国语) HD,http://ali.hlspull.yximgs.com/live/mqiQn5Qj9yWCAO20dpJYQ9FUyi5nCufn.flv
+东森电影 FHD,http://ali.hlspull.yximgs.com/live/qJQ6Cs3QeBw2QewdcuzH9Z8x8oZ7QXaJ.flv
+东森戏剧 FHD,http://ali.hlspull.yximgs.com/live/f2jG8VDWOnv7szVvIAgzFGY9yFNrq2bz.flv
+Hits Movies HD,http://ali.hlspull.yximgs.com/live/TXvoMNfBg1D6I5AQkN0PqMCXOaz9QFNt.flv
+龙祥时代 FHD,http://ali.hlspull.yximgs.com/live/3PAJwKD6IcDd1TA2o9W1OPWBxaX2Wrs0.flv
+STAR MOVIES FHD,http://ali.hlspull.yximgs.com/live/tnFj4JzYDWNOpxr6Lovh4RIhMh9P3wlI.flv
+HBO家庭 FHD,http://ali.hlspull.yximgs.com/live/tbjxKY5ACrzDAXilMZRbjNCV9EQAW4U6.flv
+AXN洋片台 FHD,http://ali.hlspull.yximgs.com/live/zuVQWTC8r6efuyJNtEj5e4U2kLCc3Ijf.flv
+卫视电影台,http://ali.hlspull.yximgs.com/live/HTMjWpgdsx9kKnUjLi53TxIB41rFY5Y8.flv
+龙华洋片 HD,http://ali.hlspull.yximgs.com/live/PKJ8nhumu7UTnuJf6iejUXZngWRF5mGX.flv
+探索动力 HD,http://ali.hlspull.yximgs.com/live/oiahmEgAxD2Afqr5gM8L0xDw25ovJSWI.flv
+SPECTRUM SPORTSNET HD,http://ali.hlspull.yximgs.com/live/ttWNVA1gs6E1OR4IvYzZTR2QO9k6xF9B.flv
+KIX格斗台 HD,http://ali.hlspull.yximgs.com/live/7G68OtHxbzDLuJwYQxaIw2KKutOQE965.flv
+BOO HD,http://ali.hlspull.yximgs.com/live/xZbGz7QBwPHu4iIetlGshLI1NcgBZP7H.flv
+国家地理野生 HD,http://ali.hlspull.yximgs.com/live/P2B0CVbu5Wa4rwyKzjW8l5EDclduinPe.flv
+One HD,http://ali.hlspull.yximgs.com/live/8taV6EmNtANJ977HQmQRvNruqMV4sRI2.flv
+亚洲旅游台 HD,http://ali.hlspull.yximgs.com/live/TmVnDYezp6UTyZP9yKgcze4qw5Jy9T4Q.flv
+天映频道 HD,http://ali.hlspull.yximgs.com/live/BfK9GxW5tvDgwqqDpfWGJYwtA6Fr0Rwg.flv
+动物星球 FHD,http://ali.hlspull.yximgs.com/live/wB65tQuHD1XMyJCacvpYmFDMBYTsZw2u.flv
+CI罪案侦缉 HD,http://ali.hlspull.yximgs.com/live/DnTDCtoU9puMnxiGSciLYyqZl4Y8zcbK.flv
+探索亚洲 HD,http://ali.hlspull.yximgs.com/live/22gyO7LOcoaxFE4samfnGFtITMH7LCKP.flv
+国家地理高清 HD,http://ali.hlspull.yximgs.com/live/EmaQNh3ZQwFtd3PJYb9nWKVhMP2xbhFZ.flv
+历史频道 HD,http://ali.hlspull.yximgs.com/live/M5Y7XvgzbNs61s7hg6OTh460p3MlV0W5.flv
+好莱坞电影 FHD,http://ali.hlspull.yximgs.com/live/bQ8HTF38zo3OQ9kK4gSkBqOmWhUWH66C.flv
+TLC旅游生活 HD,http://ali.hlspull.yximgs.com/live/7dGJVvZFdKVaMN4U1nC9yPlMOmgXK0dq.flv
+民视新闻台 FHD,http://ali.hlspull.yximgs.com/live/yw3A65jxd833rqcxHjUNIJGF9vmsYfEy.flv
+中天新闻2 FHD,http://ali.hlspull.yximgs.com/live/nIJgyNkWYYhZk1NhV0xumfa8yHO2dGlU.flv
+MTV Live HD,http://ali.hlspull.yximgs.com/live/5Sho22EGlrhV6OCnPfgrJncOfpQB6Bhi.flv
+探索频道 FHD,http://ali.hlspull.yximgs.com/live/kGaVRgZqEK7TAFaXyPXBNDDM1bNJNAGf.flv
+东森新闻 FHD,http://ali.hlspull.yximgs.com/live/wB89LJLiKumj1uxg0z0mdcsiLiq2JKwL.flv
+sky news FHD,http://ali.hlspull.yximgs.com/live/CYlOchOZTxdntrVObR9MGfvQhQlUq9mr.flv
+台视新闻 FHD,http://ali.hlspull.yximgs.com/live/OdehsAmKcariZ5u2PkZdWCSwJ4SYWXPo.flv
+BBC earth HD,http://ali.hlspull.yximgs.com/live/2nwTqqYCtUTbyT0BsXjcYhh90czONKcI.flv
+BBC lifestyle HD,http://ali.hlspull.yximgs.com/live/XETFmfaOlTrI1sE3SCxWwkhsvOoIqxSF.flv
+Thrill恐怖台,http://ali.hlspull.yximgs.com/live/Tb697JaKaXlECGJma1lzOzglOD975DWo.flv
+tvN Movies HD,http://ali.hlspull.yximgs.com/live/uEVm0CAxVLzS80nAIZYzF3EGws7owtjR.flv
+TVBS新闻台 HD,http://ali.hlspull.yximgs.com/live/83eBkqmaFnLKllfxDwtX1SkppnZIhFTY.flv
+HGTV HD,http://ali.hlspull.yximgs.com/live/RXSJArD29Jbeg7gS8PEjAbsmq1k97R4C.flv
+寰宇新闻台 FHD,http://ali.hlspull.yximgs.com/live/GK5j6mSOZVoTLXhgBHh7CxHEbkAZQRa0.flv
+非凡新闻 HD,http://ali.hlspull.yximgs.com/live/sGghLTC82Fkx0OVXT0jTKy3bOhdqxYH8.flv
+TVBS FHD,http://ali.hlspull.yximgs.com/live/zCVFH0Yo1JDTpchSfDkFD3FXa39TTLIo.flv
+中天新闻 FHD,http://ali.hlspull.yximgs.com/live/WBmExzaipbylHF1dZRaTR3urmLtbAUMB.flv
+探索科学 FHD,http://ali.hlspull.yximgs.com/live/Sycxd8voVapVj7waJpzDdYv3awr8PZfv.flv
+CNN HD,http://ali.hlspull.yximgs.com/live/K6avSNJgwsK8FzzfumvR8NqSp97JLrdw.flv
+中视新闻 FHD,http://ali.hlspull.yximgs.com/live/Lf0kF8abfPUVLtv6lNpxQjdoCUZItIQn.flv
+壹新闻 HD,http://ali.hlspull.yximgs.com/live/INyS168qmZRk1deZKiCwGvJZ6aCfnBC1.flv
+镜新闻 FHD,http://ali.hlspull.yximgs.com/live/naIgR9fnv2PnMBAdG92Eh1rO5Y22c3TW.flv
+CNBC FHD,http://ali.hlspull.yximgs.com/live/lkBt794Gbc9o41mvS4t8T4sB7rEuqfdr.flv
+SONY PIX FHD,http://ali.hlspull.yximgs.com/live/IFd63Eg1V3fpWtjrrfZzKASqnrWiqK6R.flv
+CBS News HD,http://ali.hlspull.yximgs.com/live/O8wL7OIfwMDFRHxdKquXYmh4P6qMU7E2.flv
+CGTN HD,http://ali.hlspull.yximgs.com/live/tMMbj6Qu7wPKBxO6Cbk07nNwaT2F1w7b.flv
+AlJazeera FHD,http://ali.hlspull.yximgs.com/live/DPIJckefhDilC3lnId3zQDXshDE2x3zh.flv
+ABC NEWS HD,http://ali.hlspull.yximgs.com/live/xxaToPY70C3FMt4yeJ9jwFowkJLIdiOb.flv
+东森洋片 FHD,http://ali.hlspull.yximgs.com/live/bqikD2lNVu5rNN8n095SYLroxLcFuJV6.flv
+寰宇新闻台湾台 HD,http://ali.hlspull.yximgs.com/live/o1L8g5CSXEGXPFLQiiTsKAqsGZLNKH4u.flv
+年代新闻 FHD,http://ali.hlspull.yximgs.com/live/CJbPEDwTcMjCxOsJZw2WtOdDpwPN2Y9e.flv
+astro AEC FHD,http://ali.hlspull.yximgs.com/live/Z3sfIyceTrg7u7GacaoWuHs3yxtTl6fG.flv
+华视新闻资讯 HD,http://ali.hlspull.yximgs.com/live/r24DbmPYKUWydnvtySJLHr78yLuEocLB.flv
+RT FHD,http://ali.hlspull.yximgs.com/live/UBn0PKxAypvnfieVo4QrPLXFVCDnS8jb.flv
+Golf HD,http://ali.hlspull.yximgs.com/live/sWOo1dL7bzhyRycWGSVDaBpooKgwAJx0.flv
+华藏卫视 FHD,http://ali.hlspull.yximgs.com/live/dd2TPlrUKGGNxNp3dQu7rowWozFvA0Ra.flv
+NBC Golf FHD,http://ali.hlspull.yximgs.com/live/roUAUdOT35rBTaZ51iJ1vlxAu4Oswakl.flv
+France 24 FHD,http://ali.hlspull.yximgs.com/live/WNIqQkDGqGLwwfaXYgOZB7AhZpMqclcd.flv
+NHK World FHD,http://ali.hlspull.yximgs.com/live/LP5u1V6tqojGI4xKLnVQXX9whPdqEvHp.flv
+FOX NEWS HD,http://ali.hlspull.yximgs.com/live/zNCdZrnsPhrk33SN86pKePz6oh47RZ9w.flv
+CP24 HD,http://ali.hlspull.yximgs.com/live/wORx08c0rLZQlTYqZnppGtkSHo3sr7Mm.flv
+DW TV HD,http://ali.hlspull.yximgs.com/live/GvE8nUVD73kr0OLDiVjHrTU8of0tP8X4.flv
+One Golf HD,http://ali.hlspull.yximgs.com/live/sRwy3cpa2Kd20uuNvOx7NgmFyTukv1OB.flv
+now爆谷台 HD,http://ali.hlspull.yximgs.com/live/Xx1x56WQPuXDdt1xdVmb3kmHUphyoxE8.flv
+astro AOD HD,http://ali.hlspull.yximgs.com/live/LUS8CLX23dkWqqXMa1MLyxSabwLhCcEc.flv
+Bloomberg HD,http://ali.hlspull.yximgs.com/live/vUH3E1xm2KuZ9v70j7dAwmuc8sX3sYTU.flv
+新唐人亚太台 HD,http://ali.hlspull.yximgs.com/live/6S5328JElIyU678hORlDFUh66PBMBG7j.flv
+astro 小太阳 HD,http://ali.hlspull.yximgs.com/live/hJFbJi4GPYx7HN7jmWfpcsxTppZPAj3j.flv
+爱奇艺 HD,http://ali.hlspull.yximgs.com/live/GudcbNIee2fuYzGJAtp5iUJE451xzmrl.flv
+凤凰资讯 HD,http://ali.hlspull.yximgs.com/live/UWEG2Rg0ksaKZPmuoLQakBX25ThINfZZ.flv
+凤凰香港 HD,http://ali.hlspull.yximgs.com/live/2UMEU5KqwbH8JWzK7nyf8cCUDEzHTPEQ.flv
+爱尔达体育1台 HD,http://ali.hlspull.yximgs.com/live/aX4dlF2nNqyrilYsR7C9UhHM11z94lZD.flv
+astro 全佳 HD,http://ali.hlspull.yximgs.com/live/3rND2Kgj9NQMVmBp3Tz3o78n1OUv3L7l.flv
+东森幼幼 FHD,http://ali.hlspull.yximgs.com/live/a2PiCv0nFTUJBqS294K5ZY7Gw0ocumEf.flv
+翡翠华丽台 HD,http://ali.hlspull.yximgs.com/live/ErKEKxtCRYN4cMJwqpAGdWHO8fth1CZk.flv
+戏曲台 HD,http://ali.hlspull.yximgs.com/live/wHLuab6T8qO0CTZGYZFWgHz2WAsRKeCL.flv
+now星影台 HD,http://ali.hlspull.yximgs.com/live/jUGF2p2bHzRCo6Aw8tYuPwCAlqhotf1W.flv
+凤凰中文 HD,http://ali.hlspull.yximgs.com/live/r7QBKQFJgBJnAyAff3wgJkwMCBtTCrXj.flv
+公视3台 FHD,http://ali.hlspull.yximgs.com/live/lxkkPxZoTtMVoqgFnRobRmkGxyhU97Yw.flv
+MUTV CLASSIC HD,http://ali.hlspull.yximgs.com/live/eElF7ni05jlqgFaDl2Vgcm7qxVvYqFUI.flv
+BBC World News HD,http://ali.hlspull.yximgs.com/live/ypsygCJrUhSdIqdMGVGkhWplnbLQhPuu.flv
+黄金翡翠台 HD,http://ali.hlspull.yximgs.com/live/dMgAv7p6GY4IK64zAbEgLNyHlHElWnP1.flv
+爱尔达体育2台 FHD,http://ali.hlspull.yximgs.com/live/88FSsIHTV6Uc6SxV8Zgq5PxOtAGjqWzZ.flv
+TVB magic HD,http://ali.hlspull.yximgs.com/live/1kkTpwqQGHfPM25TWvGpcK2HhU26eqtM.flv
+爱尔达体育3台 HD,http://ali.hlspull.yximgs.com/live/pkTA5UcqYwmk8QLmPWIoGchO7abFnATp.flv
+Now Sports 7 HD,http://ali.hlspull.yximgs.com/live/ABETO3b0iuL1Us1gJtJDPo1lzTOwh06u.flv
+Sky Sports Cricket FHD,http://ali.hlspull.yximgs.com/live/AQg8FZ69drszO3aM3H5nKbFK5mouwufq.flv
+千禧经典台(北美) HD,http://ali.hlspull.yximgs.com/live/bj5R2S2WYeGOjnPw6Fdn5F3AhbSLtk6p.flv
+SUPER Kids Channel HD,http://ali.hlspull.yximgs.com/live/P8kq8VNcwyUEl037f2zFqomTGvaXTIuz.flv
+民视第一台 FHD,http://ali.hlspull.yximgs.com/live/Di4VZncbSKIHHU8RVnr3D2JG9VnVesgg.flv
+Now Sports PRIME HD,http://ali.hlspull.yximgs.com/live/2W7Hvdjbs8svjvPby5BIQ1CS2W95s4b9.flv
+Viu HD,http://ali.hlspull.yximgs.com/live/ORgDmJDqK3KcF6XoJeT0s998fc3ICtTD.flv
+Laliga TV FHD,http://ali.hlspull.yximgs.com/live/FfWyjiSVVZRfYevC1JrMIclzU7SUniYu.flv
+东森财经新闻 FHD,http://ali.hlspull.yximgs.com/live/j10RzBtSXV9XgsEz1fXQB3xfXuBxpyeZ.flv
+星卫HD电影台,http://ali.hlspull.yximgs.com/live/ccymAqnlejQv1hAnXdyG3sTjiV9eXHnJ.flv
+三立inews新闻 FHD,http://ali.hlspull.yximgs.com/live/mYNzcjYjDQMhiYoRvNcP53lq5P4tnssR.flv
+CN卡通频道 HD,http://ali.hlspull.yximgs.com/live/MbzqJVGIDXtxlY9U7B6gewE3Uw8DAuQt.flv
