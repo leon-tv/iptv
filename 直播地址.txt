@@ -1,4 +1,4 @@
-VIP,#genre
+VIP,#genre#
 凤凰中文https://s2.pub/Y-10
 凤凰资讯https://s2.pub/Y-11
 翡翠台https://s2.pub/Y-12
@@ -34,7 +34,7 @@ HOY 76https://s2.pub/Y-21
 Viu TVhttps://s2.pub/Y-15
 TVB J2https://s2.pub/Y-13
 纬来体育https://s2.pub/Y-32
-测试1,#genre
+测试1,#genre#
 凤凰中文http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰资讯http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰香港http://php.17186.eu.org/phtv/fhxg.m3u8
@@ -99,8 +99,8 @@ EURO新闻http://livetv.ktv.zone/73/play.m3u8
 HKS卫视台http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 HOY 76https://pull-f5-spe.ixigua.com/live/YesLiveTV-312f21aa-d8cf-4d55-bd8f-87069342457d/.m3u8
 HOY 78https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180610b1edd/index.m3u8?by=yeslivetv.com
-年代新聞https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-年代新聞https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
+年代新闻https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
+年代新闻https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com 
 龙华经典http://pull-f5-spe.ixigua.com/live/31fb38f6159421fcf265f90172c3d90b.flv
 龙华电影http://pull-f5-spe.ixigua.com/live/f2013296df205a68eb9380e7ef1f13b1.flv
 靖天电影http://pull-f5-spe.ixigua.com/live/4bb3590357201061566676b0491edac8.flv
@@ -110,24 +110,24 @@ HOY 78https://pull-f5-spe.ixigua.com/live/YesLiveTV-3e9f20e4-e6fd-4292-ac7a-3180
 龙祥时代http://pull-f5-spe.ixigua.com/live/5b4a4d370820046aa0f7439cea493e59.flv
 卫视电影http://pull-f5-spe.ixigua.com/live/0090886de398db1e582e36ee15a4bfc0.flv
 东森洋片http://pull-f5-spe.ixigua.com/live/b71002a8a712b17265bbdaf7e5f13d45.flv
-测试2,#genre
+测试2,#genre#
 ﻿民视rtmp://9sv1.mine.nu:1935/sat/tv051
 ﻿台视rtmp://9sv1.mine.nu:1935/sat/tv071
 ﻿中视rtmp://9sv1.mine.nu:1935/sat/tv091
 ﻿华视rtmp://9sv1.mine.nu:1935/sat/tv111
-﻿TVBS新聞rtmp://9sv1.mine.nu:1935/sat/tv551
-﻿TVBS歡樂rtmp://9sv1.mine.nu:1935/sat/tv421
-﻿東森超视rtmp://9sv1.mine.nu:1935/sat/tv331
-﻿東森財經新聞rtmp://9sv1.mine.nu:1935/sat/tv571
-﻿緯來育樂rtmp://9sv1.mine.nu:1935/sat/tv701
-﻿緯來體育rtmp://9sv1.mine.nu:1935/sat/tv721
+﻿TVBS新闻rtmp://9sv1.mine.nu:1935/sat/tv551
+﻿TVBS欢乐rtmp://9sv1.mine.nu:1935/sat/tv421
+﻿东森超视rtmp://9sv1.mine.nu:1935/sat/tv331
+﻿东森财经新闻rtmp://9sv1.mine.nu:1935/sat/tv571
+﻿纬来育乐rtmp://9sv1.mine.nu:1935/sat/tv701
+﻿纬来体育rtmp://9sv1.mine.nu:1935/sat/tv721
 ﻿ELEVEN1rtmp://9sv1.mine.nu:1935/sat/tv731
 ﻿ELEVEN2rtmp://9sv1.mine.nu:1935/sat/tv741
-﻿MOMO綜合rtmp://9sv1.mine.nu:1935/sat/tv761
-﻿緯來日本rtmp://9sv1.mine.nu:1935/sat/tv771
-﻿博斯網球rtmp://9sv1.mine.nu:1935/sat/md031
-﻿博斯網球rtmp://9sv1.mine.nu:1935/sat/md041
-﻿博斯運動rtmp://9sv1.mine.nu:1935/sat/md051
+﻿MOMO综合rtmp://9sv1.mine.nu:1935/sat/tv761
+﻿纬来日本rtmp://9sv1.mine.nu:1935/sat/tv771
+﻿博斯网球rtmp://9sv1.mine.nu:1935/sat/md031
+﻿博斯网球rtmp://9sv1.mine.nu:1935/sat/md041
+﻿博斯运动rtmp://9sv1.mine.nu:1935/sat/md051
 TVB翡翠台p3p://108.181.20.159:55289/653e4c02000ea0440c8c63fd3e5d709d
 TVB翡翠台 H.265p3p://108.181.20.159:55289/653e4c6d000965ef0c8e049f4be34103
 TVB J2p3p://108.181.20.159:55289/653e4cda0007743f0c8fade86d132b26
@@ -221,7 +221,7 @@ Fight Sportsp3p://108.181.20.159:55289/644c26370001b4eb5aad692f22d9728d
 星空卫视p3p://108.181.20.159:55289/64ee40d1000cfcc5d3e2330305817be2
 CN卡通(粤)p3p://108.181.20.159:55289/648353bb0006d4d93236315a766b692a
 Animax HKp3p://108.181.20.159:55289/6506d1a00000a99a33d7555a4b747caa
-测试3,#genre
+测试3,#genre#
 壹综合p3p://108.181.20.159:55289/64e36a09000d3453a98b615460a544cd
 中天新闻p3p://108.181.20.159:55289/613dba64000abeb1c801c02934bb45fc
 TVBS新闻p3p://108.181.20.159:55289/621858e3000e70ad1217c0700d576ad0
