@@ -125,8 +125,8 @@ CHC动作电影,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/in
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://113.117.74.52:8081/hls/37/index.m3u8#http://180.143.86.40:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰卫视资讯台,http://113.117.74.52:8081/hls/36/index.m3u8#http://180.143.86.40:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+凤凰卫视中文台,http://113.117.74.52:8081/hls/37/index.m3u8#http://180.143.86.40:8181/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixtv_/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰卫视资讯台,http://113.117.74.52:8081/hls/36/index.m3u8#http://180.143.86.40:8181/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/phoenixinfo_/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e#http://180.97.247.27/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
 凤凰卫视香港台,http://113.117.74.52:8081/hls/38/index.m3u8#http://180.143.86.40:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0#http://198.16.100.90:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
 TVB翡翠台,https://s2.pub/Y-12#http://r.jdshipin.com/qrfbg#http://r.jdshipin.com/62WM7#http://r.jdshipin.com/qClQf
 TVB明珠台,https://s2.pub/Y-14#http://r.jdshipin.com/ZQ4kN#http://nas.jdshipin.com:8801/iptv.php?id=mzt
@@ -150,24 +150,24 @@ Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 ﻿中视,rtmp://9sv1.mine.nu:1935/sat/tv091
 ﻿华视,rtmp://9sv1.mine.nu:1935/sat/tv111
 TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
-三立台湾,https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8#https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立都会,http://38.55.196.64/tw477/tw2.php?id=live1020#https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立台湾,https://epg.pw/stream/c7dbae714c89491ea3eea1f746be7982f4fa8a8c81d67b3854ff67d46931a191.m3u8#https://epg.pw/stream/cc4cae00306d97a1a7525911ee10a1983538f96a7fc920e563352cdd10002b36.m3u8#https://epg.pw/stream/6cbb5a395d787bd3f6333051a9436880165517d14c0cf42385908f669b061e88.m3u8#https://sanlihalive1-a.akamai.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?nea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+三立都会,http://38.55.196.64/tw477/tw2.php?id=live1020#https://sanlihalive1-a.akamai.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?nea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立live,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17563
-TVBS欢乐HD,rtmp://9sv1.mine.nu:1935/sat/tv421
-纬来日本HD,rtmp://9sv1.mine.nu:1935/sat/tv771
+TVBS欢乐,rtmp://9sv1.mine.nu:1935/sat/tv421
+纬来日本,rtmp://9sv1.mine.nu:1935/sat/tv771
 三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
-东森新闻HD,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17565
+东森新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17565
 中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296
 民视新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24959
-TVBS新闻HD,rtmp://9sv1.mine.nu:1935/sat/tv551
-东森财经新闻HD,rtmp://9sv1.mine.nu:1935/sat/tv571
+TVBS新闻,rtmp://9sv1.mine.nu:1935/sat/tv551
+东森财经新闻,rtmp://9sv1.mine.nu:1935/sat/tv571
 寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960
 年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192#http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
-纬来育乐HD,rtmp://9sv1.mine.nu:1935/sat/tv701
-纬来体育HD,rtmp://9sv1.mine.nu:1935/sat/tv721#http://cloud.yumixiu768.com/tmp/123.m3u8
+纬来育乐,rtmp://9sv1.mine.nu:1935/sat/tv701
+纬来体育,rtmp://9sv1.mine.nu:1935/sat/tv721#http://cloud.yumixiu768.com/tmp/123.m3u8
 ﻿MOMO综合台,rtmp://9sv1.mine.nu:1935/sat/tv761
-ELEVEN SPORTS 1 HD,rtmp://9sv1.mine.nu:1935/sat/tv731
-ELEVEN SPORTS 2 HD,rtmp://9sv1.mine.nu:1935/sat/tv741
+ELEVEN SPORTS 1 ,rtmp://9sv1.mine.nu:1935/sat/tv731
+ELEVEN SPORTS 2 ,rtmp://9sv1.mine.nu:1935/sat/tv741
 咪咕体育赛事直播,#genre#
 咪咕体育1,http://39.134.66.2/PLTV/88888888/224/3221225658/index.m3u8
 咪咕体育2,http://39.134.66.2/PLTV/88888888/224/3221225649/index.m3u8
