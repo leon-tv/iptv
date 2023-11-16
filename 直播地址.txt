@@ -162,6 +162,7 @@ TVBSHD,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
 TVBS新闻HD,rtmp://9sv1.mine.nu:1935/sat/tv551
 东森财经新闻HD,rtmp://9sv1.mine.nu:1935/sat/tv571
 寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960
+年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192#http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
 纬来育乐HD,rtmp://9sv1.mine.nu:1935/sat/tv701
 纬来体育HD,rtmp://9sv1.mine.nu:1935/sat/tv721#http://cloud.yumixiu768.com/tmp/123.m3u8
 ﻿MOMO综合台,rtmp://9sv1.mine.nu:1935/sat/tv761
