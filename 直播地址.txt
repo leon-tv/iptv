@@ -154,6 +154,7 @@ Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 三立live,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17563
 TVBS欢乐HD,rtmp://9sv1.mine.nu:1935/sat/tv421
 纬来日本HD,rtmp://9sv1.mine.nu:1935/sat/tv771
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
 东森新闻HD,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17565
 中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296
 民视新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24959
