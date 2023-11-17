@@ -160,7 +160,6 @@ TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
 三立live,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/17563
 TVBS欢乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1018#rtmp://9sv1.mine.nu:1935/sat/tv421
 纬来日本,rtmp://9sv1.mine.nu:1935/sat/tv771
-三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
 东风卫视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1195
 东森幼幼,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1008
 东森戏剧,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1042
@@ -170,6 +169,7 @@ TVBS欢乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1018#rtmp
 中天新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1015
 民视新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24959#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1204
 TVBS新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1051#rtp://9sv1.mine.nu:1935/sat/tv551
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1079#http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1016
 壹新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1242
 寰宇新闻,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/24960
 年代新闻,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1192#http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1077
