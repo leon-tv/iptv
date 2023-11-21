@@ -151,7 +151,6 @@ Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 公视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1201
 超视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1180
 中视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1048#rtmp://9sv1.mine.nu:1935/sat/tv091
-中天亚洲,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
 中天娱乐,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1023
 中天综合,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1022
 TVBS,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1251
