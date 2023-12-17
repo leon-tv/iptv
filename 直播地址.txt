@@ -142,7 +142,7 @@ TVB星河台,http://113.117.74.52:8081/hls/135/index.m3u8#http://171.108.239.62:
 港台电视33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
 港台电视34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 港台电视35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-星空卫视,http://171.108.239.62:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0#http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+星空卫视,http://171.108.239.100:8020/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
 Channel[V],http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
 台湾,#genre#
 华视,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1049
@@ -202,6 +202,7 @@ AXN,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1054
 旅游生活,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1005
 达文西频道,http://81.69.20.196/mqlive.m3u8?ip=60.250.121.217:888&id=live2787
 Taiwan Plus,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1238
+番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 博斯运动一,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1225
 ELEVEN 1,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1069#http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1069
 ELEVEN 2,http://81.69.20.196/mqlive.m3u8?ip=61.220.72.26:1888&id=live1072#http://81.69.20.196/mqlive.m3u8?ip=61.216.26.165:1888&id=live1072
