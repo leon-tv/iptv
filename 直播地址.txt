@@ -82,7 +82,7 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 央视精品文化,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
 劲爆体育,http://l8221706.cloudns.org/Best.php?id=jbty
 五星体育,http://l8221706.cloudns.org/Best.php?id=wxty
-魅力足球,http://l8221706.cloudns.org/Best.php?id=mlyy
+魅力足球,http://l8221706.cloudns.org/Best.php?id=mlzq
 新视觉,http://l8221706.cloudns.org/Best.php?id=xsj
 游戏风云,http://l8221706.cloudns.org/Best.php?id=yxfy
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
@@ -94,8 +94,8 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 优漫卡通,http://183.215.116.134:6610/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
 优优宝贝,http://39.134.240.3/PLTV/2/224/3221226360/index.m3u8
 动漫秀场,http://l8221706.cloudns.org/Best.php?id=dmxc
-纪实人文,http://l8221706.cloudns.org/Best.php?id=jspd
-纪实科教,http://l8221706.cloudns.org/Best.php?id=dajs
+纪实人文,http://l8221706.cloudns.org/Best.php?id=shjsrw
+纪实科教,http://l8221706.cloudns.org/Best.php?id=bjjskj
 求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
@@ -105,7 +105,7 @@ CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
 乐游,http://l8221706.cloudns.org/Best.php?id=qjs
 法治天地,http://l8221706.cloudns.org/Best.php?id=fztd
-金色学堂,http://l8221706.cloudns.org/Best.php?id=jingsepd
+金色学堂,http://l8221706.cloudns.org/Best.php?id=jspd
 东方财经,http://l8221706.cloudns.org/Best.php?id=dfcj
 第一财经,http://l8221706.cloudns.org/Best.php?id=dycj
 家庭理财,http://39.134.240.3/PLTV/2/224/3221226364/index.m3u8
