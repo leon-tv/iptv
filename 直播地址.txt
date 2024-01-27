@@ -68,6 +68,12 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视精品文化,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
+都市剧场,https://live.goodiptv.club/api/sxg.php?id=yxfydsjcHDH265_4000
+欢笑剧场,https://live.goodiptv.club/api/sxg.php?id=hxjc-4k_8000
+生活时尚,https://live.goodiptv.club/api/sxg.php?id=shssH265_4000
+劲爆体育,https://live.goodiptv.club/api/sxg.php?id=lqhxjcHDH265_4000
+新视觉,https://live.goodiptv.club/api/sxg.php?id=ycxsjH265_4000
+魅力足球,https://live.goodiptv.club/api/sxg.php?id=mlyy_4000
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
 百姓健康频道,http://39.134.240.3/PLTV/2/224/3221226354/index.m3u8
@@ -76,6 +82,7 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 哈哈炫动,http://39.134.240.3/PLTV/2/224/3221226084/index.m3u8
 优漫卡通,http://183.215.116.134:6610/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
 优优宝贝,http://39.134.240.3/PLTV/2/224/3221226360/index.m3u8
+动漫秀场,https://live.goodiptv.club/api/sxg.php?id=yybb-dmxc-H265_4000
 纪实人文,http://39.134.66.4/PLTV/88888888/224/3221225673/index.m3u8
 求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
@@ -84,6 +91,7 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 CHC动作电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
+法治天地,https://live.goodiptv.club/api/sxg.php?id=fztx_4000
 家庭理财,http://39.134.240.3/PLTV/2/224/3221226364/index.m3u8
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
@@ -179,7 +187,7 @@ HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 壹电视新闻台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻台,http://xcui.vitvabc.xyz:8880/cnzw/h0fZD1lFKd/21296#mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
@@ -196,7 +204,7 @@ AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
 好莱坞电影台,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
 CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
 纬来育乐台,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
-纬来体育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
+纬来体育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a#http://cloud.yumixiu768.com/tmp/123.m3u8
 ELEVEN体育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
 JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
 国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
