@@ -94,7 +94,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 乐游,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 法治天地,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 金色学堂,http://192.168.3.3/sxg.php?id=jspd_4000
-东方财经,http://l8221706.cloudns.org/Best.php?id=dfcj
+东方财经,http://192.168.3.3/sxg.php?id=dfcj_4000
 第一财经,http://l8221706.cloudns.org/Best.php?id=dycj
 家庭理财,http://39.134.240.3/PLTV/2/224/3221226364/index.m3u8
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
