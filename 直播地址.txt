@@ -17,7 +17,7 @@ CCTV14,http://39.134.240.3/PLTV/2/224/3221225813/index.m3u8
 CCTV15,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000026000000446967
 CCTV16,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000079000000434986
 CCTV17,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000025000000024152
-CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
+CETV1,http://39.134.13.73:6610/180000001001/00000001000000000016000000007220/index.m3u8?
 CETV2,http://120.196.232.124:8088/000000001001PLTV/651/224/3221227633/1.m3u8?HlsProfileId=#http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV3,https://epg.pw/stream/5e66b71895794e82652dca79cffb53d151b073266649ae69b478c1aaf857add0.ctv
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.196.232.124:8088/000000001001PLTV/651/224/3221227640/1.m3u8?HlsProfileId=
@@ -71,11 +71,8 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-劲爆体育,https://live3.rxip.sc96655.com/live/lqhxjcHDH265.m3u8
-五星体育,http://l8221706.cloudns.org/Best.php?id=wxty
-魅力足球,http://192.168.3.3/sxg.php?id=mlyy_4000
-新视觉,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 游戏风云,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+新视觉,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
 百姓健康频道,http://39.134.240.3/PLTV/2/224/3221226354/index.m3u8
@@ -86,7 +83,7 @@ CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://120.19
 优优宝贝,http://39.134.240.3/PLTV/2/224/3221226360/index.m3u8
 动漫秀场,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 纪实人文,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225767/1/index.m3u8?fmt=ts2hls
-纪实科教,http://l8221706.cloudns.org/Best.php?id=bjjskj
+纪实科教,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
 求索纪录,http://39.134.65.208/PLTV/88888888/224/3221225713/index.m3u8
 求索科学,http://39.134.65.208/PLTV/88888888/224/3221225728/index.m3u8
 求索动物,http://39.134.65.208/PLTV/88888888/224/3221225730/index.m3u8
