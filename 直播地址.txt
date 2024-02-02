@@ -143,7 +143,7 @@ TVB无线新闻,mitv://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88#mitv
 TVB财经体育资讯,http://hls.666888999.gay/iptv.php?id=7#mitv://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB星河台,http://113.117.74.133:8081/hls/135/index.m3u8#http://113.86.206.78:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
-ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
+ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b#http://hls.666888999.gay/iptv.php?id=13
 ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 莲花卫视,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b#http://livehls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
