@@ -21,7 +21,7 @@ CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV3,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://111.192.179.240:8012/rtp/239.3.1.55:4120
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
-CETV早期教育,http://117.59.80.2/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
+CETV早期教育,http://113.66.125.10:8888/udp/239.77.0.180:5146#http://183.185.12.166:8085/udp/226.0.2.99:8704#http://117.59.80.2/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -96,7 +96,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 乐游,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 法治天地,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 金色学堂,http://39.136.18.69/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226330/1/index.m3u8?fmt=ts2hls
-东方财经,http://117.59.80.2/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
+东方财经,http://183.185.12.166:8085/udp/226.0.2.76:8520#http://117.59.80.2/__cl/cg:live/__c/dfcj/__op/default/__f/index.m3u8
 家庭理财,http://39.134.240.3/PLTV/2/224/3221226364/index.m3u8
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
@@ -144,7 +144,7 @@ TVB财经体育资讯,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB星河台,http://113.117.74.133:8081/hls/135/index.m3u8#http://113.86.206.78:9999/tsfile/live/1053_1.m3u8?key=txiptv&playlive=1&authid=0
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b#http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=13
-ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6#http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=14
 莲花卫视,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b#http://livehls.macaulotustv.com/lotustv/macaulotustv.m3u8
 澳门-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
