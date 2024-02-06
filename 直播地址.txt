@@ -78,7 +78,7 @@ CETV早期教育,http://117.59.80.2/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
 百姓健康频道,http://39.134.240.3/PLTV/2/224/3221226354/index.m3u8
-北京卡酷,http://39.134.240.3/PLTV/2/224/3221225994/index.m3u8#http://117.59.80.2/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8
+北京卡酷,http://39.134.240.3/PLTV/2/224/3221225994/index.m3u8
 优漫卡通,http://39.134.240.3/PLTV/2/224/3221226086/index.m3u8
 哈哈炫动,http://39.134.240.3/PLTV/2/224/3221226084/index.m3u8
 优漫卡通,http://183.215.116.134:6610/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
