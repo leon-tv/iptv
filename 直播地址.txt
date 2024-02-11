@@ -197,13 +197,13 @@ CNBC,P2p://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,P2p://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
 HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
-年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
-东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7#http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
 中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
-TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
 东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 MOMO综合台,P2p://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
@@ -293,8 +293,8 @@ i-Fun动漫台,P2p://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
 韩国娱乐台,P2p://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
 达文西频道,P2p://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
 ROCK Extreme,P2p://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
-中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
-寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
 华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
 NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
 美亚电影台HD,P2p://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
@@ -313,7 +313,7 @@ CinemaWorld,P2p://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
 佛卫慈悲台,P2p://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
 TechStorm,P2p://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
 EYE TV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
-台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84#http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
 寰宇新闻台湾台,P2p://generationnexxxt.com:19806/65b21a80000977cd0ffaa9e72e6218af
 台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
 纬来日本,P2p://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
