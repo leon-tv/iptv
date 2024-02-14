@@ -110,6 +110,11 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 国学频道,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
+京视剧场,http://111.20.35.107:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+置业频道,http://111.20.35.107:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+弈坛春秋,http://111.20.35.107:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+发现之旅,http://111.20.35.107:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+老故事,http://111.20.35.107:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
