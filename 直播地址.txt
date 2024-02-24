@@ -170,7 +170,7 @@ ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 星空卫视,http://110.72.82.206:808/hls/60/index.m3u8#http://yuju666888.x3322.net:808/hls/110/index.m3u8#http://113.119.39.121:808 /hls/110/index.m3u8#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://218.88.23.227:4000/udp/239.93.0.156:2193
 频道五，http://110.72.82.206:808/hls/64/index.m3u8#http://218.88.23.227:4000/udp/239.93.0.157:2194
 台湾,#genre#
-BBC Lifestyle,P2p:// Generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
+BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,P2p://Generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
 台视,P2p://Generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
 一生，P2p://Generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
