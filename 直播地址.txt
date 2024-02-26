@@ -21,7 +21,7 @@ CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV3,http://111.20.35.107:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
-CETV早期教育,http://171.117.58.65:8082/rtp/226.0.2.99:8704
+CETV早期教育,http://171.117.71.8:8082/rtp/226.0.2.99:8704
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -73,12 +73,12 @@ CETV早期教育,http://171.117.58.65:8082/rtp/226.0.2.99:8704
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://36.49.54.144:8800/rtp/239.37.0.229:5540#http://124.234.240.160:58888/rtp/239.37.0.229:5540
+央视卫生健康,http://124.234.240.160:58888/rtp/239.37.0.229:5540
 央视书画频道,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
 劲爆体育,http://111.20.35.107:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://111.20.35.107:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 魅力足球,http://111.20.35.107:6610/000000001000/500000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls
+新视觉,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls#http://111.124.98.66:8188/rtp/238.255.2.195:5999
 游戏风云,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls#http://111.20.35.107:6610/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -98,7 +98,7 @@ CETV早期教育,http://171.117.58.65:8082/rtp/226.0.2.99:8704
 CHC动作电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.212.92:9999/tsfile/live/1111_1.m3u8
+重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.214.203:9999/tsfile/live/1111_1.m3u8
 乐游,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 法治天地,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 金色学堂,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226330/1/index.m3u8?fmt=ts2hls
@@ -116,7 +116,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 弈坛春秋,http://111.20.35.107:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 发现之旅,http://111.20.35.107:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://111.20.35.107:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中华美食,http://27.188.107.66:9009/rtp/239.254.201.189:7171
+中华美食,http://27.188.107.66:9009/rtp/239.254.201.189:7171#http://111.227.41.181:4022/rtp/239.254.201.189:7171
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
