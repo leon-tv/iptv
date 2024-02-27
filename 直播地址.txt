@@ -21,7 +21,7 @@ CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV3,http://111.20.35.107:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
-CETV早期教育,http://171.117.71.8:8082/rtp/226.0.2.99:8704
+CETV早期教育,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls#http://171.117.71.8:8082/rtp/226.0.2.99:8704
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -73,7 +73,7 @@ CETV早期教育,http://171.117.71.8:8082/rtp/226.0.2.99:8704
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513503.m3u8#http://124.234.240.160:58888/rtp/239.37.0.229:5540
+央视卫生健康,http://47.115.231.242:80/tv/live/ysp.php?/PLTV/&token=pA1iL2aL8zY5rQ0z&id=wsjk#http://36.99.200.4/tlive-test-cdn.ysp.cctv.cn/001/ysp/2012513503.m3u8#http://124.234.240.160:58888/rtp/239.37.0.229:5540
 央视书画频道,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
 劲爆体育,http://111.20.35.107:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://111.20.35.107:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -98,7 +98,7 @@ CETV早期教育,http://171.117.71.8:8082/rtp/226.0.2.99:8704
 CHC动作电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://124.231.214.203:9999/tsfile/live/1111_1.m3u8
+重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 乐游,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 法治天地,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 金色学堂,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226330/1/index.m3u8?fmt=ts2hls
@@ -159,7 +159,7 @@ TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f42
 TVB星河台,http://183.1.248.142:8081/hls/135/index.m3u8
 ViuTV,mitv://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
-莲花卫视,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b#http://livehls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,mitv://generationnexxxt.com:19806/4c56fbe4e68541a9a759fa269574f98b#http://47.115.231.242/tv/live/lh.php?token=pA1iL2aL8zY5rQ0z
 澳门-MACAU,mitv://generationnexxxt.com:19806/f9ba8df6f9ed45789e882211735e6414
 澳亚卫视,http://202.168.187.208:2024/tsfile/live/1010_1.m3u8#https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8#http://107.151.203.111:2209/135/hk.php?id=aoya
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680167055218938751&wsIPSercert=d24f6d7c9d3646d953 3d492d5209384b&wsMonitor=0#http://zhibo .hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
