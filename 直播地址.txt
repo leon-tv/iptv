@@ -78,7 +78,7 @@ CETV早期教育,http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 劲爆体育,http://111.20.35.107:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://111.20.35.107:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 魅力足球,http://111.20.35.107:6610/000000001000/500000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls#http://111.124.98.66:8188/rtp/238.255.2.195:5999
+新视觉,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226188/1/index.m3u8?fmt=ts2hls#http://49.113.12.46:888/udp/238.125.1.34:5140
 游戏风云,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls#http://111.20.35.107:6610/000000001000/5000000011000031114/1.m3u8?channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
