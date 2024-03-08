@@ -73,7 +73,7 @@ CETV早期教育,http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://47.115.231.242/tv/live/ysp.php?token=uU8hD1fH9vO8qF9o&id=wsjk#http://124.234.240.160:58888/rtp/239.37.0.229:5540
+央视卫生健康,http://119.54.15.185:9999/hls/88/index.m3u8
 央视书画频道,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225680/1/index.m3u8?fmt=ts2hls
 劲爆体育,http://111.20.35.107:6610/000000001000/5000000002000029972/1.m3u8?channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://111.20.35.107:6610/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
@@ -116,7 +116,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 弈坛春秋,http://111.20.35.107:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 发现之旅,http://111.20.35.107:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://111.20.35.107:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中华美食,http://27.189.98.80:4022/rtp/239.254.201.189:7171#http://110.253.142.191:8888/rtp/239.253.93.248:6426#http://119.251.120.37:4000/rtp/239.253.93.248:6426
+中华美食,http://110.253.142.191:8888/rtp/239.253.93.248:6426#http://119.251.120.37:4000/rtp/239.253.93.248:6426
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
@@ -147,9 +147,9 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://183.1.248.201:8081/hls/37/index.m3u8#http://110.72.81.123:808/hls/83/index.m3u8#http://jyjxy.7766.org:8811/hls/32/index.m3u8#http://125.70.183.147:8123/udp/239.93.1.9:2192#http://118.250.108.23:8888/udp/239.76.246.7:1234
-凤凰卫视资讯台,http://183.1.248.201:8081/hls/36/index.m3u8#http://110.72.81.123:808/hls/1/index.m3u8#http://jyjxy.7766.org:8811/hls/33/index.m3u8#http://125.70.183.147:8123/udp/239.93.0.118:2191#http://118.250.108.23:8888/udp/239.76.246.8:1234
-凤凰卫视香港台,http://183.1.248.201:8081/hls/38/index.m3u8#http://110.72.81.123:808/hls/333/index.m3u8#http://jyjxy.7766.org:8811/hls/34/index.m3u8
+凤凰卫视中文台,http://183.1.248.201:8081/hls/37/index.m3u8#http://110.72.60.83:808/hls/83/index.m3u8#http://jyjxy.7766.org:8811/hls/32/index.m3u8#http://110.184.211.113:55555/udp/239.93.1.9:2192#http://118.250.108.23:8888/udp/239.76.246.7:1234
+凤凰卫视资讯台,http://183.1.248.201:8081/hls/36/index.m3u8#http://110.72.60.83:808/hls/1/index.m3u8#http://jyjxy.7766.org:8811/hls/33/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.118:2191#http://118.250.108.23:8888/udp/239.76.246.8:1234
+凤凰卫视香港台,http://183.1.248.201:8081/hls/38/index.m3u8#http://110.72.60.83:808/hls/333/index.m3u8#http://jyjxy.7766.org:8811/hls/34/index.m3u8
 TVB翡翠台,mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#mitv://147.135.39.171:9906/65a4e8350007683646f034780a032936#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://yuju666888.x3322.net:808/hls/106/index.m3u8#http://113.119.39.121:808/hls/106/index.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#
@@ -167,8 +167,8 @@ ViuTVSix,mitv://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 港台电视32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-星空卫视,http://110.72.81.123:808/hls/60/index.m3u8#http://yuju666888.x3322.net:808/hls/110/index.m3u8#http://113.119.39.121:808 /hls/110/index.m3u8#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://125.70.183.147:8123/udp/239.93.0.156:2193
-Channel V,http://110.72.81.123:808/hls/64/index.m3u8#http://125.70.183.147:8123/udp/239.93.0.157:2194
+星空卫视,http://110.72.60.83:808/hls/60/index.m3u8#http://yuju666888.x3322.net:808/hls/110/index.m3u8#http://113.119.39.121:808 /hls/110/index.m3u8#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.156:2193
+Channel V,http://110.72.60.83:808/hls/64/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.157:2194
 台湾,#genre#
 BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,mitv://Generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118
