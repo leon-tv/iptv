@@ -20,7 +20,7 @@ CCTV17,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000025
 CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
 CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
 CETV3,http://111.20.35.107:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CETV4,http://49.113.12.46:888/udp/238.125.3.92:5140#http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
+CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8
 CETV早期教育,http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226304/1/index.m3u8?fmt=ts2hls
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
@@ -98,7 +98,7 @@ CETV早期教育,http://39.136.18.166/cdnrrs.gz.chinamobile.com/PLTV/88888888/22
 CHC动作电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+重温经典频道,http://1.62.64.234/0b926d37065dc656266be75dd9d25565.v.smtcdns.net/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://61.240.228.5:8889/udp/228.1.1.44:6044
 乐游,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226214/1/index.m3u8?fmt=ts2hls
 法治天地,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226199/1/index.m3u8?fmt=ts2hls
 金色学堂,http://39.136.18.164/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226330/1/index.m3u8?fmt=ts2hls
