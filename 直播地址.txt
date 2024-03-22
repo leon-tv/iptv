@@ -175,15 +175,15 @@ Channel V,http://171.223.215.229:4000/udp/239.93.0.157:2194#http://220.166.245.1
 BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,mitv://Generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118#mitv://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2#http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
 台视,mitv://Generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862#mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18#http://ali.hlspull.yximgs.com/live/huanqiuhkliveptejfsxlvcjdewjjjpsjfvvxcjjjpfossvbxcfjjtjvxjhlts.flv
+华视,mitv://Generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4#mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660#http://ali.hlspull.yximgs.com/live/huanqiuhklivepdymvcjnjjjcvbcvbjtyjjjffcfjvjftojjbvcjfednhs.flv
+中视,mitv://Generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18#mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7#http://ali.hlspull.yximgs.com/live/huanqiuhklivejphfwnmfdcjfxcvhjjwjfbfjdyujjnmfcbsfjejtyhsdjs.flv
+公视,mitv://Generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6#http://ali.hlspull.yximgs.com/live/huanqiuhklivencxtdtejhlvmjsjwjejwttyjhvcbjjjsjntjvbjugsxw.flv
 一生,mitv://Generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
 大爱,mitv://Generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
 KLT-靖天国际台,mitv://Generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
-中视,mitv://Generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18#mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
 霹雳台湾台,mitv://Generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
 HGTV居家乐活频道,mitv://Generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
-华视,mitv://Generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4#mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
 热爱自然,mitv://Generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
-公视,mitv://Generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
 美食星球,mitv://Generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
 亚洲美食频道,mitv://Generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
 好消息,mitv://Generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
