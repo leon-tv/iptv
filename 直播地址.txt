@@ -88,6 +88,7 @@ CETV早期教育,http://taosson.asuscomm.com:8686/rtp/226.0.2.99:8704#http://61.
 北京卡酷,http://39.134.240.3/PLTV/2/224/3221225994/index.m3u8
 优漫卡通,http://39.134.240.3/PLTV/2/224/3221226086/index.m3u8
 哈哈炫动,http://39.134.240.3/PLTV/2/224/3221226084/index.m3u8
+新动漫,http://183.215.116.134:6610/180000001001/00000001000000000050000000448837/main.m3u8?IASHttpSessionId=OTT
 优漫卡通,http://183.215.116.134:6610/180000001001/00000000000000020000000000182321/main.m3u8?IASHttpSessionId=OTT
 优优宝贝,http://39.134.240.3/PLTV/2/224/3221226360/index.m3u8
 动漫秀场,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
