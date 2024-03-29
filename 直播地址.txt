@@ -75,7 +75,7 @@ CETV早期教育,http://taosson.asuscomm.com:8686/rtp/226.0.2.99:8704#http://61.
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://119.54.0.212:9999/hls/88/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
+央视卫生健康,http://nas.tuyuannet.cn:8800/rtp/239.37.0.229:5540
 央视书画频道,http://183.215.116.134:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 劲爆体育,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 五星体育,http://1.62.64.234/1142f717c2e0326d526ab914ec68dd30.v.smtcdns.net/t-fjnetv51.live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -111,7 +111,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.134:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
-国学频道,http://119.54.0.212:9999/hls/85/index.m3u8#http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://120.238.13.198:8000/hls/78/index.m3u8#http://118.79.113.152:6000/rtp/226.0.2.116:8840
+国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://120.238.13.198:8000/hls/78/index.m3u8#http://118.79.113.152:6000/rtp/226.0.2.116:8840
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
 京视剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -136,7 +136,6 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 长沙新闻,http://39.134.240.3/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.116.134:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
-怀化公共,http://111.8.242.84:9901/tsfile/live/1010_1.m3u8
 靖州综合,https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
@@ -147,7 +146,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 凤凰卫视中文台,http://113.64.145.95:8081/hls/37/index.m3u8#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://113.64.145.95:8081/hls/36/index.m3u8#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视香港台,http://113.64.145.95:8081/hls/38/index.m3u8
-TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://103.19.64.86:8080/xiangjiao/jade.m3u8#http://119.34.189.38:33333/udp/224.1.100.121:11111#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c#http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
+TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://119.34.189.38:33333/udp/224.1.100.121:11111#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c#http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://119.34.189.38:33333/udp/224.1.100.123:11111#http://61.144.82.98:808/hls/106/index.m3u8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=4#http://113.119.39.121:808/hls/106/index.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
 TVB无线新闻,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#mitv://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=7
