@@ -146,10 +146,10 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 凤凰卫视中文台,http://113.64.145.91:8081/hls/37/index.m3u8#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰卫视资讯台,http://113.64.145.91:8081/hls/36/index.m3u8#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视香港台,http://113.64.145.91:8081/hls/38/index.m3u8
-TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://119.34.189.38:33333/udp/224.1.100.121:11111#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=3#http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c#http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
-TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://119.34.189.38:33333/udp/224.1.100.123:11111#http://61.144.82.98:808/hls/106/index.m3u8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=4#http://113.119.39.121:808/hls/106/index.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
+TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://120.238.13.198:8000/hls/21/index.m3u8#http://120.84.121.94:808/hls/25/index.m3u8#http://198.16.100.90:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e#http://yuju666888.x3322.net:808/hls/105/index.m3u8#http://113.119.39.121:808/hls/105/index.m3u8#http://jyjxy.7766.org:8811/hls/36/index.m3u8
+TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://120.238.13.198:8000/hls/19/index.m3u8#http://120.84.121.94:808/hls/26/index.m3u8#http://jyjxy.7766.org:8811/hls/37/index.m3u8
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
-TVB无线新闻,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#mitv://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwjpthljjsjsjjbvdljdmnbjhdhyjyjtvbwxxw.flv#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=7
+TVB无线新闻,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#mitv://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#http://120.84.121.94:808/hls/86/index.m3u8
 TVB财经体育资讯,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=9
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
@@ -186,7 +186,7 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#http://119.34.189.38:33333/udp/224.1.100.13:11111#http://61.140.113.33:808/hls/110/index.m3u8#http://yuju666888.x3322.net:808/hls/110/index.m3u8#http://113.119.39.121:808/hls/110/index.m3u8#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.156:2193
-ChannelV,http://120.238.150.68:9901/tsfile/live/1026_1.m3u8#http://171.223.215.229:4000/udp/239.93.0.157:2194#http://220.166.245.152:66/udp/239.93.0.157:2194#http://110.191.203.67:8888/udp/239.93.0.157:2194#http://118.112.90.2:8888/udp/239.93.1.7:2194
+ChannelV,http://120.238.150.68:9901/tsfile/live/1026_1.m3u8#http://180.137.26.24:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://171.223.215.229:4000/udp/239.93.0.157:2194#http://220.166.245.152:66/udp/239.93.0.157:2194#http://110.191.203.67:8888/udp/239.93.0.157:2194#http://118.112.90.2:8888/udp/239.93.1.7:2194
 台湾,#genre#
 BBCLifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,mitv://Generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118#mitv://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2#http://ali.hlspull.yximgs.com/live/huanqiuhklivephjwfpjwvnjfdlsetfjjjjsjsftewjhvcbjjfdjuoljbms.flv
