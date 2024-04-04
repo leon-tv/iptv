@@ -119,7 +119,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 弈坛春秋,http://111.20.35.108:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 发现之旅,http://111.20.35.108:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 老故事,http://111.20.35.108:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中华美食,http://119.251.120.37:4000/rtp/239.253.93.248:6426#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
+中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://119.251.120.37:4000/rtp/239.253.93.248:6426#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
