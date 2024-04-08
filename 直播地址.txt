@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV1,http://39.134.240.3/PLTV/2/224/3221226134/index.m3u8#http://39.134.24.165:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV1,http://39.134.240.3/PLTV/2/224/3221226134/index.m3u8#http://111.20.35.108:6610/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV2,http://39.134.240.3/PLTV/2/224/3221226188/index.m3u8
 CCTV3,http://39.134.240.3/PLTV/2/224/3221226190/index.m3u8
 CCTV4,http://39.134.240.3/PLTV/2/224/3221225829/index.m3u8
@@ -20,8 +20,8 @@ CCTV17,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000025
 CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8#http://159.75.85.63:5679/cctv4k.php
 CGTN,http://39.134.240.3/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
-CETV2,http://111.63.117.13:6060/030000001000/G_CETV-2/G_CETV-2.m3u8
-CETV3,http://39.134.24.165:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CETV2,http://183.215.116.134:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
+CETV3,http://111.20.35.108:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://183.215.116.134:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
 CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253#http://blc.zmychn.cn:4000/udp/225.1.2.207:5002
 卫视,#genre#
@@ -114,11 +114,11 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://120.238.13.198:8000/hls/78/index.m3u8#http://118.79.113.152:6000/rtp/226.0.2.116:8840
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-京视剧场,http://39.134.24.165:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-置业频道,http://39.134.24.165:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-弈坛春秋,http://39.134.24.165:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-发现之旅,http://39.134.24.165:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-老故事,http://39.134.24.165:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+京视剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+置业频道,http://111.20.35.108:6610/yinhe/2/ch00000090990000001318/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+弈坛春秋,http://111.20.35.108:6610/yinhe/2/ch00000090990000001322/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+发现之旅,http://111.20.35.108:6610/yinhe/2/ch00000090990000001314/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+老故事,http://111.20.35.108:6610/yinhe/2/ch00000090990000001315/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://119.251.120.37:4000/rtp/239.253.93.248:6426#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
