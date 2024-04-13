@@ -186,7 +186,7 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 星空卫视,http://n1.jimgo.win:4022/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#http://119.34.189.38:33333/udp/224.1.100.13:11111#http://61.140.113.33:808/hls/110/index.m3u8#http://yuju666888.x3322.net:808/hls/110/index.m3u8#http://113.119.39.121:808/hls/110/index.m3u8#http://jyjxy.7766.org:8811/hls/31/index.m3u8#http://110.184.211.113:55555/udp/239.93.0.156:2193
-ChannelV,http://120.238.150.68:9901/tsfile/live/1026_1.m3u8#http://180.137.26.24:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0#http://171.223.215.229:4000/udp/239.93.0.157:2194#http://220.166.245.152:66/udp/239.93.0.157:2194#http://110.191.203.67:8888/udp/239.93.0.157:2194#http://118.112.90.2:8888/udp/239.93.1.7:2194
+ChannelV,http://wouu.net:9977/udp/239.93.0.157:2194#http://171.213.37.127:4022/udp/239.93.0.157:2194
 台湾,#genre#
 BBCLifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 民视,mitv://Generationnexxxt.com:19806/7b662823ed634f1fad66ab442b177118#mitv://generationnexxxt.com:19806/07d108fdb6f543de8226d05f281225e2#rtmp://220.130.201.73/sat/tv051
