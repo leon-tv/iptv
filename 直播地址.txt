@@ -143,9 +143,9 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://113.64.145.91:8081/hls/37/index.m3u8#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视资讯台,http://113.64.145.91:8081/hls/36/index.m3u8#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视香港台,http://113.64.145.91:8081/hls/38/index.m3u8
+凤凰卫视中文台,http://113.64.145.195:8081/hls/37/index.m3u8#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰卫视资讯台,http://113.64.145.195:8081/hls/36/index.m3u8#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰卫视香港台,http://113.64.145.195:8081/hls/38/index.m3u8
 TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://120.238.13.198:8000/hls/21/index.m3u8#http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://120.238.13.198:8000/hls/19/index.m3u8#http://120.84.121.94:808/hls/26/index.m3u8#http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
@@ -153,7 +153,7 @@ TVB无线新闻,mitv://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#mitv
 TVB财经体育资讯,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=8#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=9
 TVB娱乐新闻,mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
 TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB星河台,http://113.64.145.91:8081/hls/135/index.m3u8
+TVB星河台,http://113.64.145.195:8081/hls/135/index.m3u8
 TVB千禧经典台,mitv://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 TVB粤语片台,mitv://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 TVB亚洲剧台,mitv://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
