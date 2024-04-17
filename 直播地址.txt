@@ -114,7 +114,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://120.238.13.198:8000/hls/78/index.m3u8#http://118.79.113.152:6000/rtp/226.0.2.116:8840
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,https://hlszymgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/1000/01.m3u8?msisdn=6c413d9ab9e1669cd270ea7dc86aadc8&mdspid=&spid=699004&netType=0&sid=5500212893&pid=2028597139&timestamp=20240417131847&Channel_ID=0131_10010001005&ProgramID=624878970&ParentNodeID=-99&assertID=5500212893&client_ip=120.227.174.41&SecurityKey=20240417131847&promotionId=&mvid=5100001701&mcid=500020&playurlVersion=ZQ-A1-7.4.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&mtv_session=04177a1c2c8a5a19a98eb30538791d1b&sv=10000&ct=h5&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=945bac9dec815a5a58774e17a63d0a22
+发现之旅,http://113.24.136.208:8084/udp/239.1.1.103:8103#http://mywlkj.ddns.net:754/tv/sdyx.php?id=40#http://mywlkj.ddns.net:754/tv/sdyx.php?id=103
 老故事,http://183.215.116.134:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://119.251.120.37:4000/rtp/239.253.93.248:6426#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 地方台,#genre#
