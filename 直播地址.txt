@@ -111,7 +111,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.134:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
-国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://120.238.13.198:8000/hls/78/index.m3u8#http://118.79.113.152:6000/rtp/226.0.2.116:8840
+国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://mywlkj.ddns.net:754/tv/sdyx.php?id=112#http://mywlkj.ddns.net:754/tv/sdyx.php?id=112#http://mywlkj.ddns.net:754/tv/sdyx.php?id=111
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
 发现之旅,http://113.24.136.208:8084/udp/239.1.1.103:8103#http://mywlkj.ddns.net:754/tv/sdyx.php?id=40#http://mywlkj.ddns.net:754/tv/sdyx.php?id=103
