@@ -23,7 +23,7 @@ CETV1,http://183.215.116.134:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://183.215.116.134:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
 CETV3,http://114.243.108.225:4000/rtp/239.3.1.55:4120#http://221.223.171.186:1314/rtp/239.3.1.55:4120
 CETV4,http://39.134.65.141/PLTV/88888888/224/3221225750/index.m3u8#http://183.215.116.134:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
-CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253#http://blc.zmychn.cn:4000/udp/225.1.2.207:5002
+CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.200.114:6244#http://mail.petzhu.top:7000/rtp/239.254.201.230:7253#http://blc.zmychn.cn:4000/udp/225.1.2.207:5002
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -111,12 +111,14 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.134:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
-国学频道,http://nas.tuyuannet.cn:8800/rtp/239.37.0.093:5540#http://mywlkj.ddns.net:754/tv/sdyx.php?id=112#http://mywlkj.ddns.net:754/tv/sdyx.php?id=112#http://mywlkj.ddns.net:754/tv/sdyx.php?id=111
+国学频道,http://mail.petzhu.top:7000/rtp/239.254.200.107:6255
+中学生频道,http://mail.petzhu.top:7000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://113.24.136.208:8084/udp/239.1.1.103:8103#http://mywlkj.ddns.net:754/tv/sdyx.php?id=40#http://mywlkj.ddns.net:754/tv/sdyx.php?id=103
+发现之旅,http://1.70.34.249:8085/udp/239.1.1.103:8103#http://223.11.157.251:7777/udp/239.1.1.103:8103
 老故事,http://183.215.116.134:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://119.251.120.37:4000/rtp/239.253.93.248:6426#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
+中华特产,http://mail.petzhu.top:7000/rtp/239.254.201.184:6263
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
 湖南都市,http://39.134.240.3/PLTV/2/224/3221226146/index.m3u8
@@ -143,6 +145,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 凤凰卫视中文台,http://113.64.145.195:8081/hls/37/index.m3u8#http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8#http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视资讯台,http://113.64.145.195:8081/hls/36/index.m3u8#http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8#http://183.204.13.237/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视香港台,http://113.64.145.195:8081/hls/38/index.m3u8#http://183.204.13.13/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214
 TVB翡翠台,mitv://147.135.39.171:9906/658f93d5000d4d27f39e83494fe03749#mitv://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#http://120.238.13.198:8000/hls/21/index.m3u8#http://mywlkj.ddns.net:754/tv/hiper25.php?id=1
 TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#http://120.238.13.198:8000/hls/19/index.m3u8#http://120.84.121.94:808/hls/26/index.m3u8#http://mywlkj.ddns.net:754/tv/hiper25.php?id=2
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#http://mywlkj.ddns.net:754/dl/dl668/yximgs.php?id=5
