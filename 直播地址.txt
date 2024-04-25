@@ -75,7 +75,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://l8221706.rainyun.work/ysp.php?id=wsjk#http://123.6.102.32:11789/669.php?id=2012513503.m3u8
+央视卫生健康,http://l8221706.dethfnq.cn/ysp.php?id=wsjk#http://123.6.102.32:11789/669.php?id=2012513503.m3u8
 央视书画频道,http://183.215.116.134:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 劲爆体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 五星体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -135,7 +135,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 长沙新闻,http://39.134.240.3/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.116.134:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
-靖州综合,http://l8221706.rainyun.work/jzzh.php#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://l8221706.cloudns.org/jzzh.php#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
@@ -319,7 +319,7 @@ CLASSICA 古典乐,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004
 爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 TRACE Sport Stars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
 博斯高球,P2p://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
-博斯高球二台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95	
+博斯高球二台,P2p://generationnexxxt.com:19806/65e1b654000ce227c9f3778a2b254b95
 博斯网球台,P2p://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
 博斯魅力网,P2p://generationnexxxt.com:19806/65e1b6530009723ec9f372c730a82585
 博斯无限台,P2p://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
