@@ -75,7 +75,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://d9thrj.shenghuilianmeng.cn/ysp.php?id=wsjk#http://123.6.102.32:11789/669.php?id=2012513503.m3u8
+央视卫生健康,http://d9thrj.shenghuilianmeng.cn/ysp.php?id=wsjk
 央视书画频道,http://183.215.116.134:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 劲爆体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 五星体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
