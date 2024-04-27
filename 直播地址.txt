@@ -75,7 +75,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 央视台球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.134:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.134:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://l8221706.dethfnq.cn/ysp.php?id=wsjk#http://183.150.225.170:18900/ysp/?id=wsjk#http://123.6.102.32:11789/669.php?id=2012513503.m3u8
+央视卫生健康,http://d9thrj.shenghuilianmeng.cn/ysp.php?id=wsjk#http://183.150.225.170:18900/ysp/?id=wsjk
 央视书画频道,http://183.215.116.134:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 劲爆体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 五星体育,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
@@ -101,7 +101,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 CHC动作电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC高清电影,http://183.215.116.134:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+重温经典频道,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://43.141.130.33/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8
 乐游,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 法治天地,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 金色学堂,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
@@ -115,7 +115,7 @@ CHC家庭影院,http://183.215.116.134:6610/180000001001/00000001000000000050000
 中学生频道,http://mail.petzhu.top:7000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.134:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.134:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://l8221706.dethfnq.cn/migu.php?id=fxzl#http://1.70.34.249:8085/udp/239.1.1.103:8103#http://103.45.68.47:6800/gy/gy_rfFL/%E9%98%B3%E6%B3%89.php?id=037
+发现之旅,http://d9thrj.shenghuilianmeng.cn/migu.php?id=fxzl#http://1.70.34.249:8085/udp/239.1.1.103:8103
 老故事,http://183.215.116.134:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://183.215.116.134:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://mail.petzhu.top:7000/rtp/239.254.201.184:6263
