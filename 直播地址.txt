@@ -101,7 +101,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 CHC动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://43.141.130.33/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8#P2p://generationnexxxt.com:19806/65fa5e2600039eda2a43168726d80618
+重温经典频道,http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://43.141.130.33/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8#P2p://generationnexxxt.com:19806/65fa5e2600039eda2a43168726d80618
 乐游,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 法治天地,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/fztd8m/8000000/mnf.m3u8
 金色学堂,http://43.141.130.33/fjnetv51.live.bestvcdn.com.cn/liveplay-kk.rtxapp.com/live/program/live/jingsepd8m/8000000/mnf.m3u8
