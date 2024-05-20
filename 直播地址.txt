@@ -115,7 +115,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 中学生频道,http://mail.petzhu.top:7000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://l8221706.dethfnq.cn/migu.php?id=fxzl#http://110.178.52.119:8084/udp/239.1.1.103:8103
+发现之旅,http://3enf8s.shenghuilianmeng.cn/migu.php?id=fxzl#http://l8221706.dethfnq.cn/migu.php?id=fxzl#http://110.178.52.119:8084/udp/239.1.1.103:8103
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://mail.petzhu.top:7000/rtp/239.254.201.184:6263
@@ -135,7 +135,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 长沙新闻,http://39.134.240.3/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.116.132:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
-靖州综合,http://l8221706.cloudns.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://3enf8s.shenghuilianmeng.cn/jzzh.php?id=34#http://l8221706.cloudns.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
