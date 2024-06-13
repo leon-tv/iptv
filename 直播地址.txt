@@ -80,7 +80,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://l8221706.cloudns.org/Best.php?id=xsj#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
+新视觉,http://l8221706.mohuajz.eu.org/Best.php?id=xsj#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -135,14 +135,14 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 长沙新闻,http://39.134.240.3/PLTV/2/224/3221226200/index.m3u8
 长沙政法,http://39.134.240.3/PLTV/2/224/3221226202/index.m3u8
 怀化新闻综合,http://183.215.116.132:6610/180000001001/00000001000000000016000000287147/index.m3u8?IASHttpSessionId=OTT
-靖州综合,http://l8221706.cloudns.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
+靖州综合,http://l8221706.mohuajz.eu.org/jzzh.php?id=34#https://liveplay-srs.voc.com.cn/hls/tv/34_5156ed.m3u8
 快乐购,http://39.134.240.3/PLTV/2/224/3221226196/index.m3u8
 嘉丽购,http://39.134.240.3/PLTV/2/224/3221226176/index.m3u8
 钓鱼频道,#genre#
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.145.55:8081/hls/37/index.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰卫视中文台,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.145.55:8081/hls/37/index.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
 凤凰卫视资讯台,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#http://113.64.145.55:8081/hls/36/index.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 凤凰卫视香港台,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#http://113.64.145.55:8081/hls/38/index.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
