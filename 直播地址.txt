@@ -142,9 +142,9 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://113.64.145.55:8081/hls/37/index.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-凤凰卫视资讯台,http://113.64.145.55:8081/hls/36/index.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
-凤凰卫视香港台,http://113.64.145.55:8081/hls/38/index.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+凤凰卫视中文台,#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#http://113.64.145.55:8081/hls/37/index.m3u8#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰卫视资讯台,http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#http://113.64.145.55:8081/hls/36/index.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+凤凰卫视香港台,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#http://113.64.145.55:8081/hls/38/index.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
 TVB翡翠台,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8#http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 TVB明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
@@ -153,7 +153,7 @@ TVB无线新闻,P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p:/
 TVB财经体育资讯,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c#P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 TVB娱乐新闻,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 TVB戏曲台,P2p://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB星河台,http://113.64.145.98:8081/hls/135/index.m3u8#http://117.114.153.1:8180/TV00000000000000000073@HHZT
+TVB星河台,http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8#http://113.64.145.55:8081/hls/135/index.m3u8#http://117.114.153.1:8180/TV00000000000000000073@HHZT
 TVB千禧经典台,P2p://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 TVB粤语片台,P2p://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 TVB亚洲剧台,P2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
@@ -185,7 +185,7 @@ KIX,P2p://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-星空卫视,http://117.114.153.1:8180/TV00000000000000000071@HHZT#http://171.88.35.78:4000/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://117.114.153.1:8180/TV00000000000000000071@HHZT#http://171.88.35.78:4000/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
 ChannelV,http://117.114.153.1:8180/TV00000000000000000067@HHZT#http://171.88.35.78:4000/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 台湾,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
