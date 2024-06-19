@@ -80,7 +80,7 @@ CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253#http://60.
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://l8221706.cloudns.org/Best.php?id=xsjhd8m/8000000#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
+新视觉,http://l8221706.cloudns.org/Best.php?id=xsjhd8m/8000000#http://171.208.14.218:9090/live/xsjhd/hls.m3u8#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -115,7 +115,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 中学生频道,http://mail.petzhu.top:7000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://hlsbkmgsplive.miguvideo.com/wd_r3/cnr/faxianzhilv/2000/01.m3u8?&HlsSubType=&encrypt=#http://biaozhun114.com/tv/migu.php?id=fxzl#http://110.178.52.119:8084/udp/239.1.1.103:8103
+发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://223.10.38.19:8083/udp/239.1.1.103:8103
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://mail.petzhu.top:7000/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://mail.petzhu.top:7000/rtp/239.254.201.184:6263
