@@ -276,7 +276,7 @@ HITS,P2p://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
 壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新闻(备),P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
-中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e#http://livetv.skycf.eu.org:80/live.m3u8?c=7
+中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e#http://194.87.101.118/live.m3u8?c=7
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
