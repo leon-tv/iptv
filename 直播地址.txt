@@ -23,7 +23,7 @@ CETV1,http://183.215.116.132:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://hwylivehd.centv.cn/cetv2/2020tsytk.m3u8#http://183.215.116.132:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
 CETV3,http://hwylivehd.centv.cn/cetv3/bjdm.m3u8#http://117.114.153.1:8180/TV00000000000000000009@HHZT#http://125.34.18.98:7777/rtp/239.3.1.55:4120
 CETV4,http://183.215.116.132:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT#http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
-CETV早期教育,http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
+CETV早期教育,http://cqcbn2.live.cbncdn.cn:8090/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/1/v6M/index.m3u8#http://mail.petzhu.top:7000/rtp/239.254.201.230:7253
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
