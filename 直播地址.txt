@@ -146,14 +146,14 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 凤凰卫视资讯台,http://113.64.147.106:8811/hls/33/index.m3u8#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#P2p://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#P2p://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 凤凰卫视香港台,http://113.64.147.106:8811/hls/34/index.m3u8#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#P2p://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰卫视电影台,http://mail.petzhu.top:7000/rtp/239.254.201.1:5214#http://117.114.153.1:8180/TV00000000000000000072@HHZT
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://111.160.76.101:80/香蕉哥/tvb翡翠.live.flv#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 TVB明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVBJ2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB无线新闻,P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVB财经体育资讯,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c#P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 TVB娱乐新闻,P2p://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c#P2p://generationnexxxt.com:19806/94c52f4f55a646f6825cff0b78316ae2
 TVB戏曲台,P2p://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
-TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#http://117.114.153.1:8180/TV00000000000000000073@HHZT
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#http://117.114.153.1:8180/TV00000000000000000073@HHZT
 TVB千禧经典台,P2p://generationnexxxt.com:19806/1a5b04c67ece47bb87aa482e2c73138a
 TVB粤语片台,P2p://generationnexxxt.com:19806/3a44c9c92439443494b8ecff6fdb2336
 TVB亚洲剧台,P2p://generationnexxxt.com:19806/ee081a662356489d8b2170952ec91d24
