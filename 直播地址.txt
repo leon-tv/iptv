@@ -112,10 +112,10 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
 国学频道,http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://pwd.unnas.top:4000/rtp/239.253.92.158:8071
-中学生频道,http://58.215.231.9/live2.rxip.sc96655.com/live/zxs_4000.m3u8#http://l8221706.xiahouyuhan.icu/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://pwd.unnas.top:4000/rtp/239.253.92.27:6106
+中学生频道,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/zxs_4000.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://pwd.unnas.top:4000/rtp/239.253.92.27:6106
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://58.215.231.9/live2.rxip.sc96655.com/live/fxzl_2000.m3u8#http://l8221706.xiahouyuhan.icu/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
+发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://58.215.231.35/live3.ngaacdn.sc96655.com/live/fxzl_2000.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://pwd.unnas.top:4000/rtp/239.253.93.248:6426#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
