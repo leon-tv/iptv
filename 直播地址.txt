@@ -75,12 +75,12 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://106.9.1
 央视台球,http://183.215.116.132:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.132:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.132:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://60.221.17.67/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
+央视卫生健康,http://103.1.169.56/outlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8
 央视书画频道,http://183.215.116.132:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://l8221706.xiahouyuhan.icu/Best.php?id=xsjhd8m/8000000#http://115.238.155.197/live3.ngaacdn.sc96655.com/live/ycxsjH265_4000.m3u8#http://163.177.125.223:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
+新视觉,http://l8221706.xiahouyuhan.icu/Best.php?id=xsjhd8m/8000000#http://120.196.171.138:9901/tsfile/live/1073_1.m3u8?key=txiptv&playlive=0&authid=0#http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=ABCDEFGH&programid=4200000249
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -112,10 +112,10 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
 国学频道,http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://106.9.182.35:6000/rtp/239.254.200.107:6255
-中学生频道,http://115.238.155.197/live3.ngaacdn.sc96655.com/live/zxs_4000.m3u8#http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://106.9.182.35:6000/rtp/239.254.200.113:6243
+中学生频道,http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://106.9.182.35:6000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://115.238.155.197/live3.ngaacdn.sc96655.com/live/fxzl_2000.m3u8#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
+发现之旅,http://117.114.153.1:8180/TV00000000000000000131@HHZT#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://106.9.182.35:6000/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
