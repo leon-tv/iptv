@@ -21,9 +21,9 @@ CCTV4K,http://183.215.116.132:6610/180000001001/32023092211020848462000290559536
 CGTN,http://39.134.240.3/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://183.215.116.132:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
 CETV2,http://183.215.116.132:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
-CETV3,http://117.114.153.1:8180/TV00000000000000000009@HHZT
+CETV3,http://117.114.153.1:8180/TV00000000000000000009@HHZT#http://27.40.16.69:8114/FvSeid=2062611b8745e2b8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=3143&Fsv_chan_hls_se_idx=34&Provider_id=1&Pcontent_id=1
 CETV4,http://183.215.116.132:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT#http://hwylivehd.centv.cn/cetv4/zjpd.m3u8
-CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://106.9.182.35:6000/rtp/239.254.201.230:7253
+CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://27.40.16.69:8114/FvSeid=2021047b8745e2b8&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=4280&Fsv_chan_hls_se_idx=62&Provider_id=1&Pcontent_id=1#http://106.9.182.35:6000/rtp/239.254.201.230:7253
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -101,7 +101,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://106.9.1
 CHC动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://116.162.6.191/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8#http://115.238.155.197/live3.ngaacdn.sc96655.com/live//CWJD_4000.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#p2p://generationnexxxt.com:19806/65fa5e2600039eda2a43168726d80618#http://117.114.153.1:8180/TV00000000000000000007@HHZT?
+重温经典频道,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://116.162.6.191/mmst.v.smtcdns.net/1301-txt.yiyang.otvcloud.com/otv/skcc/live/channel43067/index.m3u8#http://124.231.212.117:9999/tsfile/live/1111_1.m3u8?key=txiptv&playlive=0&authid=0#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#p2p://generationnexxxt.com:19806/65fa5e2600039eda2a43168726d80618#http://117.114.153.1:8180/TV00000000000000000007@HHZT?
 乐游,http://183.215.116.132:6610/000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 法治天地,http://183.215.116.132:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 金色学堂,http://183.215.116.132:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
