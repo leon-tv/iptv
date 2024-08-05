@@ -112,7 +112,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
 国学频道,http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://106.9.182.35:6000/rtp/239.254.200.107:6255
-中学生频道,http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://106.9.182.35:6000/rtp/239.254.200.113:6243
+中学生频道,http://iptviptv.site:9694/hls/713/index.m3u8#http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://106.9.182.35:6000/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
 发现之旅,http://117.114.153.18:8180/TV00000000000000000131@HHZT#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
@@ -142,12 +142,12 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#mitv://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
-凤凰卫视资讯台,http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#mitv://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
+凤凰卫视中文台,http://iptviptv.site:9694/hls/731/index.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#http://116.162.6.191/qctv.fengshows.cn/live/0701pcc72.m3u8#mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#mitv://generationnexxxt.com:19806/65fd687c000dccf1362379174a9617fc
+凤凰卫视资讯台,http://iptviptv.site:9694/hls/732/index.m3u8#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#http://116.162.6.191/qctv.fengshows.cn/live/0701pin72.m3u8#mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64#mitv://generationnexxxt.com:19806/65fd6d04000e7c8036352c8637e97c89
 凤凰卫视香港台,http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://116.162.6.191/qctv.fengshows.cn/live/0701phk72.m3u8#http://110.185.171.226:96/yximgs.php?id=184#mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
 凤凰卫视电影台,http://117.114.153.18:8180/TV00000000000000000072@HHZT#http://106.9.182.35:6000/rtp/239.254.201.1:5214
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://119.129.172.197:8081/hls/20/index.m3u8#http://110.185.171.226:96/yximgs.php?id=2#p2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#p2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7mitv://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9#http://113.64.147.143:8811/hls/36/index.m3u8
-TVB明珠台,mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
+TVB翡翠台,http://iptviptv.site:9694/hls/98/index.m3u8#http://iptviptv.site:9694/hls/99/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://119.129.172.197:8081/hls/20/index.m3u8#http://110.185.171.226:96/yximgs.php?id=2#p2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#p2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7mitv://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9#http://113.64.147.143:8811/hls/36/index.m3u8
+TVB明珠台,http://iptviptv.site:9694/hls/103/index.m3u8#mitv://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9#mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVBJ2,mitv://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#p2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB无线新闻,p2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#p2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#mitv://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
 TVB财经体育资讯,mitv://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c#mitv://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
@@ -186,7 +186,7 @@ KIX,mitv://generationnexxxt.com:19806/3f7be3ad31504c9fa358e3fe583fac0a
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://171.88.35.78:4000/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
+星空卫视,http://iptviptv.site:9694/hls/703/index.m3u8#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://117.114.153.18:8180/TV00000000000000000071@HHZT#http://171.88.35.78:4000/udp/239.93.0.156:2193#http://wouu.net:9977/udp/239.93.0.156:2193#mitv://generationnexxxt.com:19806/0b87528420394614b1016123ff4fda4c
 ChannelV,http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://171.88.35.78:4000/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.157:2194#mitv://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 台湾,#genre#
 BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
