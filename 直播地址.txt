@@ -151,7 +151,9 @@ TVB明珠台,http://8.134.82.80:777/666/666.php?id=10#http://php.jdshipin.com:88
 TVBJ2,http://php.jdshipin.com:8880/smt.php?id=j2_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 TVB无线新闻,http://8.134.82.80:777/666/666.php?id=8#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0#P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9#P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
 TVB财经体育资讯,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
-TVB娱乐新闻,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06#P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318#http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB娱乐新闻,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06#P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318#http://8.134.82.80:777/666/666.php?id=29#http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+TVB生活台,http://8.134.82.80:777/666/666.php?id=7
+TVB华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
 TVB星河台,http://8.134.82.80:777/666/666.php?id=22#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://113.64.147.143:8811/hls/35/index.m3u8#http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8#http://13457610200.8866.org:2018/live/星河频道HD/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/135/index.m3u8#P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6#P2p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c#http://117.114.153.18:8180/TV00000000000000000073@HHZT
 TVB黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c#P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
@@ -180,8 +182,8 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0#http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
 香港文旅,http://ali-play.lezhibo.com/lezhibo/6ad788f1bbab4c689ecdc0d64a1e1601.m3u8
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54#P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
-港台电视31台,P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-港台电视32台,P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+港台电视31台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk31#P2p://generationnexxxt.com:19806/c7cd517a9e5b44a9b6037c90f998627f#https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+港台电视32台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32#P2p://generationnexxxt.com:19806/8ef4a2b7bac54aba8b17dfd2071df91f#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
 港台电视33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
