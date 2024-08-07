@@ -149,7 +149,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 TVB翡翠台,http://iptviptv.site:9694/hls/98/index.m3u8#http://iptviptv.site:9694/hls/99/index.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://119.129.172.197:8081/hls/20/index.m3u8#http://110.185.171.226:96/yximgs.php?id=2#P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65#P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd#http://113.64.147.143:8811/hls/36/index.m3u8
 TVB明珠台,http://8.134.82.80:777/666/666.php?id=10#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 TVBJ2,http://php.jdshipin.com:8880/smt.php?id=j2_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-TVB无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0#P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9#P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
+TVB无线新闻,http://8.134.82.80:777/666/666.php?id=8#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0#P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9#P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
 TVB财经体育资讯,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 TVB娱乐新闻,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06#P2p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318#http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB戏曲台,mitv://generationnexxxt.com:19806/4c3b3c3a6c8849c3aa0fc9938859e134
