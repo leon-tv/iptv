@@ -75,12 +75,12 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://119.125
 央视台球,http://183.215.116.132:6610/180000001001/00000001000000000091000000244803/main.m3u8?IASHttpSessionId=OTT
 高尔夫网球,http://183.215.116.132:6610/180000001001/00000001000000000091000000244801/main.m3u8?IASHttpSessionId=OTT
 央视文化精品,http://183.215.116.132:6610/180000001001/00000001000000000091000000244810/main.m3u8?IASHttpSessionId=OTT
-央视卫生健康,http://kgq888.91kds.cn/c3/ysp.m3u8?id=2024165203&app=com.jiaoxiang.fangnale&version=2.2.9&mac=aa:91:91:91:ff&nwtime=1723530543&sign=ae329a85fb61d3633255dc09afeec9b1&ev=20240715#http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8#http://119.125.131.239:9901/tsfile/live/1113_1.m3u8
+央视卫生健康,http://116.148.164.119/bktlivecloud-cdn.ysp.cctv.cn/ysp/2024165203.m3u8#http://119.125.131.239:9901/tsfile/live/1113_1.m3u8
 央视书画频道,http://183.215.116.132:6610/180000001001/00000001000000000050000000448843/main.m3u8?IASHttpSessionId=OTT
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://kgq888.91kds.cn/c3/bfgd.m3u8?id=4200000249&app=com.jiaoxiang.fangnale&version=2.2.9&mac=aa:91:91:91:ff&nwtime=1723531104&sign=284b3e6e37d62eb188df5ce25f8e2832&ev=20240715#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://hk.wifi6.vip/北方广电.php?id=201#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
