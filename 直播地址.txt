@@ -23,7 +23,7 @@ CETV1,http://183.215.116.132:6610/180000001001/00000001000000000016000000007220/
 CETV2,http://183.215.116.132:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
 CETV3,http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
 CETV4,http://183.215.116.132:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
-CETV早期教育,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/zaojiaoHD/__op/default/__f/index.m3u8#http://op.sev7.net:4022/rtp/239.254.201.230:7253#http://180.143.86.217:8181/tsfile/live/1079_1.m3u8
+CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://op.sev7.net:4022/rtp/239.254.201.230:7253#http://180.143.86.217:8181/tsfile/live/1079_1.m3u8
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -101,7 +101,7 @@ CETV早期教育,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/zaojiaoHD/__
 CHC动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/cwjdHD/__op/default/__f/index.m3u8#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://117.114.153.18:8180/TV00000000000000000007@HHZT?#http://l8221706.xiahouyuhan.icu/bfgd.php?id=636
+重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://117.114.153.18:8180/TV00000000000000000007@HHZT?#http://l8221706.xiahouyuhan.icu/bfgd.php?id=636
 乐游,http://183.215.116.132:6610/000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 法治天地,http://183.215.116.132:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 金色学堂,http://183.215.116.132:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
@@ -111,11 +111,11 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
-国学频道,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/guoxue/__op/default/__f/index.m3u8#http://op.sev7.net:4022/rtp/239.254.200.107:6255
-中学生频道,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/qicai/__op/default/__f/index.m3u8#http://op.sev7.net:4022/rtp/239.254.200.113:6243
+国学频道,http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://op.sev7.net:4022/rtp/239.254.200.107:6255
+中学生频道,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://op.sev7.net:4022/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://cqcbn3.live.cbncdn.cn:8090/__cl/cg:live/__c/faxian/__op/default/__f/index.m3u8
+发现之旅,http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
