@@ -21,9 +21,9 @@ CCTV4K,http://183.215.116.132:6610/180000001001/32023092211020848462000290559536
 CGTN,http://39.134.240.3/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://183.215.116.132:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
 CETV2,http://183.215.116.132:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
-CETV3,http://117.161.133.51:81/gitv_live/G_CETV-3/G_CETV-3.m3u8#http://124.205.11.205:91/live/CETV3-1500k/live.m3u8#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
+CETV3,http://117.161.133.52:81/gitv_live/G_CETV-3/G_CETV-3.m3u8#http://124.205.11.205:91/live/CETV3-1500k/live.m3u8#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
 CETV4,http://183.215.116.132:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
-CETV早期教育,http://117.161.133.51:81/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.21.247:4000/udp/239.93.0.117:5140#http://op.sev7.net:4022/rtp/239.254.201.230:7253
+CETV早期教育,http://117.161.133.52:81/gitv_live/G_CETV-ZQJY-CQ/G_CETV-ZQJY-CQ.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.21.247:4000/udp/239.93.0.117:5140#http://op.sev7.net:4022/rtp/239.254.201.230:7253
 卫视,#genre#
 湖南卫视,http://8221706.mygamesonline.org/TVOD/itvhnyd.php?id=00000001000000000064000000308827#http://39.134.240.3/PLTV/2/224/3221226324/index.m3u8
 东方卫视,http://39.134.240.3/PLTV/2/224/3221226208/index.m3u8
@@ -110,11 +110,11 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 财富天下,http://39.134.240.3/PLTV/2/224/3221226366/index.m3u8
 梨园频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308847/main.m3u8?IASHttpSessionId=OTT
 文物宝库,http://183.215.116.132:6610/180000001001/00000001000000000064000000308848/main.m3u8?IASHttpSessionId=OTT
-国学频道,http://117.161.133.51:81/gitv_live/G_GUOXUE/G_GUOXUE.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://op.sev7.net:4022/rtp/239.254.200.107:6255
-中学生频道,http://117.161.133.51:81/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8#http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://op.sev7.net:4022/rtp/239.254.200.113:6243
+国学频道,http://117.161.133.52:81/gitv_live/G_GUOXUE/G_GUOXUE.m3u8#http://l8221706.xiahouyuhan.icu/cqyx.php?id=gxpd#http://op.sev7.net:4022/rtp/239.254.200.107:6255
+中学生频道,http://117.161.133.52:81/gitv_live/G_ZHONGXUESHENG/G_ZHONGXUESHENG.m3u8#http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://op.sev7.net:4022/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://117.161.133.51:81/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
+发现之旅,http://117.161.133.52:81/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
 中华美食,http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
