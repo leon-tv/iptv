@@ -80,7 +80,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://117.161.12.118/live/program/live/xsjhd8m/8000000/mnf.m3u8#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://l8221706.xiahouyuhan.icu/bfgd.php?id=249#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8#http://117.161.12.118/live/program/live/xsjhd8m/8000000/mnf.m3u8#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://l8221706.xiahouyuhan.icu/bfgd.php?id=249#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -100,7 +100,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.
 CHC动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://58.250.155.2:8180/TV00000000000000000022@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=635
+重温经典频道,http://avd.iptviptv.site:9694/hls/716/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://58.250.155.2:8180/TV00000000000000000022@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=635
 乐游,http://183.215.116.132:6610/000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 法治天地,http://183.215.116.132:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 金色学堂,http://183.215.116.132:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
