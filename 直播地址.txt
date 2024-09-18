@@ -21,7 +21,7 @@ CCTV4K,http://183.215.116.132:6610/180000001001/32023092211020848462000290559536
 CGTN,http://39.134.240.3/PLTV/2/224/3221225936/index.m3u8
 CETV1,http://183.215.116.132:6610/180000001001/00000001000000000016000000007220/index.m3u8?IASHttpSessionId=OTT
 CETV2,http://183.215.116.132:6610/180000001001/00000001000000000024000000361367/index.m3u8?IASHttpSessionId=OTT
-CETV3,http://bjlive.u.pthv.gitv.tv:91/live/CETV3-1500k/live.m3u8#http://124.205.11.205:91/live/CETV3-1500k/live.m3u8#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
+CETV3,http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_CETV-3/G_CETV-3.m3u8#http://bjlive.u.pthv.gitv.tv:91/live/CETV3-1500k/live.m3u8#http://124.205.11.205:91/live/CETV3-1500k/live.m3u8#http://imzbpfrp.zzmd.fun:8888/rtp/239.3.1.55:4120
 CETV4,http://183.215.116.132:6610/180000001001/00000001000000001017000000440665/main.m3u8?IASHttpSessionId=OTT
 CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.21.247:4000/udp/239.93.0.117:5140#http://op.sev7.net:4022/rtp/239.254.201.230:7253
 卫视,#genre#
@@ -57,7 +57,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.
 新疆卫视,http://39.134.240.3/PLTV/2/224/3221226078/index.m3u8
 云南卫视,http://39.134.240.3/PLTV/2/224/3221225986/index.m3u8
 重庆卫视,http://39.134.240.3/PLTV/2/224/3221225966/index.m3u8
-大湾区卫视,http://avd.iptviptv.site:9694/hls/452/index.m3u8#http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
+大湾区卫视,http://117.72.68.25:9930/migu.php?id=dwqws#http://183.215.116.132:6610/000000001000/2000000003000000045/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000003000000045
 数字频道,#genre#
 电视指南,http://183.215.116.132:6610/180000001001/00000001000000000091000000244797/main.m3u8?IASHttpSessionId=OTT
 第一剧场,http://183.215.116.132:6610/180000001001/00000001000000000091000000244808/main.m3u8?IASHttpSessionId=OTT
@@ -80,7 +80,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.
 五星体育,http://183.215.116.132:6610/000000001000/5000000010000017540/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 劲爆体育,http://183.215.116.132:6610/000000001000/5000000002000029972/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000002000029972&livemode=1&stbId=3
 魅力足球,http://183.215.116.132:6610/000000001000/5000000011000031207/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-新视觉,http://avd.iptviptv.site:9694/hls/717/index.m3u8#http://117.161.12.118/live/program/live/xsjhd8m/8000000/mnf.m3u8#http://120.76.248.139/live/bfgd/4200000249.m3u8#http://l8221706.xiahouyuhan.icu/bfgd.php?id=249#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
+新视觉,http://l8221706.xiahouyuhan.icu/Best.php?id=xsjhd8m/8000000#http://l8221706.xiahouyuhan.icu/bfgd.php?id=249#P2p://generationnexxxt.com:19806/ce7ba79bbe664df9a9539298313a35be#P2p://generationnexxxt.com:19806/cafb9b4fc3c646afa2cb75fd31b6f493
 游戏风云,http://183.215.116.132:6610/000000001000/5000000011000031114/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031114&livemode=1&stbId=3
 天元围棋,http://39.134.240.3/PLTV/2/224/3221226342/index.m3u8
 中国天气,http://39.134.240.3/PLTV/2/224/3221225809/index.m3u8
@@ -100,7 +100,7 @@ CETV早期教育,http://l8221706.xiahouyuhan.icu/cqyx.php?id=zqjy#http://218.88.
 CHC动作电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448842/main.m3u8?IASHttpSessionId=OTT
 CHC影迷电影,http://183.215.116.132:6610/180000001001/00000001000000000050000000448841/main.m3u8?IASHttpSessionId=OTT
 CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000000448840/main.m3u8?IASHttpSessionId=OTT
-重温经典频道,http://avd.iptviptv.site:9694/hls/716/index.m3u8#http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://58.250.155.2:8180/TV00000000000000000022@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=635
+重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv#http://l8221706.xiahouyuhan.icu/cqyx.php?id=cwjd#http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=1503359536318867014&srchost=172.16.22.158:8060&gid=OHehEP1KV9FqguWiPXrX6Q%3D%3D#P2p://generationnexxxt.com:19806/448f8be690774f2da78e712d7bc43421#http://58.250.155.2:8180/TV00000000000000000022@HHZT#http://l8221706.xiahouyuhan.icu/bfgd.php?id=635
 乐游,http://183.215.116.132:6610/000000001000/5000000011000031112/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031112&livemode=1&stbId=3
 法治天地,http://183.215.116.132:6610/000000001000/9001547084732463424/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=9001547084732463424&livemode=1&stbId=3
 金色学堂,http://183.215.116.132:6610/000000001000/5000000010000026105/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000010000026105&livemode=1&stbId=3
@@ -114,9 +114,9 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 中学生频道,http://tvbox6.icu/tv/migu.php?id=zxs#http://l8221706.xiahouyuhan.icu/cqyx.php?id=zxs#http://op.sev7.net:4022/rtp/239.254.200.113:6243
 环球旅游,http://183.215.116.132:6610/180000001001/00000001000000000064000000308870/main.m3u8?IASHttpSessionId=OTT
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
-发现之旅,http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
+发现之旅,http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
-中华美食,http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
+中华美食,http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8#http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
@@ -141,12 +141,12 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 四海钓鱼,http://39.134.240.3/PLTV/2/224/3221226346/index.m3u8
 快乐垂钓,http://39.134.240.3/PLTV/2/224/3221226348/index.m3u8
 港澳,#genre#
-凤凰卫视中文台,http://avd.iptviptv.site:9694/hls/731/index.m3u8#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
-凤凰卫视资讯台,http://avd.iptviptv.site:9694/hls/732/index.m3u8#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5#P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
-凤凰卫视香港台,http://avd.iptviptv.site:9694/hls/730/index.m3u8#http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://110.185.171.226:96/yximgs.php?id=184#P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+凤凰卫视中文台,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw#http://www.91dos.cn:4022/rtp/239.61.2.184:9092#http://www.jeremyoto.com:82/rtp/233.50.200.191:5140#http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8#http://110.185.171.226:96/yximgs.php?id=182#P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f#P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
+凤凰卫视资讯台,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzx#http://www.91dos.cn:4022/rtp/239.61.2.183:9086#http://www.jeremyoto.com:82/rtp/233.50.200.192:5140#http://13457610200.8866.org:2018/live/凤凰资讯/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/36/index.m3u8#http://110.185.171.226:96/yximgs.php?id=183#P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5#P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
+凤凰卫视香港台,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk#http://13457610200.8866.org:2018/live/凤凰香港/index.m3u8#https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8#http://110.185.171.226:96/yximgs.php?id=184#P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 凤凰卫视电影台,http://op.sev7.net:4022/rtp/239.254.201.1:5214#p2p://generationnexxxt.com:19806/9fd9601feb7545e5941996eaefd3fcc3
-TVB翡翠台,http://avd.iptviptv.site:9694/hls/98/index.m3u8#http://58.250.155.2:8180/TV00000000000000000032@HHZT#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://124.244.149.194:65530/bysid/1#http://110.185.171.226:96/yximgs.php?id=2#P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65#P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd#http://113.64.147.143:8811/hls/36/index.m3u8
-TVB明珠台,http://avd.iptviptv.site:9694/hls/103/index.m3u8#http://124.244.149.194:65531/bysid/2#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
+TVB翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct#http://php.jdshipin.com:8880/smt.php?id=jade_twn#http://124.244.149.194:65530/bysid/1#http://110.185.171.226:96/yximgs.php?id=2#P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65#P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd#http://113.64.147.143:8811/hls/36/index.m3u8
+TVB明珠台,http://124.244.149.194:65531/bysid/2#http://php.jdshipin.com:8880/smt.php?id=pearl_twn#P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe#P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
 TVBJ2,http://php.jdshipin.com:8880/smt.php?id=j2_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://8.137.59.151:3000/laoshu.php?key=hello&id=11
 TVB无线新闻,http://124.244.149.194:65531/bysid/83#P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0#P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9#P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
 TVB财经体育资讯,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
@@ -187,7 +187,7 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 港台电视34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 港台电视35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 港台电视36台,P2p://generationnexxxt.com:19806/669b838b000a6b509fbd6a5e20670d8d
-星空卫视,http://avd.iptviptv.site:9694/hls/703/index.m3u8#http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
+星空卫视,http://13457610200.8866.org:2018/live/星空卫视/index.m3u8#http://119.129.172.197:8081/hls/18/index.m3u8#http://wouu.net:9977/udp/239.93.0.156:2193#P2p://generationnexxxt.com:19806/e8fc863e98694c568c1abf29190c149c
 ChannelV,http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 台湾,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
