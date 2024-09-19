@@ -116,7 +116,7 @@ CHC家庭影院,http://183.215.116.132:6610/180000001001/00000001000000000050000
 车迷频道,http://183.215.116.132:6610/180000001001/00000001000000000064000000308873/main.m3u8?IASHttpSessionId=OTT
 发现之旅,http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_FAXIANZL/G_FAXIANZL.m3u8#http://tvbox6.icu/tv/migu.php?id=fxzl#http://l8221706.xiahouyuhan.icu/cqyx.php?id=fxzl#http://l8221706.xiahouyuhan.icu/bfgd.php?id=151
 老故事,http://183.215.116.132:6610/180000001001/00000001000000000050000000448839/main.m3u8?IASHttpSessionId=OTT
-中华美食,http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8#http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
+中华美食,http://op.sev7.net:4022/rtp/239.254.201.189:7171#http://106.116.188.69/ctcc-livod.ctyun-cdn.gitv.tv/gitv_live/G_ZHONGHUAMS/G_ZHONGHUAMS.m3u8#http://183.215.116.132:6610/000000001000/1000000005000266015/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266015
 中华特产,http://183.215.116.132:6610/180000001001/00000001000000000050000000448845/main.m3u8?IASHttpSessionId=OTT
 地方台,#genre#
 湖南经视,http://39.134.240.3/PLTV/2/224/3221226036/index.m3u8
