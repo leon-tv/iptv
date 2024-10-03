@@ -34,8 +34,8 @@ CETV早期教育,http://cu.wolf00.com:8888/udp/239.254.201.230:7253
 湖北卫视,http://39.134.240.3/PLTV/2/224/3221226212/index.m3u8
 安徽卫视,http://39.134.240.3/PLTV/2/224/3221225964/index.m3u8
 东南卫视,http://39.134.240.3/PLTV/2/224/3221225968/index.m3u8
-厦门卫视,http://cache.ott.ystenlive.itv.cmvideo.cn/000000001000/1000000005000266006/1.m3u8?stbId=3&channel-id=ystenlive&Contentid=1000000005000266006&mos=jbjhhzstsl&livemode=1&version=1.0&owaccmark=1000000005000266006&owchid=ystenlive&owsid=7204811727847482235&AuthInfo=mPlCWYWGpfvQ%2FQI7H38A%2BtZi6zlRQ68qsVvpBlkCFHQ0RnoCqvoxPmPGeF1WBYiI1eFKlujk3LTporEcSjL2rw%3D%3D#http://183.215.116.132:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
-海峡卫视,http://live6.fjtv.net/haixiapd/playlist.m3u8?_upt=fdffb4b51727857409#http://php.jdshipin.com:8880/fujian.php?id=9#http://120.42.235.67:1025/udp/239.61.2.151:8894#http://120.42.235.67:1025/udp/239.61.5.45:1025
+厦门卫视,http://183.215.116.132:6610/180000001001/00000001000000000022000000381023/main.m3u8?IASHttpSessionId=OTT
+海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9#http://120.42.235.67:1025/udp/239.61.2.151:8894#http://120.42.235.67:1025/udp/239.61.5.45:1025
 广东卫视,http://39.134.240.3/PLTV/2/224/3221225970/index.m3u8
 广西卫视,http://39.134.240.3/PLTV/2/224/3221225978/index.m3u8
 贵州卫视,http://39.134.240.3/PLTV/2/224/3221225990/index.m3u8
