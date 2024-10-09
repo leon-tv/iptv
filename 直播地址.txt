@@ -195,10 +195,10 @@ now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74#P
 ChannelV,http://114.105.172.44:9901/tsfile/live/0141_2.m3u8#?key=txiptv&playlive=1&authid=0#http://117.114.153.18:8180/TV00000000000000000067@HHZT#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/b0e9c93b93a140df812f05eb754072a0
 台湾,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
-民视,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae#rtmp://220.130.201.73/sat/tv051
-台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb#rtmp://220.130.201.73/sat/tv071
-华视,P2p://generationnexxxt.com:19806/2ebe6c2c5cfd454ebdc30acc44e683d7#rtmp://220.130.201.73/sat/tv111
-中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac#rtmp://220.130.201.73/sat/tv091
+民视,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae#rtmp://f13h.mine.nu/sat/tv051
+台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb#rtmp://f13h.mine.nu/sat/tv071
+华视,P2p://generationnexxxt.com:19806/2ebe6c2c5cfd454ebdc30acc44e683d7#rtmp://f13h.mine.nu/sat/tv111
+中视,P2p://generationnexxxt.com:19806/695746eb4c094292a862a53216d54dac#rtmp://f13h.mine.nu/sat/tv091
 Lifetime,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
 大爱,P2p://generationnexxxt.com:19806/3a1fb2af7f384a148c57899bb1b50dfb
 KLT-靖天国际台,P2p://generationnexxxt.com:19806/924e7a65eec84eddade5f03c3d5ebb37
@@ -268,7 +268,7 @@ CinemaWorld,P2p://generationnexxxt.com:19806/b132ee920a4c47b284c08292e8c215f7
 三立台湾台,P2p://generationnexxxt.com:19806/82c3325594cc42bcb28b18426623428e
 三立都会台,P2p://generationnexxxt.com:19806/d246662584364ea6aad39cb2c7767eec
 东森综合台,P2p://generationnexxxt.com:19806/96888fe237044e2e97823cc5e215e1a3
-东森超视,P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9#rtmp://220.130.201.73/sat/tv331
+东森超视,P2p://generationnexxxt.com:19806/9cf45ab03b744e3696aeeb3aec844fa9#rtmp://f13h.mine.nu/sat/tv331
 中天综合台,P2p://generationnexxxt.com:19806/3e0f75883e414bb98765c2eab11991be
 中天娱乐台,P2p://generationnexxxt.com:19806/4ec900f6e5c0468db4b5f6743efa6508
 东森戏剧台,P2p://generationnexxxt.com:19806/d6863286fa4a40cbbf9f93bd5c1e5733
@@ -298,8 +298,8 @@ HBO,P2p://generationnexxxt.com:19806/ccabaebf243e4385a8f39a6abf31f8bb
 AXN,P2p://generationnexxxt.com:19806/6c01776274094a4191d223378054782b
 好莱坞电影台,P2p://generationnexxxt.com:19806/c4810d15af404015859a5fc5059e4716
 CINEMAX,P2p://generationnexxxt.com:19806/a7ef892dc3d54789b8a29e5b8b06882e
-纬来育乐台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb#rtmp://220.130.201.73/sat/tv701
-纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99#http://cloud.yumixiu768.com/tmp/123.m3u8#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://220.130.201.73/sat/tv721
+纬来育乐台,P2p://generationnexxxt.com:19806/5c2e47cfcc864451b73783def36674bb#rtmp://f13h.mine.nu/sat/tv701
+纬来体育台,P2p://generationnexxxt.com:19806/76e607f5f18c4561b7d5b5915897cc99#http://cloud.yumixiu768.com/tmp/123.m3u8#http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130#rtmp://f13h.mine.nu/sat/tv721
 ELEVEN体育1台,P2p://generationnexxxt.com:19806/686833968d4b45319a5942827b997e59#rtmp://f13h.mine.nu/sat/tv731
 JET综合台,P2p://generationnexxxt.com:19806/834c314a8ff844b0a9c3ea729ad8516b
 国兴卫视,P2p://generationnexxxt.com:19806/341ef44c383e42aabb387120e1dade1c
@@ -347,7 +347,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/bffdd8e7cb994d9e80a697632cf0a40
 台视新闻台,P2p://generationnexxxt.com:19806/3e72f4e960264195b41106221611a5a7
 寰宇新闻台湾台,P2p://generationnexxxt.com:19806/eca259193814499a8bea04411ffceb1e
 台视财经台,P2p://generationnexxxt.com:19806/adf452cad7a246ca8ccc8301f8184c6e
-纬来日本,P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300#rtmp://220.130.201.73/sat/tv771
+纬来日本,P2p://generationnexxxt.com:19806/f975f456c2124eb78e6afaad3a9db300#rtmp://f13h.mine.nu/sat/tv771
 爱尔达影剧台,P2p://generationnexxxt.com:19806/d2fc333d45044f419b16748a28ac19c5
 民视(备),P2p://generationnexxxt.com:19806/710b3fa51d9746d982e51411e5a49400
 三立台湾台(备),P2p://generationnexxxt.com:19806/82fb76c0b7d7487cb42604a970c4d2da
