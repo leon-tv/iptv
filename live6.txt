@@ -906,9 +906,23 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
 香港,#genre#
-凤凰中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文台(B),P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
-﻿翡翠台(备),P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰中文,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
+凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+凤凰香港,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
+凤凰资讯,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
+凤凰资讯,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
+翡翠台(备),P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
 翡翠台(B),P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
 翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
 翡翠台(华丽台),P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
@@ -1151,8 +1165,6 @@ HOY TV,P2p://generationnexxxt.com:19806/532d47eca340456a814ba21cc5e68a52
 PopC,P2p://generationnexxxt.com:19806/3ae0f859370b4f17baec42495be6f043
 ViuTVsix,P2p://generationnexxxt.com:19806/b6f920891ad9473ca6f839df7616f580
 ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
-凤凰资讯台,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-凤凰香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
 澳门-MACAU,P2p://generationnexxxt.com:19806/b08e564af8cf49e2a0fadaf4978a04cf
 澳门莲花,P2p://generationnexxxt.com:19806/cd6e7bcddc7c4e6ea2e6d7b6dfa03ae8
 HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
@@ -1180,7 +1192,6 @@ now财经台(B),P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd53
 黄金翡翠台(B),P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
 ViuTVsix(B),P2p://generationnexxxt.com:19806/ea75ceca822f454bb858845559d5fc55
 now新闻台(B),P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
-凤凰资讯台(B),P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 beIN Sports,P2p://generationnexxxt.com:19806/9215bd8182d04b67a9285f24816321df
 TV1,P2p://generationnexxxt.com:19806/d7229d76e8624e8d872d94d081e9524e
 TV2,P2p://generationnexxxt.com:19806/265c61c5d7ad468e8e0e437d23797171
