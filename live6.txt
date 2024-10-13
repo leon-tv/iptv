@@ -1,10 +1,3 @@
-4K,#genre#
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-USA,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
-USA1,http://live.redtraffic.xyz:80/pov.m3u8
-
 央视,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000131/index.m3u8?IAS
@@ -931,27 +924,38 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰资讯,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰资讯,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 凤凰资讯,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-翡翠台(备),P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
-翡翠台(B),P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
+翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+翡翠台,P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
 翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
-翡翠台(华丽台),P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
+翡翠台,P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
 TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB娱乐新闻台,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
 TVB娱乐新闻台,P1p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b06
-TVB娱乐新闻台(B),P1p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
-TVB娱乐新闻台(B),P1p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
-TVB星河(B),P1p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
+TVB娱乐新闻台,P1p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
+TVB娱乐新闻台,P1p://generationnexxxt.com:19806/05e767dba8fa48e9ba386ed231c94318
+TVB星河,P1p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
 TVB星河,P2p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
 TVB星河,P1p://generationnexxxt.com:19806/e94f4c244af8464fb06eff4c9da250a6
-TVB星河(B),P1p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
+TVB星河,P1p://generationnexxxt.com:19806/afcbb73766d64754bd8d35fc330aae1c
 无线新闻台,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
-无线新闻台(B),P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
-无线新闻台(备),P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
+无线新闻台,P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
+无线新闻台,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 TVBJ2,http://php.jdshipin.com:8880/smt.php?id=j2_twn#http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2#http://8.137.59.151:3000/laoshu.php?key=hello&id=11
+明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
+明珠台,P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
+香港国际财经台,P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
+香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
 
 臺灣,#genre#
 BBC Lifestyle,P2p://generationnexxxt.com:19806/213ee36f11ba4b9896c8440290ebca3b
+BBC Lifestyle,P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
+BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
+BBC World News,P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
+BBC Earth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
+BBC Earth,P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
+Fox News,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
+Fox News,P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
 民视,P2p://generationnexxxt.com:19806/e85920ffa4de4c2cbab08ad68fd1d5ae
 台视,P2p://generationnexxxt.com:19806/333435199f804b03aad4410d4674aaeb
 Lifetime,P2p://generationnexxxt.com:19806/7d5e25a5a50c47c3b6853d45f9f54d63
@@ -1093,7 +1097,6 @@ ELEVEN体育2台,P2p://generationnexxxt.com:19806/3efe7901f6354886b0c9fde9e22ebe
 博斯运动二台,P2p://generationnexxxt.com:19806/9b8a1167e7484391ab3945d2dcb29170
 HBO强档巨献,P2p://generationnexxxt.com:19806/7199aae1ab984d4fa9562d1babe7ba06
 HBO原创巨献,P2p://generationnexxxt.com:19806/39c393cd52cb4a1b9b51a542f897570e
-BBC Earth,P2p://generationnexxxt.com:19806/bfb6de1d865a44c7a78477c6a0eb0b4a
 Discovery Asia,P2p://generationnexxxt.com:19806/6d031b7fba864255a10992d86da402ca
 Discovery科学频道,P2p://generationnexxxt.com:19806/5eb5ac6d3cf243b69bce16ad8e841668
 DMAX,P2p://generationnexxxt.com:19806/9fcdb313900f49c4b0236628fd939870
@@ -1144,8 +1147,6 @@ Discovery Asia(B),P2p://generationnexxxt.com:19806/65e9a59d000f257fe8f2360919064
 动物星球(B),P2p://generationnexxxt.com:19806/e2f475dd35c74f20b7dc33c3204beb23
 三立iNEWS(B),P2p://generationnexxxt.com:19806/1d4ae63a90fa4f77b866e6f907a2c82c
 霹雳台湾台(B),P2p://generationnexxxt.com:19806/28662f792e3745e6893da9c2f2f94575
-BBC Earth(B),P2p://generationnexxxt.com:19806/14e78adfa4c44280a4ad715bab2532f0
-BBC Lifestyle(B),P2p://generationnexxxt.com:19806/1d87116de5de48f5a94c45900b029545
 影迷数位电影台(B),P2p://generationnexxxt.com:19806/953af90f5a014c74b239928d831a1480
 爱尔达体育4台(B),P2p://generationnexxxt.com:19806/4e215dc71da5483bae1a0316a8c4673e
 博斯高球(B),P2p://generationnexxxt.com:19806/a0b205fa58d04238b5a166760468f88a
@@ -1180,7 +1181,6 @@ HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 戏曲台,P2p://generationnexxxt.com:19806/131a3f2bbae740fc982903c576a97920
 千禧经典台,P2p://generationnexxxt.com:19806/b3069418cdff4c69bb544e4b1ff04d56
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
-明珠台,P2p://generationnexxxt.com:19806/066930b0d2764f05a9b8a0019efe82fe
 now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
 美亚电影台(粤语),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
@@ -1190,12 +1190,9 @@ Hands Up,P2p://generationnexxxt.com:19806/7c21e515d5264c9fa21035456fd5024a
 亚洲剧台,P2p://generationnexxxt.com:19806/08cc25f383fd45e8b063efb2b2708dbc
 功夫台,P2p://generationnexxxt.com:19806/85398bbb5112406b95c5780d36d3a173
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
-香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
 黄金翡翠台,P2p://generationnexxxt.com:19806/1444d681fb1b44d4a20ff001c2bb2f7c
 PopC(B),P2p://generationnexxxt.com:19806/63cdb28090d949ed824376fab51fdd12
 now财经台(B),P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
-明珠台(B),P2p://generationnexxxt.com:19806/6ea5ab8d22f04024b3fac9bfb2b243aa
-香港国际财经台(B),P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
 澳门莲花(B),P2p://generationnexxxt.com:19806/f7ac1f0fdbe64fcc82cee29e0b590242
 澳门-MACAU(B),P2p://generationnexxxt.com:19806/a2bbc4a4feec4168804624c67fdea801
 黄金翡翠台(B),P2p://generationnexxxt.com:19806/99b70f5afa114465aa463db0cfed6569
@@ -1224,7 +1221,6 @@ TVS,P2p://generationnexxxt.com:19806/4061655c06c8499680be50df7bbae42e
 tvN Movies HD,P2p://generationnexxxt.com:19806/2272a99a946d4f7fac4cbf0dc62fd58b
 Astro Awani,P2p://generationnexxxt.com:19806/79faaed4beb040d8afb6e555c929b66a
 CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
-BBC World News,P2p://generationnexxxt.com:19806/68b66fcb526a469c95968a8a62c27f01
 CNBC,P2p://generationnexxxt.com:19806/0c7b37b4c3254709945af2916fe4848b
 Bloomberg TV,P2p://generationnexxxt.com:19806/b7a11fd04a2f4a44acdab32693edee1e
 Astro Ceria,P2p://generationnexxxt.com:19806/aeb0f86165f24fda89427db290065d21
@@ -1262,7 +1258,6 @@ Boomerang(B),P2p://generationnexxxt.com:19806/16af5143b3544fba92d3ea5e7539ee44
 Golf Channel(B),P2p://generationnexxxt.com:19806/1efa1c2e65614ce78d0c6a649fdee46a
 beIN Sports 2(B),P2p://generationnexxxt.com:19806/dbf33217b02d466ebaf2776c2b6ba300
 Astro AOD HD 311(B),P2p://generationnexxxt.com:19806/c453e6e3f2fe46c987b8f55587eb0ce7
-BBC World News(B),P2p://generationnexxxt.com:19806/7fa4771def7c4896b1b9ea7e022f278c
 TV9(B),P2p://generationnexxxt.com:19806/2ded50bc29c04480aaad42823d1fc0f2
 TV3(B),P2p://generationnexxxt.com:19806/b0236f1ba51f4a70814d5806671dc028
 tvN Movies HD(B),P2p://generationnexxxt.com:19806/4cc0c1c2f4204fe0b99ca3552f63894c
@@ -1285,137 +1280,19 @@ Mediacorp U,P2p://generationnexxxt.com:19806/56d9f8daf4584cc5af47c72f471ae9d7
 Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
 Fight Sports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c
 GEM,P2p://generationnexxxt.com:19806/fa0c81ad25f84ef5bdecb3745934a185
-Fox News,P2p://generationnexxxt.com:19806/a6e8a65e41004e1dbc0ee1c762a5d30e
 东森亚洲卫视,P2p://generationnexxxt.com:19806/7a269b8d3db44d3993876ad9ca3bd369
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 TVBS亚洲,P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
 NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
-Fox News(B),P2p://generationnexxxt.com:19806/95842d0c7228442a91d0e8a46a8ee1c9
 Mediacorp U(B),P2p://generationnexxxt.com:19806/56430c3beb8449ee94bd402c0860e524
 Mediacorp 8(B),P2p://generationnexxxt.com:19806/c73aecdd56e54263975801fb3af30ff5
 Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
-埋堆堆,#genre#
-埋堆堆1,https://live.metshop.top/huya/23749096
-埋堆堆2,https://live.metshop.top/huya/23735126
-埋堆堆3,https://live.metshop.top/huya/23865152
-埋堆堆4,https://live.metshop.top/huya/23903196
-埋堆堆5,https://live.metshop.top/huya/23740156
-埋堆堆6,https://live.metshop.top/huya/23728660
-埋堆堆7,https://live.metshop.top/huya/23735153
-埋堆堆8,https://live.metshop.top/huya/23865058
-埋堆堆9,https://live.metshop.top/huya/23734183
-埋堆堆10,https://live.metshop.top/huya/23749068
-埋堆堆11,https://live.metshop.top/huya/23865036
-埋堆堆12,https://live.metshop.top/huya/23740162
-埋堆堆13,https://live.metshop.top/huya/23829474
-埋堆堆14,https://live.metshop.top/huya/23863833
-埋堆堆15,https://live.metshop.top/huya/23903106
-埋堆堆16,https://live.metshop.top/huya/23865025
-埋堆堆17,https://live.metshop.top/huya/23728689
-埋堆堆18,https://live.metshop.top/huya/23824171
-埋堆堆19,https://live.metshop.top/huya/23860057
-埋堆堆20,https://live.metshop.top/huya/23865072
-埋堆堆21,https://live.metshop.top/huya/23734176
-埋堆堆22,https://live.metshop.top/huya/23728651
-埋堆堆23,https://live.metshop.top/huya/23734246
-埋堆堆24,https://live.metshop.top/huya/23865179
-埋堆堆25,https://live.metshop.top/huya/23734196
-埋堆堆26,https://live.metshop.top/huya/23734211
-埋堆堆27,https://live.metshop.top/huya/23865086
-埋堆堆28,https://live.metshop.top/huya/23863796
-埋堆堆29,https://live.metshop.top/huya/23863822
-埋堆堆30,https://live.metshop.top/huya/23749083
-埋堆堆31,https://live.metshop.top/huya/23734243
-埋堆堆32,https://live.metshop.top/huya/23864480
-埋堆堆33,https://live.metshop.top/huya/23746486
-埋堆堆34,https://live.metshop.top/huya/23860049
-埋堆堆35,https://live.metshop.top/huya/23749074
-埋堆堆36,https://live.metshop.top/huya/23863882
-埋堆堆37,https://live.metshop.top/huya/23863778
-埋堆堆38,https://live.metshop.top/huya/23824164
-埋堆堆39,https://live.metshop.top/huya/23829537
-埋堆堆40,https://live.metshop.top/huya/23863809
-埋堆堆41,https://live.metshop.top/huya/23865096
-埋堆堆42,https://live.metshop.top/huya/23863804
-埋堆堆43,https://live.metshop.top/huya/23728630
-埋堆堆44,https://live.metshop.top/huya/23863895
-埋堆堆45,https://live.metshop.top/huya/23863787
-埋堆堆46,https://live.metshop.top/huya/23728637
-埋堆堆47,https://live.metshop.top/huya/23865142
-埋堆堆48,https://live.metshop.top/huya/23903085
-埋堆堆49,https://live.metshop.top/huya/23903183
-埋堆堆50,https://live.metshop.top/huya/23728647
-埋堆堆51,https://live.metshop.top/huya/23746691
-埋堆堆52,https://live.metshop.top/huya/23829447
-埋堆堆53,https://live.metshop.top/huya/23728693
-埋堆堆54,https://live.metshop.top/huya/23903130
-埋堆堆55,https://live.metshop.top/huya/23734223
-埋堆堆56,https://live.metshop.top/huya/23734169
-埋堆堆57,https://live.metshop.top/huya/23865124
-埋堆堆58,https://live.metshop.top/huya/23865186
-埋堆堆59,https://live.metshop.top/huya/23902225
-埋堆堆60,https://live.metshop.top/huya/23903164
-埋堆堆61,https://live.metshop.top/huya/23728674
-埋堆堆1,http://43.128.40.42:198/虎牙直播/huya.php?id=23749096
-埋堆堆2,http://43.128.40.42:198/虎牙直播/huya.php?id=23735126
-埋堆堆3,http://43.128.40.42:198/虎牙直播/huya.php?id=23865152
-埋堆堆4,http://43.128.40.42:198/虎牙直播/huya.php?id=23903196
-埋堆堆5,http://43.128.40.42:198/虎牙直播/huya.php?id=23740156
-埋堆堆6,http://43.128.40.42:198/虎牙直播/huya.php?id=23728660
-埋堆堆7,http://43.128.40.42:198/虎牙直播/huya.php?id=23865058
-埋堆堆8,http://43.128.40.42:198/虎牙直播/huya.php?id=23734183
-埋堆堆9,http://43.128.40.42:198/虎牙直播/huya.php?id=23865036
-埋堆堆10,http://43.128.40.42:198/虎牙直播/huya.php?id=23734246
-埋堆堆11,http://43.128.40.42:198/虎牙直播/huya.php?id=23863796
-埋堆堆12,http://43.128.40.42:198/虎牙直播/huya.php?id=23749083
-埋堆堆13,http://43.128.40.42:198/虎牙直播/huya.php?id=23824164
-埋堆堆14,http://43.128.40.42:198/虎牙直播/huya.php?id=23863804
-埋堆堆15,http://43.128.40.42:198/虎牙直播/huya.php?id=23865142
-埋堆堆16,http://43.128.40.42:198/虎牙直播/huya.php?id=23903183
-埋堆堆17,http://43.128.40.42:198/虎牙直播/huya.php?id=23903130
-埋堆堆18,http://43.128.40.42:198/虎牙直播/huya.php?id=23734169
-埋堆堆19,http://43.128.40.42:198/虎牙直播/huya.php?id=23728674
-埋堆堆20,http://43.128.40.42:198/虎牙直播/huya.php?id=23735153
-埋堆堆21,http://43.128.40.42:198/虎牙直播/huya.php?id=23749068
-埋堆堆22,http://43.128.40.42:198/虎牙直播/huya.php?id=23740162
-埋堆堆23,http://43.128.40.42:198/虎牙直播/huya.php?id=23829474
-埋堆堆24,http://43.128.40.42:198/虎牙直播/huya.php?id=23863833
-埋堆堆25,http://43.128.40.42:198/虎牙直播/huya.php?id=23903106
-埋堆堆26,http://43.128.40.42:198/虎牙直播/huya.php?id=23865025
-埋堆堆27,http://43.128.40.42:198/虎牙直播/huya.php?id=23728689
-埋堆堆28,http://43.128.40.42:198/虎牙直播/huya.php?id=23824171
-埋堆堆29,http://43.128.40.42:198/虎牙直播/huya.php?id=23860057
-埋堆堆30,http://43.128.40.42:198/虎牙直播/huya.php?id=23865072
-埋堆堆31,http://43.128.40.42:198/虎牙直播/huya.php?id=23734176
-埋堆堆32,http://43.128.40.42:198/虎牙直播/huya.php?id=23728651
-埋堆堆33,http://43.128.40.42:198/虎牙直播/huya.php?id=23865179
-埋堆堆34,http://43.128.40.42:198/虎牙直播/huya.php?id=23734196
-埋堆堆35,http://43.128.40.42:198/虎牙直播/huya.php?id=23734211
-埋堆堆36,http://43.128.40.42:198/虎牙直播/huya.php?id=23865086
-埋堆堆37,http://43.128.40.42:198/虎牙直播/huya.php?id=23863822
-埋堆堆38,http://43.128.40.42:198/虎牙直播/huya.php?id=23734243
-埋堆堆39,http://43.128.40.42:198/虎牙直播/huya.php?id=23864480
-埋堆堆40,http://43.128.40.42:198/虎牙直播/huya.php?id=23746486
-埋堆堆41,http://43.128.40.42:198/虎牙直播/huya.php?id=23860049
-埋堆堆42,http://43.128.40.42:198/虎牙直播/huya.php?id=23749074
-埋堆堆43,http://43.128.40.42:198/虎牙直播/huya.php?id=23863882
-埋堆堆44,http://43.128.40.42:198/虎牙直播/huya.php?id=23863778
-埋堆堆45,http://43.128.40.42:198/虎牙直播/huya.php?id=23829537
-埋堆堆46,http://43.128.40.42:198/虎牙直播/huya.php?id=23863809
-埋堆堆47,http://43.128.40.42:198/虎牙直播/huya.php?id=23865096
-埋堆堆48,http://43.128.40.42:198/虎牙直播/huya.php?id=23728630
-埋堆堆49,http://43.128.40.42:198/虎牙直播/huya.php?id=23863895
-埋堆堆50,http://43.128.40.42:198/虎牙直播/huya.php?id=23863787
-埋堆堆51,http://43.128.40.42:198/虎牙直播/huya.php?id=23728637
-埋堆堆52,http://43.128.40.42:198/虎牙直播/huya.php?id=23903085
-埋堆堆53,http://43.128.40.42:198/虎牙直播/huya.php?id=23728647
-埋堆堆54,http://43.128.40.42:198/虎牙直播/huya.php?id=23746691
-埋堆堆55,http://43.128.40.42:198/虎牙直播/huya.php?id=23829447
-埋堆堆56,http://43.128.40.42:198/虎牙直播/huya.php?id=23728693
-埋堆堆57,http://43.128.40.42:198/虎牙直播/huya.php?id=23734223
-埋堆堆58,http://43.128.40.42:198/虎牙直播/huya.php?id=23865124
-埋堆堆59,http://43.128.40.42:198/虎牙直播/huya.php?id=23865186
-埋堆堆60,http://43.128.40.42:198/虎牙直播/huya.php?id=23902225
-埋堆堆61,http://43.128.40.42:198/虎牙直播/huya.php?id=23903164
-埋堆堆62,http://43.128.40.42:198/虎牙直播/huya.php?id=23863818
+
+4K,#genre#
+Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+USA,http://cdn.adultiptv.net/blonde.m3u8?streamType=livеhls
+USA1,http://live.redtraffic.xyz:80/pov.m3u8
+
