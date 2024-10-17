@@ -924,9 +924,6 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰卫视中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 凤凰卫视中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
 凤凰卫视中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰卫视香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-凤凰卫视香港台,http://113.64.145.91:8081/hls/38/index.m3u8
-凤凰卫视香港台,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰卫视香港台,http://223.105.252.60/PLTV/3/224/3221228530/index.m3u8
 凤凰卫视香港台,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰卫视香港台,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhhk
@@ -936,6 +933,9 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰卫视香港台,https://live.125011.xyz/live/h_jydx/二零二四末端午/38/index.m3u8
 凤凰卫视香港台,http://110.185.171.226:96/yximgs.php?id=184
 凤凰卫视香港台,P2p://generationnexxxt.com:19806/51ed8623722a469f8caa15a0e12a6761
+凤凰卫视香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视香港台,http://113.64.145.91:8081/hls/38/index.m3u8
+
 凤凰卫视资讯台,http://223.105.252.60/PLTV/3/224/3221228524/index.m3u8
 凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰卫视资讯台,http://eastscreen.tv/ooooo.php?id=fhzx
@@ -952,20 +952,21 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰卫视资讯台,http://113.64.145.91:8081/hls/36/index.m3u8
 凤凰卫视资讯台,P2p://generationnexxxt.com:19806/d207c4a98e784d1299a9aa63268f21c6
 凤凰卫视资讯台,P2p://generationnexxxt.com:19806/3f7b6ed02526445e89ce536992d04ef5
-TVB翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
-TVB翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
-TVB翡翠台,P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
-TVB翡翠台,P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
+
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台,http://cdn9.1689.us.kg/smt3.1.1.php?id=jade_twn
 TVB翡翠台,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
 TVB翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB翡翠台,http://i2.ekesh.cn:4001/rtp/239.12.22.121:10001
 TVB翡翠台,http://58.250.155.2:8180/TV00000000000000000032@HHZT
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB翡翠台,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=jade_twn
 TVB翡翠台,http://110.185.171.226:96/yximgs.php?id=2
 TVB翡翠台,http://113.64.147.143:8811/hls/36/index.m3u8
+TVB翡翠台,P2p://147.135.39.171:9906/66430d4f000d5d62b0b20b3f5bac56f2
+TVB翡翠台,P2p://147.135.39.171:9906/66430d4f000a06ccb0b20a650b4b5d65
+TVB翡翠台,P2p://generationnexxxt.com:19806/2c1ef45c2c174f5c8df4d049e1cbccfd
+TVB翡翠台,P2p://generationnexxxt.com:19806/06940c129fd5442d9ecfa568fb42859f
 TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB娱乐新闻,P2p://generationnexxxt.com:19806/e77d39049c07479ab0ff57800c6e5b0
