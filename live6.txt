@@ -909,12 +909,21 @@ CHC动作电影,http://[2409:8087:5e00:24::1e]:6060/000000001000/100000000400001
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 
 香港,#genre#
-凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
-凤凰中文,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-凤凰中文,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
-凤凰中文,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
+凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰卫视中文台,http://223.105.252.60/PLTV/3/224/3221228527/index.m3u8
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰卫视中文台,http://eastscreen.tv/ooooo.php?id=fhws
+凤凰卫视中文台,http://l8221706.xiahouyuhan.icu/fhx.php?id=fhzw
+凤凰卫视中文台,http://114.105.171.70:9901/tsfile/live/1063_1.m3u8
+凤凰卫视中文台,http://www.91dos.cn:4022/rtp/239.61.2.184:9092
+凤凰卫视中文台,http://www.jeremyoto.com:82/rtp/233.50.200.191:5140
+凤凰卫视中文台,http://13457610200.8866.org:2018/live/凤凰卫视/index.m3u8
+凤凰卫视中文台,https://live.125011.xyz/live/h_jydx/二零二四末端午/37/index.m3u8
+凤凰卫视中文台,http://110.185.171.226:96/yximgs.php?id=182
+凤凰卫视中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+凤凰卫视中文台,P2p://generationnexxxt.com:19806/d897c583969747fc8a362653e01faf4f
+凤凰卫视中文台,http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://113.64.145.91:8081/hls/38/index.m3u8
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
