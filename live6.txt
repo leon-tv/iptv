@@ -1390,7 +1390,6 @@ TVBS亚洲,P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
 NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
 Mediacorp U(B),P2p://generationnexxxt.com:19806/56430c3beb8449ee94bd402c0860e524
 Mediacorp 8(B),P2p://generationnexxxt.com:19806/c73aecdd56e54263975801fb3af30ff5
-Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 
 
 4K,#genre#
