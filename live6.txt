@@ -1385,7 +1385,6 @@ Euronews,P2p://generationnexxxt.com:19806/43dedaf8037e43ceb06f46baa4391692
 Fight Sports,P2p://generationnexxxt.com:19806/afba524c846148f98685fb42b776435c
 GEM,P2p://generationnexxxt.com:19806/fa0c81ad25f84ef5bdecb3745934a185
 东森亚洲卫视,P2p://generationnexxxt.com:19806/7a269b8d3db44d3993876ad9ca3bd369
-Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 TVBS亚洲,P2p://generationnexxxt.com:19806/7e8e3f90c0434b8d8c0e423e5cb9fbfb
 NBA,P2p://generationnexxxt.com:19806/7d628a22124a41a59ae81c474d07f573
 Mediacorp U(B),P2p://generationnexxxt.com:19806/56430c3beb8449ee94bd402c0860e524
