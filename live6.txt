@@ -21,10 +21,16 @@ CCTV1,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv1hd265/57/20191230/index
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8?&encrypt=967aa7900f57ec8a3e07ff77f11c9afb&HlsSubType=1&HlsProfileId=1&nphaid=0
 CCTV1,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv1hd/2500/01.m3u8?&HlsSubType=&encrypt=
 CCTV1,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000005000031113/1.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000023315/1.m3u8
+CCTV2,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/index.m3u8
+CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 CCTV2,http://175.178.251.183:6689/live/cctv.php?id=cctv2
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?IAS
-CCTV2,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8
 CCTV2,http://123.160.175.63:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://202.100.46.58:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://113.218.189.23:8081/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -38,6 +44,7 @@ CCTV2,http://112.46.85.60:8009/hls/502/index.m3u8
 CCTV2,http://hlsbkmgsplive.miguvideo.com/migu/kailu/cctv2hd265/55/20200407/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CCTV2,http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv2hd/3000/01.m3u8?&HlsSubType=&encrypt=
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+
 CCTV3,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225799/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV3,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8
@@ -385,6 +392,8 @@ CGTN,P2p://generationnexxxt.com:19806/1b5e656dd2604b7e9af1133db1f40955
 海南卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 湖北卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 湖北卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010057/1.m3u8
+山西卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010114/index.m3u8
+山西卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021220/1.m3u8
 山西卫视,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000318/index.m3u8?IAS
 山西卫视,http://39.134.240.3/PLTV/2/224/3221225775/index.m3u8
 山西卫视,http://113.218.189.23:8081/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
