@@ -952,10 +952,12 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+TVB Plus,mitv://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
 TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
 
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
@@ -974,6 +976,8 @@ TVB无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 
 now财经台,P2p://generationnexxxt.com:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
 now财经台,P2p://generationnexxxt.com:19806/415e15f33f8b4b5b95a400a406abd534
+Now财经台,mitv://135.148.104.228:19806/f0dd1f92af2845c2abd2ff29aff2b8ca
+Now财经台,mitv://135.148.104.228:19806/415e15f33f8b4b5b95a400a406abd534
 
 now新闻台,P2p://generationnexxxt.com:19806/86a69c6de155405ba916819e2634aa74
 now新闻台,P2p://generationnexxxt.com:19806/b9ba3f0b06b14fe69ac2cbf51c77d816
@@ -1087,6 +1091,7 @@ ViuTVsix,P2p://generationnexxxt.com:19806/ea75ceca822f454bb858845559d5fc55
 ViuTV,P2p://generationnexxxt.com:19806/956aa1340cd5439689da84cff7a5eaae
 HKC 18,P2p://generationnexxxt.com:19806/e38b0ea6a9174a92bf7f30a36d4e0fe9
 18台,P2p://generationnexxxt.com:19806/2cd619b81446414fb605daa1e86bebd6
+Thrill,P2p://generationnexxxt.com:19806/66ae12410007b5a3e83ae0a247146741$LR•IPV4『线路1』
 Thrill,P2p://generationnexxxt.com:19806/d20fff7aa7d64ab19d2a39da2970734a
 美亚电影台(粤语),P2p://generationnexxxt.com:19806/81ea49b841454e1c901ac507f231a581
 
