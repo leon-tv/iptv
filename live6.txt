@@ -952,6 +952,11 @@ CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 
 TVB Plus,P2p://generationnexxxt.com:19806/faf51cf453a84400be019b14939e49f6
 TVB Plus,P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
 
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
