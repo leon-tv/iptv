@@ -957,12 +957,17 @@ TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
-
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
 TVB无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 TVB无线新闻,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 TVB无线新闻,P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
 TVB无线新闻,P2p://generationnexxxt.com:19806/132be793de424970abd09ef9fe09db07
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbcj
+TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
+TVB无线新闻,http://www.nettvpro.live/hls/tvb.php?id=2
+TVB无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
 
 香港国际财经台,P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
@@ -1473,6 +1478,11 @@ Loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Fashion 4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 纯享4K,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011651/1.m3u8
+北京IPTV4K,http://php.jdshipin.com/TVOD/iptv.php?id=bj4k
+北京IPTV4K,http://221.179.217.76/PLTV/88888888/224/3221226550/1.m3u8
+北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实8K,http://downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
+北京纪实8K,http://111.62.156.15/down.brtvcloud.com/brtv8kapptv/brtv8kapp8ktv.m3u8
 
 咪咕,#genre#
 咪咕影片,https://epg.pw/stream/dfcffa8ffa8b32c7a12ad12974968df1e108ddd9bfcaaa0f76bd1f53f8255259.m3u8
