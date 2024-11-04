@@ -1349,9 +1349,10 @@ TVB Plus,http://r.jdshipin.com/Nr5jq
 TVB Plus,http://r.jdshipin.com/ndGgS
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
 
-
 TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB无线新闻,http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
+TVB无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
+TVB无线新闻,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 TVB无线新闻,P2p://147.135.39.171:9906/665fe3b70003d98a2157b5c1769244d0
 TVB无线新闻,P2p://147.135.39.171:9906/66141a3d000c7a12f94c49ad085f4fe9
 TVB无线新闻,P2p://generationnexxxt.com:19806/669e361b00035adfaa46eb192bdf722e
@@ -1361,6 +1362,8 @@ TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
 TVB无线新闻,http://live.cooltv.top/tv/tvb.php?id=2
 TVB无线新闻,http://www.nettvpro.live/hls/tvb.php?id=2
 TVB无线新闻,http://www.nettvpro.live/hls/tvb.php?id=1
+
+TVB财经体育资讯,P2p://generationnexxxt.com:19806/acf61c067b48468dbdf3ae976c322d1a
 
 香港国际财经台,P2p://generationnexxxt.com:19806/b6594fa379204fc5b11ba4bc3fe7d932
 香港国际财经台,P2p://generationnexxxt.com:19806/bddf0c6b88474142a2cab7219a93af54
