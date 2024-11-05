@@ -408,9 +408,15 @@ CCTV3,http://111.9.163.109:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&au
 CCTV3,http://121.24.98.134:8090/hls/11/index.m3u8
 CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?msisdn=&mtv_session=&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=
 CCTV3,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv3hd/3000/01.m3u8?&HlsSubType=&encrypt=
+
+CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226539/index.m3u8$LR•IPV6
+CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652/index.m3u8$LR•IPV6
+CCTV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8$LR•IPV6
+CCTV4,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000031664/1.m3u8$LR•IPV6
+CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8$LR•IPV6
+
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV4,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000485/index.m3u8?IAS
-CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
 CCTV4,http://123.160.175.63:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://111.225.49.176:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV4,http://123.129.70.178:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -423,8 +429,6 @@ CCTV4,http://220.202.98.51:14901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=1&a
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
-CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8
-CCTV4,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8?
 CCTV4,http://112.123.206.32:808/hls/4/index.m3u8
 CCTV4,http://121.24.98.134:8090/hls/12/index.m3u8
 CCTV4,http://121.24.99.163:8090/hls/12/index.m3u8
